@@ -1,0 +1,1 @@
+skutecznyplan.pl
