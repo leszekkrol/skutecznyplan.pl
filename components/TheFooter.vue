@@ -5,7 +5,7 @@
         <b>Dodatkowe materiały</b><br>
         <ul class="footer-list color-grey">
           <li class="mb0">
-            <a href="https://anchor.fm/skuteczny-plan-podcast" target="_blank" title="Odsłuchaj podcast Skuteczny Plan na Anchor.fm lub Spotify">
+            <a href="https://anchor.fm/skuteczny-plan-podcast" target="_blank" title="Odsłuchaj podcast Skuteczny Plan na Spotify lub Anchor">
               Odsłuchaj podcast <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12"><g fill="#8c8c8c"><path d="M8.293 2.293L4.586 6 6 7.414l3.707-3.707L12 6V0H6l2.293 2.293z"></path><path d="M10 10H2V2h2V0H2a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2V8h-2z"></path></g></svg>
             </a>
           </li>
