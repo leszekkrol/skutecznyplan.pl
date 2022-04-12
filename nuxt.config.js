@@ -101,7 +101,8 @@ export default {
     
   ],
   modules: [
-   '@nuxtjs/sitemap'
+   '@nuxtjs/sitemap',
+   '@nuxtjs/robots'
   ],
   /*
    ** Build configuration
@@ -129,4 +130,9 @@ export default {
       lastmod: new Date()
     }
   },
+  robots: {
+    UserAgent: '*',
+    Allow: '/',
+    Sitemap: 'https://www.skutecznyplan.pl/sitemap.xml'
+  }
 };
