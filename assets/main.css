@@ -119,7 +119,7 @@ button:not(.button-link),
 .tl {text-align: left;}
 .tr {text-align: right;}
 
-.mb0 {margin-bottom: 0}
+.mb0 {margin-bottom: 0 !important}
 .mb1 {margin-bottom: 16px}
 .mt0 {margin-top: 0;}
 .mvhalf {margin-top: 8px;margin-bottom: 8px}
