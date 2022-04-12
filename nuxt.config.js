@@ -14,6 +14,66 @@ export default {
         name: "description",
         content: "Skuteczny Plan - Podcast dla młodych przedsiębiorców",
         author: "Leszek Król"
+      },
+      {
+        hid: 'og:site_name',
+        property: 'og:site_name',
+        content: 'Skuteczny Plan',
+      },
+      {
+        hid: 'og:type',
+        property: 'og:type',
+        content: 'website',
+      },
+      {
+        hid: 'og:title',
+        property: 'og:title',
+        content: 'Skuteczny Plan - Odsłuchaj podcast',
+      },
+      {
+        hid: 'og:description',
+        property: 'og:description',
+        content: 'Rozwiń praktyczne umiejętności zarządzania. Skuteczny Plan to rozmowy o aktualnych wyzwaniach dla firm, produktywnej pracy, nowych technologiach, czy grywalizacji',
+      },
+      {
+        hid: 'og:url',
+        property: 'og:url',
+        content: 'https://www.skutecznyplan.pl',
+      },
+      {
+        hid: 'og:image',
+        property: 'og:image',
+        content: 'https://www.skutecznyplan.pl/assets/img/skuteczny-plan-og.png',
+      },
+      {
+        hid: 't-type',
+        name: 'twitter:card',
+        content: 'summary_large_image',
+      },
+      {
+        hid: 't-type',
+        name: 'twitter:title',
+        content: 'Skuteczny Plan - Odsłuchaj podcast',
+      },
+      {
+        hid: 't-type',
+        name: 'twitter:description',
+        content: 'Rozwiń praktyczne umiejętności zarządzania. Skuteczny Plan to rozmowy o aktualnych wyzwaniach dla firm, produktywnej pracy, nowych technologiach, czy grywalizacji',
+      },
+      {
+        hid: 't-type',
+        name: 'twitter:url',
+        content: 'https://www.skutecznyplan.pl',
+      },
+      {
+        hid: 't-type',
+        name: 'twitter:image',
+        content: 'https://www.skutecznyplan.pl/assets/img/skuteczny-plan-twitter.png',
+      },
+      {
+        hid: 't-type',
+        name: 'twitter:site',
+        content: '@leszekkrol',
       }
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
