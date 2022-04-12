@@ -101,7 +101,7 @@ export default {
     
   ],
   modules: [
-   
+   '@nuxtjs/sitemap'
   ],
   /*
    ** Build configuration
@@ -119,5 +119,14 @@ export default {
         component: 'pages/index.vue'
       },
     ]
+  },
+  sitemap: {
+    hostname: 'https://www.skutecznyplan.pl',
+    gzip: true,
+    defaults: {
+      changefreq: 'daily',
+      priority: 1,
+      lastmod: new Date()
+    }
   },
 };
