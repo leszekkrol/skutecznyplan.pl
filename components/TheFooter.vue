@@ -29,20 +29,14 @@
           </li>
           <li>
             <NuxtLink 
-              :to="{ name: 'general-rules', params: { } }"
+              :to="{ name: 'rules' }"
               class="color-grey" 
-              title="Zasady korzystania"
-              aria-label="Zasady korzystnia">
-                Zasady
-            </NuxtLink>
+              aria-label="Zasady korzystnia">Zasady</NuxtLink>
              · 
             <NuxtLink 
-              :to="{ name: 'privacy-policy', params: { } }"
+              :to="{ name: 'privacy' }"
               class="color-grey" 
-              title="Polityka prywatności"
-              aria-label="Polityka prywatności">
-                Polityka
-            </NuxtLink>
+              aria-label="Polityka prywatności">Polityka</NuxtLink>
           </li>
           <li><small>© 2022 Leszek W. Król</small></li>
         </ul>
