@@ -29,12 +29,12 @@
           </li>
           <li>
             <NuxtLink 
-              :to="{ name: 'rules' }"
+              :to="{ name: 'zasady-korzystania' }"
               class="color-grey" 
               aria-label="Zasady korzystnia">Zasady</NuxtLink>
              · 
             <NuxtLink 
-              :to="{ name: 'privacy' }"
+              :to="{ name: 'polityka-prywatnosci' }"
               class="color-grey" 
               aria-label="Polityka prywatności">Polityka</NuxtLink>
           </li>
