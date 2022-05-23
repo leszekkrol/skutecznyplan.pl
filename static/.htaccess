@@ -1,0 +1,10 @@
+DirectoryIndex index.php index.html index.htm
+
+# Redirect from no-www to www https
+RewriteEngine on
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule (.*) https://www.afwmazury.com.pl%{REQUEST_URI} [R=301,L]
+
+# Map error
+ErrorDocument 404 /404.html
