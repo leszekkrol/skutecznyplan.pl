@@ -2,7 +2,7 @@
   <div>
     <section class="tl pb0">
       <div class="container container--narrow"> 
-        <h1 class="fs48 heading lhheading mb3 color--black">Praktyczna wiedza</h1>
+        <h2 class="fs48 heading lhheading mb3 color--black">Praktyczna wiedza</h2>
 
         <p class="fs24">Właśnie dla Ciebie uruchomiłem "<strong>Skuteczny Plan</strong>" - drogowskaz dla młodych przedsiębiorców i tych, którzy chcą spróbować swoich sił w biznesie.</p>
 
@@ -12,8 +12,9 @@
       </div>
     </section>
 
-    <TheQuotes />
-    <ThePryncypium />
+    <Epizodes />
+    <Quotes />
+    <Pryncypium />
   </div>
 </template>
 

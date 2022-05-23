@@ -147,7 +147,7 @@ export default {
     },
     routes: async () => {
       let articles = state().articles
-      articles = articles.map((item) => `/blog/${item.slug}`);
+      articles = articles.map((item) => `/${item.slug}`);
       console.log(articles);
 
       return articles
