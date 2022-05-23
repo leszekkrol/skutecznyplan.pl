@@ -1,3 +1,5 @@
+import { state } from './store'
+
 export default {
   target: 'static',
   /*
@@ -142,6 +144,13 @@ export default {
       changefreq: 'daily',
       priority: 1,
       lastmod: new Date()
+    },
+    routes: async () => {
+      let articles = state().articles
+      articles = articles.map((item) => `/blog/${item.slug}`);
+      console.log(articles);
+
+      return articles
     }
   },
   robots: {
