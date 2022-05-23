@@ -105,7 +105,8 @@ export default {
   ],
   modules: [
    '@nuxtjs/sitemap',
-   '@nuxtjs/robots'
+   '@nuxtjs/robots',
+   '@nuxtjs/markdownit'
   ],
   /*
    ** Build configuration
@@ -147,5 +148,15 @@ export default {
     UserAgent: '*',
     Allow: '/',
     Sitemap: 'https://www.skutecznyplan.pl/sitemap.xml'
+  },
+  markdownit: {
+    preset: 'default',
+    runtime: true,
+    linkify: true,
+    breaks: true,
+    use: [
+      'markdown-it-div',
+      'markdown-it-attrs'
+    ]
   }
 };
