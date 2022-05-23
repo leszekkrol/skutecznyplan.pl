@@ -1,5 +1,7 @@
 <template>
-  <div v-html="content" lang="md" id="blog"></div>
+  <section class="tl pb0">
+    <div class="container container--narrow" v-html="content" lang="md" id="blog"></div>
+  </section>
 </template>
 
 <script>
