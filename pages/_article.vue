@@ -6,6 +6,7 @@
 
 <script>
   export default {
+    layout: 'layout-blog',
     head() {
       return {
         meta: [
