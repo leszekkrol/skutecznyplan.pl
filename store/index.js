@@ -5,6 +5,12 @@
 export const state = () => ({
   articles: [
     {
+      slug: 'zasada-2-minut-czyli-skuteczne-zarzadzanie-czasem',
+      title: '5. Zasada 2 minut, czyli skuteczne zarządzanie czasem',
+      description: 'Każdy z nas chyba doświadczył stanu przytłoczenia. Nawet najbardziej zorganizowanym osobom zdarza się odłożyć jakieś ze swoich zadań na później. Jak sobie z tym radzić?',
+      filename: 'zasada-2-minut-czyli-skuteczne-zarzadzanie-czasem.md'
+    },
+    {
       slug: 'gdy-zadania-zaczna-ciebie-przytlaczac',
       title: '4. Gdy zadania zaczną Ciebie przytłacząć?',
       description: 'Mówi się o porannych skowronkach, czy nocnych sowach — czyli pewnej zależności naszego indywidualnego rytmu aktywności w których nasz organizm czuje się bardziej produktywny. Jednak czy na pewno tak…',
