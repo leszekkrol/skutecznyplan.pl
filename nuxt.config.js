@@ -121,7 +121,20 @@ export default {
    ** See https://nuxtjs.org/api/configuration-build/
    */
   build: {
-    
+    postcss: {
+      plugins: {
+        tailwindcss: {},
+        autoprefixer: {},
+      },
+    },
+  },
+  googleFonts: {
+    families: {
+      Inter: true
+    }
+  },
+  tailwindcss: {
+    jit: true
   },
   router: {
     prefetchLinks: false,
