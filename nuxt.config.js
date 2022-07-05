@@ -106,7 +106,10 @@ export default {
    ** Nuxt.js dev-modules
    */
   buildModules: [
-    
+    // Doc: https://github.com/nuxt-community/nuxt-tailwindcss
+    '@nuxt/postcss8',
+    // Doc: https://github.com/nuxt-community/google-fonts-module
+    "@nuxtjs/google-fonts",
   ],
   modules: [
    '@nuxtjs/sitemap',
@@ -170,5 +173,11 @@ export default {
       'markdown-it-div',
       'markdown-it-attrs'
     ]
-  }
+  },
+  postcss: {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
+    },
+  },
 };
