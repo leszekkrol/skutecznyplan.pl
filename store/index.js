@@ -34,5 +34,37 @@ export const state = () => ({
       description: 'Jak metoda Ivy Lee zwiększy Twoją produktywność? Prosty sposób na produktywność. Spróbuj metody, która bazuje na bardzo prostych zasadach.',
       filename: 'prosty-sposob-na-produktywnosc.md'
     },
+  ],
+  quotes: [
+    {
+      description: "Leszek stara się wszystko tłumaczyć bardzo po ludzku, zdecydowanie nadaje się na wykładowcę.",
+      author: "Katarzyna",
+      position: "Studentka"
+    },
+    {
+      description: "Przyznam że słuchając Ciebie tego dnia,  poczułam przypływ motywacji na  robienie rzeczy poza firmą",
+      author: "Joanna",
+      position: "Projektanta"
+    },
+    {
+      description: "Leszka słucha się bardzo sympatycznie, delikatnie. Zdecydowanie podcast jest kierowany również do zwykłych ludzi, bez pompatycznych słów",
+      author: "Agnieszka",
+      position: "Studentka"
+    },
+    {
+      description: "Leszek porusza tematy, ktore nie tylko związane są z przedsiębiorczością i biznesem, ale również mają związek z codziennym życiem.",
+      author: "Jacek",
+      position: "Student"
+    },
+    {
+      description: "Leszka słucha się bardzo sympatycznie, delikatnie. Zdecydowanie podcast jest kierowany również do zwykłych ludzi, bez pompatycznych słów",
+      author: "Agnieszka",
+      position: "Studentka"
+    },
+    {
+      description: "Przyznam że słuchając Ciebie tego dnia,  poczułam przypływ motywacji na  robienie rzeczy poza firmą",
+      author: "Joanna",
+      position: "Projektanta"
+    },
   ]
 });
