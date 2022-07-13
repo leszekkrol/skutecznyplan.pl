@@ -5,6 +5,12 @@
 export const state = () => ({
   articles: [
     {
+      slug: 'matrycja-priorytetow-i-zarzadzania-czasem',
+      title: '6. Matrycja priorytetów i zarządzania zasada-2-minut-czyli-skuteczne-zarzadzanie-czasem',
+      description: 'Nikt z nas nie lubi znaleźć się w sytuacji do której nie był uprzednio przygotowany. Kiedy kolejne zadania spadają nam na głowę wymagając przy tym naszej uwagi, a my zaczynamy tracimy kontrolę. Zadania zaczynają zarządzać nami, a powinno być przecież zupełnie na odwrót. Co robić, by mieć więcej czasu na rzeczy ważne oraz ogarnąć chaos?',
+      filename: 'matrycja-priorytetow-i-zarzadzania-czasem.md'
+    },
+    {
       slug: 'zasada-2-minut-czyli-skuteczne-zarzadzanie-czasem',
       title: '5. Zasada 2 minut, czyli skuteczne zarządzanie czasem',
       description: 'Każdy z nas chyba doświadczył stanu przytłoczenia. Nawet najbardziej zorganizowanym osobom zdarza się odłożyć jakieś ze swoich zadań na później. Jak sobie z tym radzić?',
