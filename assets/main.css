@@ -2,6 +2,46 @@
 @tailwind components;
 @tailwind utilities;
 
-#agreement p {
+footer {
+  background: #162428;
+}
+
+#blog h1, #blog h2, #blog h3 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  color: #fff;
+  font-weight: 700;
+}
+
+#blog h1 {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+
+#blog h2 {
+  font-size: 1.75rem;
+  line-height: 1.7rem;
+}
+
+#blog h3 {
+  font-size: 1.25rem;
+  line-height: 1.5rem;
+}
+
+#blog p, #blog ol, #blog ul {
   margin-top: 10px;
+  margin-bottom: 10px;
+  list-style-type: disc;
+}
+
+#blog li {
+  margin-left: 20px;
+}
+
+#blog a {
+  text-decoration: underline;
+}
+
+#blog strong {
+  font-weight: 700;
 }

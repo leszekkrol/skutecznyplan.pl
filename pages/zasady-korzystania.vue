@@ -1,10 +1,10 @@
 <template>
-  <section class="py-20 sm:py-32">
-    <div class="mx-auto max-w-full px-4 sm:px-6 lg:px-8">
-      <div class="mx-auto max-w-2xl lg:max-w-4xl lg:px-12">
-        <h2 class="font-display text-4xl font-medium tracking-tighter text-blue-600 sm:text-5xl">Zasady korzystania</h2>
-        <p class="mt-4 font-display text-xl text-justify tracking-tight text-blue-900">Informacje zamieszczone na naszej stronie internetowej nie mogą zostać uznane za poradę w jakiejkolwiek sprawie. Treści na niej zawarte mają charakter wyłącznie informacyjny, a my nie ponosimy odpowiedzialności z tytułu powstania jakichkolwiek szkód, wynikających z ich interpretacji, bez konsultacji. Wszystkie materiały udostępnione na naszej stronie internetowej są aktualne na dzień ich zamieszczenia. Nie możemy jednak zagwarantować, że będą aktualne czy przydatne w każdym stanie faktycznym i w każdym czasie. Wszelkie treści zawarte na naszej stronie można wykorzystywać wyłącznie do niekomercyjnego użytku prywatnego. Jeśli chcesz wykorzystać je w celach publicznych lub komercyjnych – napisz do nas.</p>
-      </div>
+  <section class="mx-auto max-w-5xl pt-10 px-4 pb-12 sm:py-24">
+    <div class="sm:text-center md:mx-auto lg:col-span-6 lg:text-left text-gray-500 sm:text-lg">
+      
+      <h2 class="mb-4 text-4xl tracking-tight font-bold text-white">Zasady korzystania</h2>
+      <p class="mb-4 font-light">Informacje zamieszczone na naszej stronie internetowej nie mogą zostać uznane za poradę w jakiejkolwiek sprawie. Treści na niej zawarte mają charakter wyłącznie informacyjny, a my nie ponosimy odpowiedzialności z tytułu powstania jakichkolwiek szkód, wynikających z ich interpretacji, bez konsultacji. Wszystkie materiały udostępnione na naszej stronie internetowej są aktualne na dzień ich zamieszczenia. Nie możemy jednak zagwarantować, że będą aktualne czy przydatne w każdym stanie faktycznym i w każdym czasie. Wszelkie treści zawarte na naszej stronie można wykorzystywać wyłącznie do niekomercyjnego użytku prywatnego. Jeśli chcesz wykorzystać je w celach publicznych lub komercyjnych – napisz do nas.</p>
+     
     </div>
   </section>
 </template>

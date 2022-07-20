@@ -1,6 +1,6 @@
 <template>
   <div>
-    <About />
+    <Epizodes />
     <Quotes />
     <Author />
   </div>
