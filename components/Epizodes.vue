@@ -12,8 +12,8 @@
                 </span>
                 <span class="text-sm">14 days ago</span>
             </div>
-            <h2 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><a href="#">{{ item.title }}</a></h2>
-            <p class="mb-5 font-light text-gray-500 dark:text-gray-400">{{ item.description }}</p>
+            <h2 class="mb-2 text-2xl font-bold tracking-tight text-white"><a href="#">{{ item.title }}</a></h2>
+            <p class="mb-5 font-light text-gray-400">{{ item.description }}</p>
             <NuxtLink class="text-gray-400 hover:underline" :to="`/${item.slug}`">Czytaj więcej 🔖</NuxtLink>  
         </article>   
 

@@ -136,26 +136,6 @@ export default {
   tailwindcss: {
     jit: true
   },
-  router: {
-    prefetchLinks: false,
-    routes: [
-      {
-        name: 'index',
-        path: '/',
-        component: 'pages/index.vue'
-      },
-      {
-        name: 'privacy-policy',
-        path: '/polityka-prywatnosci',
-        component: 'pages/privacy-policy.vue'
-      },
-      {
-        name: 'index',
-        path: '/zasady-korzystania',
-        component: 'pages/general-rules.vue'
-      },
-    ]
-  },
   sitemap: {
     hostname: 'https://www.skutecznyplan.pl',
     gzip: true,
