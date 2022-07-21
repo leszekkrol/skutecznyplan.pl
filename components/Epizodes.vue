@@ -4,7 +4,7 @@
       <div class="grid gap-8 md:grid-cols-2">
         
 
-        <article class="p-6 bg-gray-800 border border-transparent shadow-md" v-for="item in $store.state.articles">
+        <article class="p-6 bg-gray-800 border border-transparent shadow-md rounded-2xl " v-for="item in $store.state.articles">
 
             <div class="flex justify-between items-center mb-5 text-gray-500">
                 <span class="bg-gray-700 text-gray-400 text-xs font-medium uppercase tracking-wide text-gray-300 inline-flex items-center px-2.5 py-0.5 rounded ">

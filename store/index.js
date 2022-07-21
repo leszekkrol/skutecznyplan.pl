@@ -18,7 +18,7 @@ export const state = () => ({
     },
     {
       slug: 'gdy-zadania-zaczna-ciebie-przytlaczac',
-      title: '4. Gdy zadania zaczną Ciebie przytłacząć?',
+      title: '4. Gdy zadania zaczną Ciebie przytłaczać?',
       description: 'Mówi się o porannych skowronkach, czy nocnych sowach — czyli pewnej zależności naszego indywidualnego rytmu aktywności w których nasz organizm czuje się bardziej produktywny. Jednak czy na pewno tak…',
       filename: 'gdy-zadania-zaczna-ciebie-przytlaczac.md'
     },
