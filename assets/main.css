@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-footer {
-  background: #162428;
-}
-
 #blog h1, #blog h2, #blog h3 {
   margin-top: 30px;
   margin-bottom: 10px;
