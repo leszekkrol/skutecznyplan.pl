@@ -1,5 +1,5 @@
 <template>
-  <section class="mx-auto max-w-5xl px-4 pb-12 sm:py-24">
+  <section class="mx-auto max-w-5xl px-4  py-24">
     <div class="grid gap-8 md:grid-cols-2">
       <article class="p-6 bg-gray-800 border border-transparent shadow-md rounded-2xl " v-for="item in $store.state.articles">
         <div class="flex justify-between items-center mb-5 text-gray-500">

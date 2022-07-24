@@ -1,7 +1,6 @@
 <template>
   <section class="mx-auto max-w-5xl px-4 py-2">
-
-    <ul role="list" class="flex items-center justify-center justify-between px-36">
+    <ul role="list" class="flex items-center justify-center justify-between px-6 xs:px-12 sm:px-36">
       <li class="flex">
         <a href="https://open.spotify.com/show/0fmWamBZAUB8n6mEuLOJYP">
           <img alt="Skuteczny Plan - podcast na Spotify" src="~/assets/img/Podcast-Spotify-Icon.png" style="height: 65px !important">
@@ -18,7 +17,6 @@
         </a>
       </li>
     </ul>
-
   </section>
 </template>
 

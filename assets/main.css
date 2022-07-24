@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  background-color: rgb(17 24 39)
+}
+
 #blog h1, #blog h2, #blog h3 {
   margin-top: 30px;
   margin-bottom: 10px;
