@@ -45,3 +45,7 @@ body {
 #blog strong {
   font-weight: 700;
 }
+
+footer {
+  text-underline-offset: .2em;
+}
