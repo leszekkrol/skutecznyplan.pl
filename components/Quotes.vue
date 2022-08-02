@@ -1,10 +1,10 @@
 <template>
   <section class="py-20 sm:py-32">
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-      <div class="lg:text-center mb-24">
+      <div class="text-center mb-24">
         <p class="text-sm font-semibold uppercase tracking-wide text-gray-300 sm:text-base lg:text-sm xl:text-base">Społeczność ⭐️</p>
-        <h3 class="mt-2 leading-loose font-extrabold tracking-tight text-gray-50 sm:text-4xl text-4xl sm:leading-10 lg:leading-relaxed lg:text-6xl">Co mówią słuchacze?</h3>
-        <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-300 lg:mx-auto">Moja społeczność to każdy, kto chce zwiększyć swoją produktywność i efektywność podczas codziennej pracy. Siegają po tą trudno dostępną, praktyczną i unikalną wiedzę: twórcy, pisarze, programiści, marketerzy, agencje, firmy programistyczne, społeczności, podcasterzy...</p>
+        <h3 class="mt-2 leading-loose font-extrabold tracking-tight text-header sm:text-4xl text-4xl sm:leading-10 lg:leading-relaxed lg:text-6xl">Co mówią słuchacze?</h3>
+        <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-300 mx-auto">Moja społeczność to każdy, kto chce zwiększyć swoją produktywność i efektywność podczas codziennej pracy. Siegają po tą trudno dostępną, praktyczną i unikalną wiedzę: twórcy, pisarze, programiści, marketerzy, agencje, firmy programistyczne, społeczności, podcasterzy...</p>
       </div>
       <ul class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-6 sm:gap-8 lg:mt-20 lg:max-w-none lg:grid-cols-3">
         <li v-for="item in $store.state.quotes" >
