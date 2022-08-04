@@ -32,10 +32,15 @@ body {
   color: white;
 }
 
+.bg-fancy {
+  background: url("img/background.png") center center;
+  background-size: cover;
+}
+
 #blog h1, #blog h2, #blog h3 {
+  color: #FBAB7E;
   margin-top: 30px;
   margin-bottom: 10px;
-  color: #fff;
   font-weight: 700;
 }
 
@@ -70,6 +75,10 @@ body {
 
 #blog strong {
   font-weight: 700;
+}
+
+#blog img {
+  max-height: 500px;
 }
 
 footer {

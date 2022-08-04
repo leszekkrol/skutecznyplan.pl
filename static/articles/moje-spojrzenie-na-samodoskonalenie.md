@@ -1,12 +1,4 @@
-![](https://miro.medium.com/max/1400/1*XJ2udDzqdx9JjqMc55Rv5A.png)Skuteczny Plan Podcast, [odsłuchaj teraz](https://anchor.fm/skuteczny-plan-podcast)
-
-Moje spojrzenie na samodoskonalenie
-===================================
-
 Zauważyłem, że początkujące osoby, czy to będąc na studiach, czy to otwierając swój pierwszy biznes starają się zrealizować swoje pierwsze cele za wszelką cenę, nie patrząc przy tym na koszty i negatywny wpływ niektórych działań. Nie mniej jednak, życie jednak daje nam lekcje i każda następne przedsięwzięcie, mimo że czasami dużo kosztuje, pozwala zdobyć doświadczenie i wiedzę, która przydaje się przy realizacji kolejnych wyzwaniach. To właśnie dzięki doświadczeniu podświadomie wiemy, czego konkretnie unikać lub jakie rozwiązania zastosować, aby szybciej osiągnąć zamierzony rezultat — ale czekaj, czy tak właśnie nie tworzą się procesy? Tak, mam na myśli te procesy, które stosujesz w swojej codziennej pracy. Czasami nie są one idealne, ani wydajne, jednak to dzięki nim podążasz od punktu A do B. To właśnie dlatego powstała filozofia Kaizen, wywodząca się z japońskiej kultury i praktyki zarządzania, która odnosi się do ciągłej i niekończącej się poprawy funkcjonujących procesów w przedsiębiorstwie, czy nawet w Twoim codziennym życiu.
-
-Podcast do czytania
-===================
 
 Zauważ, że każdego dnia jesteś związany z wieloma grupami społecznymi tj. rodzina, znajomi, pracownicy z firmy, koleżanki i koledzy ze studiów, współpracownicy ze stowarzyszenia, czy choćby członkowie różnorakich klubów. Ze względu na ciągle zmieniający się świat każda z grup społecznych w jakiej jesteśmy wymaga ciągłego doskonalenia w każdej sferze życia. A czym właściwie jest dążenie do doskonałości? Ja doskonałość nazywam procesem, który odbywa się w oparciu o ustaloną listę kroków, która selektywnie eliminuje wszelkie zauważone niezgodności, tym samym ucząc się i wyciągając wnioski z każdego dnia jaki przeżyliśmy. Zasadniczo doskonalenie zgodnie z zasadami Kaizen odbywa się powoli, a sam proces przynosi wymierne wyniki w dłuższej perspektywie czasowej, kształtując takie cechy jak: organizacja czasu pracy, samodyscyplina, rozwój umiejętności, szukanie rozwiązań, czy umiejętność uczestnictwa w pracy zespołowej.
 

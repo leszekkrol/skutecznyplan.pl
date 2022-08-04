@@ -1,7 +1,15 @@
 <template>
-  <section class="mx-auto max-w-5xl pt-10 px-4 pb-12 sm:py-24">
-    <div class="sm:text-center md:mx-auto lg:col-span-6 lg:text-left text-gray-400 sm:text-lg" v-html="content" lang="md" id="blog"></div>
-  </section>
+  <div>
+    <Header
+      tag="podcast"
+      :title="this.article.title"
+      :description="this.article.description"
+     />
+    <Platforms />
+    <section class="mx-auto max-w-5xl pt-10 px-4 pb-12 sm:py-24">
+      <div class="sm:text-center md:mx-auto lg:col-span-6 lg:text-left text-gray-400 sm:text-lg" v-html="content" lang="md" id="blog"></div>
+    </section>
+  </div>
 </template>
 
 <script>

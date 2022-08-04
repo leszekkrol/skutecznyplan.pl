@@ -1,14 +1,6 @@
-![](https://miro.medium.com/max/1400/1*k_oGQcyMSDQEyBH4UfDpwA.png)Skuteczny Plan Podcast, [odsłuchaj teraz](https://anchor.fm/skuteczny-plan-podcast)
-
-Prosty sposób na produktywność
-==============================
-
 Ostatnie dwa lata stały się czasem bezprecedensowych działań, w których to my ludzie braliśmy czynny, a czasem i bierny udział. Trzeba zaznaczyć, iż ciągle zmieniające się i nieprzewidywalne otoczenie wpłynęło dość mocno na naszą efektywność. Szczególnie w pierwszych tygodniach pandemii, bardzo ciężko było zaplanować swój dzień pracy.
 
 Nie mniej jednak odczuwaliśmy, że niektóre osoby z naszego otoczenia są szybsze, sprytniejsze i pewniejsze w swoich działaniach, a przecież każdy z nas posiada ten sam wspólny element — jest nim czas jakim dysponujemy każdego dnia. Codziennie przecież mamy do dyspozycji 24 godziny i to jak je wykorzystamy zależy wyłącznie od nas samy. Często jednak mierzymy się z poczuciem zmarnowanego dnia, które dla wielu osób jest wciąż niezwykle frustrujące. Pewnie często to miałeś prawda?
-
-Podcast do czytania
-===================
 
 Przenieśmy się najpierw do roku 1918, kiedy Charles Schwab kierujący Bethlehem Steel Corporation (drugą co do wielkości firmą w stanach produkująca stal) postanowił zatrudnić konsultanta, który zajmie się podniesieniem produktywności w jego firmie. Tym konsultantem został Ivy — czterdziestoletni specjalista ds. reklamy i pionier w zakresie Public Relation. Charles Schwab, chciał zwiększyć produktywność swoich pracowników, poprosił więc Ivy’ego Lee o pomoc. Ten przystał na to, podkreślając, że potrzebuje 15-minutowej rozmowy z każdym pracownikiem. Nie określił on jednak swojego wynagrodzenia, zaznaczył, że jeśli Schwab zauważy efekty, sam prześle mu kwotę, którą uzna za odpowiednią. Trzy miesiące później Lee otrzymał czek opiewający na 25 tysięcy dolarów, które są równowartością dzisiejszych 400 tysięcy dolarów. Co takiego przekazał Ivy Lee pracownikom? Na czym zatem polega jego metoda?
 

@@ -1,14 +1,4 @@
-![](https://miro.medium.com/max/800/1*hhY6SBAd4DM5syQGA9k7TQ.jpeg)Skuteczny Plan Podcast, [odsłuchaj teraz](https://anchor.fm/skuteczny-plan-podcast)
-
-**Zasada 2 minut, czyli skuteczne zarządzanie czasem**
-======================================================
-
 Każdy z nas chyba doświadczył stanu przytłoczenia. Nawet najbardziej zorganizowanym osobom zdarza się odłożyć jakieś ze swoich zadań na później. Według wielu przeprowadzonych badań, potrafimy odkładać w czasie nawet proste i szybkie zadania powodując ich nadmierne gromadzenie się. W pewnym momencie orientujemy się, że musimy zrobić kilka lub nawet kilkanaście rzeczy w jednej chwili, tworząc przy tym niepotrzebną sytuację stresową. Jak nad tym zapanować?
-
-Skuteczny Plan Podcast, [odsłuchaj teraz](https://anchor.fm/skuteczny-plan-podcast)
-
-Podcast do czytania
-===================
 
 Przed przystapieniem do realizacji określonego zadania, zazwyczaj rozpoczynamy od planowania. Zdarza się jednak, że czynność którą mamy wykonać jej nie wymaga i **okazuje się, że tak naprawdę myślenie zajęło nam dłużej niż skuteczne działanie**.
 

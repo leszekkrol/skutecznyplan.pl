@@ -1,13 +1,13 @@
 <template>
-  <footer class="mx-auto max-w-5xl px-4 pb-6 sm:py-24">
+  <footer class="mx-auto max-w-5xl px-4 py-24">
     <div class="mx-auto max-w-screen-xl">
       <h2 class="mb-10 text-3xl tracking-tight leading-3 font-extrabold text-gray-600">
         The fine print.
       </h2>
-      <p class="text-sm text-justify text-left text-gray-700">
+      <p class="text-sm text-justify text-left text-gray-600">
         Informacje zamieszczone na naszej stronie internetowej nie mogą zostać uznane za poradę w jakiejkolwiek sprawie. Treści na niej zawarte mają charakter wyłącznie informacyjny, a my nie ponosimy odpowiedzialności z tytułu powstania jakichkolwiek szkód, wynikających z ich interpretacji, bez konsultacji. Wszystkie materiały udostępnione na naszej stronie internetowej są aktualne na dzień ich zamieszczenia. Nie możemy jednak zagwarantować, że będą aktualne czy przydatne w każdym stanie faktycznym i w każdym czasie. Wszelkie treści zawarte na naszej stronie można wykorzystywać wyłącznie do niekomercyjnego użytku prywatnego. Jeśli chcesz wykorzystać je w celach publicznych lub komercyjnych – napisz do nas.
       </p>
-      <ul class="flex flex-wrap justify-left my-6 text-white">
+      <ul class="flex flex-wrap justify-left my-6 text-gray-400">
         <li>
           <NuxtLink to="/pryncypia" title="Pryncypia Skuteczny Plan Podcast" class="mr-8 underline">Pryncypia</NuxtLink>
         </li>

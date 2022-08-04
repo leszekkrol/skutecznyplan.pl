@@ -1,12 +1,4 @@
-![](https://miro.medium.com/max/1400/1*O1VXS_1DRRoFnpPn1TRYCQ.png)Skuteczny Plan Podcast, [odsłuchaj teraz](https://anchor.fm/skuteczny-plan-podcast)
-
-Zacznij kontrolować swoje ryzyko
-================================
-
 Zastanów się czy przygotowując się do nowego przedsięwzięcia, poświęciłeś choć chwilę, aby zastanowić się czy ty lub twoja firma jest na nie wystarczająco przygotowana, aby w pełni podjąć się jego realizacji? Czy zdażyło się Tobie bez zastanowienia i przeanalizowania problemu podjąć inicjatywę, po czym niespodziewanie napotkałeś trudności? Impulsywne działanie sprawdziło się? Pewnie nie… Dlaczego tak się dzieje, że podejmujemy się realizacji rzeczy, których możemy nie być w stanie zrealizować? Wiele osób, rownież wśród moich znajomych na samo słowo “ryzyko” dostaje palpitacji serca, ale czy słusznie? Codziennie każdy z nas podejmuje ryzyko, proces ten trwa przez całe nasze życie. Przecież nikt z nas nie zna swojej przyszłości, nie wiemy co wydarzy się tuż rogiem. Szybki styl życia tak nas przyzwyczaił, że nie zauważamy towarzyszącego nam ryzyka, mimo to co chwilę podjęta przez nas decyzja, czy droga działania wzbudza w nas lęk i stres. Pamiętajmy, co powiedział Mark Twain „Odwaga to panowanie nad strachem, a nie brak strachu”.
-
-Podcast do czytania
-===================
 
 Wyobraź sobie, że właśnie teraz stoisz przed podjęciem ważnej decyzji. Myśląc nad rozwiązaniem zapewne będziesz analizował każde możliwe wyjście z problemu zakładając wszelkie zyski i straty, ale czy na pewno taki sposób myślenia jest odpowiedni? Zauważ, że w przypadku porażki otrzymujesz zawsze cenną lekcję na przyszłość, a w przypadku powodzenia satysfakcje i wiedzę jaką wypracowałeś, aby wykonać przyjęte zadanie. Nigdy nie zostajesz z pustymi rękami. Można by stwierdzić, że podejmując ryzyko zawsze coś zyskujesz! Dlatego właśnie prawdziwie przegranym jest tyko ten, kto nigdy nie spróbował.
 

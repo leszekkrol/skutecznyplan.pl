@@ -1,7 +1,7 @@
 <template>
   <section class="bg-gray-800">
-    <div class="mx-auto max-w-5xl pt-10 px-4 pb-12 sm:py-24">
-      <div class="sm:text-center md:mx-auto lg:col-span-6 lg:text-left text-gray-400 sm:text-lg">
+    <div class="mx-auto max-w-5xl pt-10 px-8 pb-12 sm:py-24">
+      <div class="md:mx-auto lg:col-span-6 lg:text-left text-gray-400 sm:text-lg">
       
         <h2 class="mb-4 text-4xl tracking-tight font-bold text-white">Polityka prywatności</h2>
         <p class="mb-4 font-light">Do zasad poufności przykładamy najwyższą wagę, a dbałość o tajemnice przedsiębiorstwa i informacje poufne naszych klientów jest dla nas wyznacznikiem profesjonalizmu. Dlatego też nasi pracownicy przechodzą odpowiednie szkolenia w tym zakresie, a w firmie stosowane są nowoczesne środki techniczne w celu zabezpieczenia powierzonych nam informacji poufnych.</p>

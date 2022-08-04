@@ -1,15 +1,3 @@
-![](https://miro.medium.com/max/1400/1*VBIj7zi15BXO_1htwRADVw.png)Skuteczny Plan Podcast, [odsłuchaj teraz](https://anchor.fm/skuteczny-plan-podcast)
-
-Matryca priorytetów i zarządzania czasem
-========================================
-
-Nikt z nas nie lubi znaleźć się w sytuacji do której nie był uprzednio przygotowany. Kiedy kolejne zadania spadają nam na głowę wymagając przy tym naszej uwagi, a my zaczynamy tracimy kontrolę. Zadania zaczynają zarządzać nami, a powinno być przecież zupełnie na odwrót. Co robić, by mieć więcej czasu na rzeczy ważne oraz ogarnąć chaos?
-
-Skuteczny Plan Podcast, [odsłuchaj teraz](https://anchor.fm/skuteczny-plan-podcast)
-
-Podcast do czytania
-===================
-
 Wyróżniamy dwa główne cele zarządzania czasem. Pierwszy to lepsze wykorzystywanie dostępnego czasu, a drugi zaś to ograniczenie jego marnowania. Aby zrealizować oba cele i podnieść przy tym swoją produktywność możesz wykorzystać Maciej Eisenhowera, która potocznie zwana jest matrycą priorytetów i zarządzania czasem.
 
 Od czego się zaczeło?
