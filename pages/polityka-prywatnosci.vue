@@ -53,6 +53,21 @@
 
 <script>
   export default {
+    head() {
+      return {
+        meta: [
+          { hid: 'title', name: "title", content: "Polityka prywatności | Skuteczny Plan" },
+          { hid: "description", name: "description", content: "Do zasad poufności przykładamy najwyższą wagę, a dbałość o tajemnice przedsiębiorstwa i informacje poufne naszych klientów jest dla nas wyznacznikiem profesjonalizmu." },
+          { hid: "twitter:image", name: "twitter:image", content: "https://www.skutecznyplan.pl/skuteczny-plan-twitter.png" },
+          { hid: "twitter:card", name: "twitter:card", content: "summary_large_image" },
+          { hid: "og:image",name: "og:image", content: "https://www.skutecznyplan.pl/skuteczny-plan-og.png" },
+          { hid: "og:title", name: "og:title", content: "Polityka prywatności | Skuteczny Plan"  },
+          { hid: "og:description", name: "og:description", content: "Do zasad poufności przykładamy najwyższą wagę, a dbałość o tajemnice przedsiębiorstwa i informacje poufne naszych klientów jest dla nas wyznacznikiem profesjonalizmu." },
+          { hid: "description", name: "description", content: "Do zasad poufności przykładamy najwyższą wagę, a dbałość o tajemnice przedsiębiorstwa i informacje poufne naszych klientów jest dla nas wyznacznikiem profesjonalizmu." },
+          { hid: "og:url", name: "og:url", content: "https://www.skutecznyplan.pl" + this.$route.fullPath }
+        ]
+      };
+    },
     data() {
       return {
         
