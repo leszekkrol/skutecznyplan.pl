@@ -4,6 +4,7 @@
       tag="podcast"
       :title="this.article.title"
       :description="this.article.description"
+      :url="this.article.url"
      />
     <Platforms />
     <section class="mx-auto max-w-5xl pt-10 px-4 pb-12 sm:py-24">

@@ -10,14 +10,14 @@ export default {
    ** See https://nuxtjs.org/api/configuration-head
    */
   head: {
-    title: "Skuteczny Plan - Podcast dla młodych przedsiębiorców",
+    title: "Skuteczny Plan - Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       {
         hid: "description",
         name: "description",
-        content: "Skuteczny Plan - Podcast dla młodych przedsiębiorców",
+        content: "Skuteczny Plan - Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania",
         author: "Leszek Król"
       },
       {
@@ -38,7 +38,7 @@ export default {
       {
         hid: 'og:description',
         property: 'og:description',
-        content: 'Rozwiń praktyczne umiejętności zarządzania. Skuteczny Plan to rozmowy o aktualnych wyzwaniach dla firm, produktywnej pracy, nowych technologiach, czy grywalizacji',
+        content: 'Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania. Skuteczny Plan to rozmowy o aktualnych wyzwaniach dla firm, produktywnej pracy, nowych technologiach, czy grywalizacji',
       },
       {
         hid: 'og:url',
@@ -63,7 +63,7 @@ export default {
       {
         hid: 't-type',
         name: 'twitter:description',
-        content: 'Rozwiń praktyczne umiejętności zarządzania. Skuteczny Plan to rozmowy o aktualnych wyzwaniach dla firm, produktywnej pracy, nowych technologiach, czy grywalizacji',
+        content: 'Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania. Skuteczny Plan to rozmowy o aktualnych wyzwaniach dla firm, produktywnej pracy, nowych technologiach, czy grywalizacji',
       },
       {
         hid: 't-type',
