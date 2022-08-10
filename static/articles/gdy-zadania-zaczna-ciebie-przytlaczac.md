@@ -1,5 +1,9 @@
 Mówi się o porannych skowronkach, czy nocnych sowach — czyli pewnej zależności naszego indywidualnego rytmu aktywności w których nasz organizm czuje się bardziej produktywny. Jednak czy na pewno tak jest? Naukowcy dowiedli, że największa wydolność umysłowa u większości populacji przypada najczęściej w godzinach przedpołudniowych między 9:00 a 12:00 a także późnym popołudniem 16:30–18:00. Nazwali to **złotym czasem**, momentem w którym nasza aktywność mózgu jest wzmożona, wpływając na sprawniejszą reakcję w działaniu. To własnie w złotych okresach warto rozplanować sobie najważnijesze zadania.
 
+
+Podcast do czytania
+===================
+
 Pamiętajmy, że nasz mózg to nie komputer, on również potrzebuje stosownej regeneracji i odpoczynku, dlatego starajmy się nie przeciągać swojej pracy. W pewnych momentach wyczerpania dla naszego organizmu jakiekolwiek procesy uczenia się i zapamiętywania stają się niemożliwe. Dlatego też warto wziąć pod uwagę swój własny rytm i realizować zadania również w zgodzie z nim.
 
 Proces planowania ma nam pomóc najdokładniej przewidzieć nasz proces tego, co i jak chcemy zrealizować. Planowanie samo w sobie jest trudną dziedziną, jednak zawsze warto podjąć wysiłek, dzięki któremu będziemy mogli uniknąć w przyszłości kryzysu czasowego, który spowoduje w naszym życiu stałe zagonienie i dezorientaję. Zapamiętaj, że wszelkie kryzysy czasu są stresujące nie tylko dla Ciebie, lecz również mają wpływ na twoje otoczenie tj. rodzinę, przyjaciół czy pracowników. Na pewno nie raz doświadczyłeś tego na własnej skórze i dalej myślisz, że planowanie nie jest tobie potrzebne? Pomyśl jednak o tym, że każdy ma swoje granice wytrzymałości. Pamiętaj, że planowanie swojego dnia co do minuty równiez nie jest dobrym pomysłem. Jak więc do tego podejść?

@@ -5,6 +5,14 @@
 export const state = () => ({
   articles: [
     {
+      slug: 'technika-skutecznego-robienia-postepow',
+      title: '7. Technika skutecznego robienia postępów',
+      description: 'Każdy z nas ma cele, jednak co zrobić kiedy słabo idzie ich realizacja, a my przestajemy widzieć postępy? Technika, którą poznacie w dzisiejszym odcinku gwarantuje jasne zasady jak przełamać własną stagnację.',
+      filename: 'technika-skutecznego-robienia-postepow.md',
+      url: '',
+      publish_date: '2022.08.10 09:10'
+    },
+    {
       slug: 'matrycja-priorytetow-i-zarzadzania-czasem',
       title: '6. Matrycja priorytetów i zarządzania czasem',
       description: 'Nikt z nas nie lubi znaleźć się w sytuacji do której nie był uprzednio przygotowany. Kiedy kolejne zadania spadają nam na głowę wymagając przy tym naszej uwagi, a my zaczynamy tracimy kontrolę. Zadania zaczynają zarządzać nami, a powinno być przecież zupełnie na odwrót. Co robić, by mieć więcej czasu na rzeczy ważne oraz ogarnąć chaos?',

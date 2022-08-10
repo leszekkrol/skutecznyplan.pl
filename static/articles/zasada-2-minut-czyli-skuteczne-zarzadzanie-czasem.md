@@ -1,5 +1,9 @@
 Każdy z nas chyba doświadczył stanu przytłoczenia. Nawet najbardziej zorganizowanym osobom zdarza się odłożyć jakieś ze swoich zadań na później. Według wielu przeprowadzonych badań, potrafimy odkładać w czasie nawet proste i szybkie zadania powodując ich nadmierne gromadzenie się. W pewnym momencie orientujemy się, że musimy zrobić kilka lub nawet kilkanaście rzeczy w jednej chwili, tworząc przy tym niepotrzebną sytuację stresową. Jak nad tym zapanować?
 
+
+Podcast do czytania
+===================
+
 Przed przystapieniem do realizacji określonego zadania, zazwyczaj rozpoczynamy od planowania. Zdarza się jednak, że czynność którą mamy wykonać jej nie wymaga i **okazuje się, że tak naprawdę myślenie zajęło nam dłużej niż skuteczne działanie**.
 
 Odkładanie prostych zadań tj. odpowiadanie na e-mail klienta, telefon do mechanika, czy wstawienie pralki może spowodować, że staniemy czuć się przytłoczeni. O rety, tyle rzeczy mam do zrobienia… to zdecydowanie za dużo! Dość łatwo można sobie z tymi problemami poradzić, stosując tak zwaną zasadę dwóch minut.
