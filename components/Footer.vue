@@ -9,13 +9,25 @@
       </p>
       <ul class="flex flex-wrap justify-left my-6 text-gray-400">
         <li>
-          <NuxtLink to="/pryncypia" title="Pryncypia Skuteczny Plan Podcast" class="mr-8 underline">Pryncypia</NuxtLink>
+          <NuxtLink 
+            to="/pryncypia" 
+            title="Pryncypia Skuteczny Plan Podcast" 
+            data-splitbee-event="Pryncypia"
+            class="mr-8 underline">Pryncypia</NuxtLink>
         </li>
         <li>
-          <NuxtLink to="/polityka-prywatnosci" title="Polityka prywatności serwisu" class="mr-8 underline">Polityka prywatności</NuxtLink>
+          <NuxtLink 
+            to="/polityka-prywatnosci" 
+            title="Polityka prywatności serwisu"
+            data-splitbee-event="Polityka prywatności" 
+            class="mr-8 underline">Polityka prywatności</NuxtLink>
         </li>
         <li>
-          <a href="https://dhosting.pl/pp-leszekkrol" title="Polityka prywatności serwisu" class="underline">Dumnie zasilany przez dhosting.pl</a>
+          <a 
+            href="https://dhosting.pl/pp-leszekkrol" 
+            title="Polityka prywatności serwisu" 
+            data-splitbee-event="Polecam dhosting.pl" 
+            class="underline">Dumnie zasilany przez dhosting.pl</a>
         </li>
       </ul>
       <span class="text-sm text-gray-500 sm:text-center">&copy; 2021-2022 <a href="https://www.leszekkrol.com" title="Leszek Wojciech Król - Strona internetowa" class="hover:underline">Leszek W. Król</a>. Wszelkie prawa zastrzeżone.</span>

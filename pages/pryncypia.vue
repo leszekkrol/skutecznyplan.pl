@@ -2,7 +2,6 @@
   <section class="bg-gray-800">
     <div class="mx-auto max-w-5xl pt-10 px-8 pb-12 sm:py-24">
       <div class="md:mx-auto lg:col-span-6 lg:text-left text-gray-400 sm:text-lg">
-
         <h2 class="mb-4 text-4xl tracking-tight font-bold text-white">Pryncypia</h2>
         <p class="mb-4 font-light">Pryncypia [z łacińskiego prīncipium, „początek, fundament”]. Podstawowa prawda lub propozycja, która służy jako podstawa systemu przekonań, zachowań lub łańcucha rozumowania.</p>
         <ul class="mb-4 font-light list-disc ml-5">
@@ -36,8 +35,7 @@
           <li>Nie narzekaj.</li>
           <li>Nie pozwól, aby oczekiwania innych kierowały Twoimi działaniami.</li>
           <li>Zapisz wszystko, co chciałbyś osiągnąć.</li>
-        </ul>
-       
+        </ul>   
       </div>
     </div>
   </section>

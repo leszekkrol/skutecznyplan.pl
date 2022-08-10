@@ -6,14 +6,17 @@
         {{ title }}
       </h2>
       <p class="mt-3 text-base text-gray-300 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">{{ description }}</p>
-
-
       <a 
         v-if="url"
-        :href="url" target="_blank" class="mt-5 inline-flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-3xl text-white bg-gray-700 hover:bg-blue-900 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">Odsłuchaj podcast teraz 🎉</a>
+        :href="url" 
+        target="_blank"
+        data-splitbee-event="Odsłuchaj podcast"
+        v-bind:data-splitbee-event-destination="url"
+        class="mt-5 inline-flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-3xl text-white bg-gray-700 hover:bg-blue-900 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">Odsłuchaj podcast teraz 🎉</a>
       <NuxtLink 
         v-else
-        to="/" 
+        to="/"
+        data-splitbee-event="Strona główna"
         target="_blank" class="mt-5 inline-flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-3xl text-white bg-gray-700 hover:bg-blue-900 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">Strona główna</NuxtLink>
     </div>
 
@@ -21,17 +24,29 @@
       <p class="mb-10 text-sm uppercase text-center text-gray-300">Zasubskrybuj na ulubionej platformie podcastów:</p>
       <ul role="list" class="flex items-center justify-center justify-center gap-x-10">
         <li class="flex">
-          <a href="https://open.spotify.com/show/0fmWamBZAUB8n6mEuLOJYP" class="transition ease-in-out delay-150 hover:-translate-1 hover:scale-110">
+          <a 
+            href="https://open.spotify.com/show/0fmWamBZAUB8n6mEuLOJYP" 
+            data-splitbee-event="Spotify"
+            data-splitbee-event-destination="spotify.com"
+            class="transition ease-in-out delay-150 hover:-translate-1 hover:scale-110">
             <img alt="Skuteczny Plan - podcast na Spotify" src="~/assets/img/Podcast-Spotify-Icon.png" style="height: 45px !important">
           </a>
         </li>
         <li class="flex">
-          <a href="https://podcasts.apple.com/us/podcast/skuteczny-plan-drogowskaz-dla-młodych-przedsiębiorców/id1609627970" class="transition ease-in-out delay-150 hover:-translate-1 hover:scale-110">
+          <a 
+            href="https://podcasts.apple.com/us/podcast/skuteczny-plan-drogowskaz-dla-młodych-przedsiębiorców/id1609627970" 
+            data-splitbee-event="Apple Podcasts"
+            data-splitbee-event-destination="podcasts.apple.com"
+            class="transition ease-in-out delay-150 hover:-translate-1 hover:scale-110">
             <img alt="Skuteczny Plan - podcast na Apple Podcast" src="~/assets/img/Podcast-Apple-Icon.png" style="height: 45px !important">
           </a>
         </li>
         <li class="flex">
-          <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84MmE0MjQwL3BvZGNhc3QvcnNz" class="transition ease-in-out delay-150 hover:-translate-1 hover:scale-110">
+          <a 
+            href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84MmE0MjQwL3BvZGNhc3QvcnNz" 
+            data-splitbee-event="Google Podcasts"
+            data-splitbee-event-destination="podcasts.google.com"
+            class="transition ease-in-out delay-150 hover:-translate-1 hover:scale-110">
             <img alt="Skuteczny Plan - podcast na Google Podcast" src="~/assets/img/Podcast-Google-Icon.png" style="height: 45px !important">
           </a>
         </li>
