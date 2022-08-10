@@ -9,8 +9,8 @@ export const state = () => ({
       title: '7. Technika skutecznego robienia postępów',
       description: 'Każdy z nas ma cele, jednak co zrobić kiedy słabo idzie ich realizacja, a my przestajemy widzieć postępy? Technika, którą poznacie w dzisiejszym odcinku gwarantuje jasne zasady jak przełamać własną stagnację.',
       filename: 'technika-skutecznego-robienia-postepow.md',
-      url: '',
-      publish_date: '2022.08.10 09:10'
+      url: 'https://anchor.fm/skuteczny-plan-podcast/episodes/07--Technika-skutecznego-robienia-postpw-e1m9jg3/a-a8c4koi',
+      publish_date: '2022.08.10 08:49'
     },
     {
       slug: 'matrycja-priorytetow-i-zarzadzania-czasem',
