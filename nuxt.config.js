@@ -16,6 +16,7 @@ export default {
     title: "Skuteczny Plan - Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania",
     meta: [
       { charset: "utf-8" },
+      { 'http-equiv': 'Content-type', content: 'text/html;charset=UTF-8' },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       { name: "author", content: "Leszek W. Król" },
       {
