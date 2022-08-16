@@ -26,6 +26,11 @@ export default {
         content: 'Skuteczny Plan',
       },
       {
+        hid: 'og:locale',
+        property: 'og:locale',
+        content: 'pl_PL',
+      },
+      {
         hid: 'og:type',
         property: 'og:type',
         content: 'website',
@@ -51,32 +56,47 @@ export default {
         content: 'https://www.skutecznyplan.pl/img/skuteczny-plan-og.png',
       },
       {
-        hid: 't-type',
+        hid: 'og:image:type',
+        property: 'og:image:type',
+        content: 'image/png',
+      },
+      {
+        hid: 'og:image:alt',
+        property: 'og:image:alt',
+        content: 'Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania. Skuteczny Plan to rozmowy o aktualnych wyzwaniach dla firm, produktywnej pracy, nowych technologiach, czy grywalizacji',
+      },
+      {
+        hid: 'twitter:card',
         name: 'twitter:card',
         content: 'summary_large_image',
       },
       {
-        hid: 't-type',
-        name: 'twitter:title',
-        content: 'Skuteczny Plan - Odsłuchaj podcast',
-      },
-      {
-        hid: 't-type',
-        name: 'twitter:description',
-        content: 'Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania. Skuteczny Plan to rozmowy o aktualnych wyzwaniach dla firm, produktywnej pracy, nowych technologiach, czy grywalizacji',
-      },
-      {
-        hid: 't-type',
+        hid: 'twitter:url',
         name: 'twitter:url',
         content: 'https://www.skutecznyplan.pl',
       },
       {
-        hid: 't-type',
+        hid: 'twitter:image',
         name: 'twitter:image',
         content: 'https://www.skutecznyplan.pl/img/skuteczny-plan-twitter.png',
       },
       {
-        hid: 't-type',
+        hid: 'twitter:domain',
+        name: 'twitter:domain',
+        content: 'skutecznyplan.pl',
+      },
+      {
+        hid: 'twitter:title',
+        name: 'twitter:title',
+        content: 'Skuteczny Plan - Odsłuchaj podcast',
+      },
+      {
+        hid: 'twitter:description',
+        name: 'twitter:description',
+        content: 'Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania. Skuteczny Plan to rozmowy o aktualnych wyzwaniach dla firm, produktywnej pracy, nowych technologiach, czy grywalizacji',
+      },
+      {
+        hid: 'twitter:site',
         name: 'twitter:site',
         content: '@leszekkrol',
       }
