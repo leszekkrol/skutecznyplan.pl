@@ -12,7 +12,7 @@ export default {
   head: {
     htmlAttrs: {
       lang: 'pl'
-    }
+    },
     title: "Skuteczny Plan - Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania",
     meta: [
       { charset: "utf-8" },
