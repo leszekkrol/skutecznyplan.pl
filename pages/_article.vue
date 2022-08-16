@@ -18,21 +18,96 @@
     head() {
       return {
         meta: [
-          { hid: "title", name: "title", content: this.article.title + " | Skuteczny Plan" },
-          { hid: "description", name: "description", content: this.article.description },
-          { hid: "og:url", name: "og:url", content: "https://www.skutecznyplan.pl" + this.$route.fullPath },
-          { hid: "og:image",name: "og:image", content: "https://www.skutecznyplan.pl/img/skuteczny-plan-og-" + this.article.id + ".png" },
-          { hid: "og:image:type",name: "og:image:type", content: "image/png" },
-          { hid: "og:image:alt",name: "og:image:alt", content: this.article.title + " | " + this.article.description },
-          { hid: 'og:publish_date', name: "og:publish_date", content: this.article.publish_date },
-          { hid: "twitter:card", name: "twitter:card", content: "summary_large_image" },
-          { hid: "twitter:url", name: "twitter:url", content: "https://www.skutecznyplan.pl" + this.$route.fullPath },
-          { hid: "twitter:image", name: "twitter:image", content: "https://www.skutecznyplan.pl/img/skuteczny-plan-twitter-" + this.article.id + ".png" },
-          { hid: "twitter:domain", name: "twitter:domain", content: "skutecznyplan.pl" },
-          { hid: "twitter:title", name: "twitter:title", content: this.article.title + " | Skuteczny Plan" },
-          { hid: "twitter:description", name: "twitter:description", content: this.article.description },
-          { hid: 'article:published_time ', name: "article:published_time ", content: this.article.publish_date },
-          { hid: 'article:author ', name: "article:author ", content: "Leszek W. Król" },
+          {
+            hid: "title",
+            name: "title",
+            content: this.article.title + " | Skuteczny Plan",
+          },
+          {
+            hid: "description",
+            name: "description",
+            content: this.article.description,
+          },
+          {
+            hid: 'article:published_time',
+            property: 'article:published_time',
+            content: this.article.publish_date,
+          },
+          {
+            hid: 'article:author',
+            property: 'article:author',
+            content: 'Leszek W. Król',
+          },
+          {
+            hid: 'og:site_name',
+            property: 'og:site_name',
+            content: 'Skuteczny Plan',
+          },
+          {
+            hid: 'og:title',
+            property: 'og:title',
+            content: this.article.title + " | Skuteczny Plan",
+          },
+          {
+            hid: 'og:description',
+            property: 'og:description',
+            content: this.article.description,
+          },
+          {
+            hid: 'og:publish_date',
+            property: 'og:publish_date',
+            content: this.article.publish_date,
+          },
+          {
+            hid: 'og:url',
+            property: 'og:url',
+            content: 'https://www.skutecznyplan.pl' + this.$route.fullPath,
+          },
+          {
+            hid: 'og:image',
+            property: 'og:image',
+            content: 'http://www.skutecznyplan.pl/img/skuteczny-plan-og-' + this.article.id + '.png',
+          },
+          {
+            hid: 'og:image:secure_url',
+            property: 'og:image:secure_url',
+            content: 'http://www.skutecznyplan.pl/img/skuteczny-plan-og-' + this.article.id + '.png',
+          },
+          {
+            hid: 'og:image:type',
+            property: 'og:image:type',
+            content: 'image/png',
+          },
+          {
+            hid: 'og:image:alt',
+            property: 'og:image:alt',
+            content: this.article.title + " | " + this.article.description,
+          },
+          {
+            hid: 'twitter:card',
+            name: 'twitter:card',
+            content: 'summary_large_image',
+          },
+          {
+            hid: 'twitter:url',
+            name: 'twitter:url',
+            content: 'https://www.skutecznyplan.pl' + this.$route.fullPath,
+          },
+          {
+            hid: 'twitter:image',
+            name: 'twitter:image',
+            content: 'http://www.skutecznyplan.pl/img/skuteczny-plan-twitter-' + this.article.id + '.png',
+          },
+          {
+            hid: 'twitter:title',
+            name: 'twitter:title',
+            content: this.article.title + " | Skuteczny Plan",
+          },
+          {
+            hid: 'twitter:description',
+            name: 'twitter:description',
+            content: this.article.description,
+          },
         ]
       };
     },

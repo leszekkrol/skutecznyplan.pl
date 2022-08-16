@@ -14,11 +14,16 @@ export default {
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
+      { name: "author", content: "Leszek W. Król" },
+      {
+        hid: "title",
+        name: "title",
+        content: "Skuteczny Plan - Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania",
+      },
       {
         hid: "description",
         name: "description",
-        content: "Skuteczny Plan - Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania",
-        author: "Leszek Król"
+        content: "Zwiększ swoją produktywność podczas codziennej pracy siegając po dostępną, praktyczną i unikalną wiedzę, która pomoże Tobie odmienić sposób w jaki pracujesz każdego dnia.",
       },
       {
         hid: 'og:site_name',
@@ -38,7 +43,7 @@ export default {
       {
         hid: 'og:title',
         property: 'og:title',
-        content: 'Skuteczny Plan - Odsłuchaj podcast',
+        content: 'Skuteczny Plan - Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania',
       },
       {
         hid: 'og:description',
@@ -53,7 +58,12 @@ export default {
       {
         hid: 'og:image',
         property: 'og:image',
-        content: 'https://www.skutecznyplan.pl/img/skuteczny-plan-og.png',
+        content: 'http://www.skutecznyplan.pl/img/skuteczny-plan-og.png',
+      },
+      {
+        hid: 'og:image:secure_url',
+        property: 'og:image:secure_url',
+        content: 'http://www.skutecznyplan.pl/img/skuteczny-plan-og.png',
       },
       {
         hid: 'og:image:type',
@@ -78,7 +88,7 @@ export default {
       {
         hid: 'twitter:image',
         name: 'twitter:image',
-        content: 'https://www.skutecznyplan.pl/img/skuteczny-plan-twitter.png',
+        content: 'http://www.skutecznyplan.pl/img/skuteczny-plan-twitter.png',
       },
       {
         hid: 'twitter:domain',
@@ -88,7 +98,7 @@ export default {
       {
         hid: 'twitter:title',
         name: 'twitter:title',
-        content: 'Skuteczny Plan - Odsłuchaj podcast',
+        content: 'Skuteczny Plan - Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania',
       },
       {
         hid: 'twitter:description',
@@ -99,7 +109,12 @@ export default {
         hid: 'twitter:site',
         name: 'twitter:site',
         content: '@leszekkrol',
-      }
+      },
+      {
+        hid: 'twitter:creator',
+        name: 'twitter:creator',
+        content: '@leszekkrol',
+      },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
     script: [
