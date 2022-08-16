@@ -10,6 +10,9 @@ export default {
    ** See https://nuxtjs.org/api/configuration-head
    */
   head: {
+    htmlAttrs: {
+      lang: 'pl'
+    }
     title: "Skuteczny Plan - Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania",
     meta: [
       { charset: "utf-8" },
