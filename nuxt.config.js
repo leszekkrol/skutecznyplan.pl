@@ -18,12 +18,12 @@ export default {
       {
         hid: "title",
         name: "title",
-        content: "Skuteczny Plan - Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania",
+        content: "Skuteczny Plan - Rozwiń praktyczne umiejętności zarządzania",
       },
       {
         hid: "description",
         name: "description",
-        content: "Zwiększ swoją produktywność podczas codziennej pracy siegając po dostępną, praktyczną i unikalną wiedzę, która pomoże Tobie odmienić sposób w jaki pracujesz każdego dnia.",
+        content: "Zwiększ swoją produktywność podczas codziennej pracy siegając po dostępną, praktyczną i unikalną wiedzę.",
       },
       {
         hid: 'og:site_name',
@@ -43,12 +43,12 @@ export default {
       {
         hid: 'og:title',
         property: 'og:title',
-        content: 'Skuteczny Plan - Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania',
+        content: 'Skuteczny Plan - Rozwiń praktyczne umiejętności zarządzania',
       },
       {
         hid: 'og:description',
         property: 'og:description',
-        content: 'Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania. Skuteczny Plan to rozmowy o aktualnych wyzwaniach dla firm, produktywnej pracy, nowych technologiach, czy grywalizacji',
+        content: 'Zwiększ swoją produktywność podczas codziennej pracy siegając po dostępną, praktyczną i unikalną wiedzę.',
       },
       {
         hid: 'og:url',
@@ -73,7 +73,7 @@ export default {
       {
         hid: 'og:image:alt',
         property: 'og:image:alt',
-        content: 'Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania. Skuteczny Plan to rozmowy o aktualnych wyzwaniach dla firm, produktywnej pracy, nowych technologiach, czy grywalizacji',
+        content: 'Skuteczny Plan to rozmowy o aktualnych wyzwaniach dla firm, produktywnej pracy, nowych technologiach, czy grywalizacji. Zwiększ swoją produktywność podczas codziennej pracy siegając po dostępną, praktyczną i unikalną wiedzę, która pomoże Tobie odmienić sposób w jaki pracujesz każdego dnia.',
       },
       {
         hid: 'twitter:card',
@@ -98,12 +98,12 @@ export default {
       {
         hid: 'twitter:title',
         name: 'twitter:title',
-        content: 'Skuteczny Plan - Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania',
+        content: 'Skuteczny Plan - Rozwiń praktyczne umiejętności zarządzania',
       },
       {
         hid: 'twitter:description',
         name: 'twitter:description',
-        content: 'Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania. Skuteczny Plan to rozmowy o aktualnych wyzwaniach dla firm, produktywnej pracy, nowych technologiach, czy grywalizacji',
+        content: 'Zwiększ swoją produktywność podczas codziennej pracy siegając po dostępną, praktyczną i unikalną wiedzę.',
       },
       {
         hid: 'twitter:site',
