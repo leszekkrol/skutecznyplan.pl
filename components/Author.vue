@@ -5,9 +5,9 @@
         <img src="~/assets/img/avatar.jpg" alt="Leszek W. Król">
       </div>
       <div class="px-4 py-10 sm:px-10 sm:py-16 md:py-20 lg:px-20 lg:py-32 text-gray-400">
-        <p class="mt-8 font-display text-5xl font-extrabold tracking-tight text-white sm:text-6xl text-gray-300">
+        <h2 class="mt-8 font-display text-5xl font-extrabold tracking-tight text-white sm:text-6xl text-gray-300">
           Nazywam się <br><span class="block text-header">Leszek W. Król</span>
-        </p>
+        </h2>
         <p class="mt-4 text-lg tracking-tight ">Nazywam się Leszek W. Król od prawie dwóch dekad pasjonuje się nowymi technologiami aktywnie działając w ekosystemie startupowym. Na codzień towarzyszę firmom i instytucjom w projektowaniu strategii oraz rozwoju nowych produktów i usług.</p>
         <p class="mt-4 text-lg tracking-tight">Inicjator i założyciel 
           <a 

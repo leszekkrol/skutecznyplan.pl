@@ -2,9 +2,9 @@
   <header class="mx-auto bg-fancy">
     <div class="max-w-3xl pt-10 px-4 pb-12 sm:py-24 text-center md:mx-auto lg:col-span-6 lg:text-center">
       <div class="text-sm font-semibold uppercase tracking-wide text-gray-300 sm:text-base lg:text-sm xl:text-base">{{ tag }} 🎙</div>
-      <h2 class="mt-1 text-5xl tracking-tight leading-10 font-extrabold text-header sm:leading-none sm:text-6xl xl:text-6xl">
+      <h1 class="mt-1 text-5xl tracking-tight leading-10 font-extrabold text-header sm:leading-none sm:text-6xl xl:text-6xl">
         {{ title }}
-      </h2>
+      </h1>
       <p class="mt-3 text-base text-gray-300 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">{{ description }}</p>
       <a 
         v-if="url"
