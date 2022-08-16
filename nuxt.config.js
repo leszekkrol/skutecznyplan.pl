@@ -48,7 +48,7 @@ export default {
       {
         hid: 'og:image',
         property: 'og:image',
-        content: 'https://www.skutecznyplan.pl/skuteczny-plan-og.png',
+        content: 'https://www.skutecznyplan.pl/img/skuteczny-plan-og.png',
       },
       {
         hid: 't-type',
@@ -73,7 +73,7 @@ export default {
       {
         hid: 't-type',
         name: 'twitter:image',
-        content: 'https://www.skutecznyplan.pl/skuteczny-plan-twitter.png',
+        content: 'https://www.skutecznyplan.pl/img/skuteczny-plan-twitter.png',
       },
       {
         hid: 't-type',
