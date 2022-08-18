@@ -1,11 +1,16 @@
 <template>
-  <section class="mx-auto max-w-4xl pt-16 sm:px-6">
-    <div class="bg-gray-800 pt-px sm:rounded-6xl text-justify rounded-3xl">
-      <div class="relative mx-auto -mt-16 h-44 w-44 overflow-hidden rounded-full bg-gray-700 md:float-right md:h-64 md:w-64 md:[shape-outside:circle(40%)] lg:mr-20 lg:h-72 lg:w-72">
-        <img src="~/assets/img/avatar.jpg" alt="Leszek W. Król">
+  <section class="mx-auto max-w-4xl p-10 sm:px-6 text-gray-300">
+    <div class="md:flex">
+      <div class="md:w-4/12 mb-8 md:mb-0">
+        <div class="relative">
+          <img src="~/assets/img/avatar.jpg" alt="Leszek W. Król">
+          <div class="image-mask"></div>
+          <div class="absolute top-0 left-0 bg-gray-900 w-20 h-8"></div>
+          <div class="absolute bottom-0 right-0 bg-gray-900 w-16 h-10"></div>
+        </div>
       </div>
-      <div class="px-4 py-10 sm:px-10 sm:py-16 md:py-20 lg:px-20 lg:py-32 text-gray-400">
-        <h2 class="mt-8 font-display text-5xl font-extrabold tracking-tight text-white sm:text-6xl text-gray-300">
+      <div class="md:pl-14 md:w-8/12">
+        <h2 class="mt-12 font-display text-5xl font-extrabold tracking-tight text-white sm:text-6xl text-gray-300">
           Nazywam się <br><span class="block text-header">Leszek W. Król</span>
         </h2>
         <p class="mt-4 text-lg tracking-tight ">Nazywam się Leszek W. Król od prawie dwóch dekad pasjonuje się nowymi technologiami aktywnie działając w ekosystemie startupowym. Na codzień towarzyszę firmom i instytucjom w projektowaniu strategii oraz rozwoju nowych produktów i usług.</p>
