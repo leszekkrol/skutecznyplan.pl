@@ -7,7 +7,16 @@
       :url="this.article.url"
      />
     <article class="mx-auto max-w-3xl pt-10 px-4 pb-12 sm:py-24">
-      <div class="sm:text-center md:mx-auto lg:col-span-6 lg:text-left text-gray-400 sm:text-lg" v-html="content" lang="md" id="blog"></div>
+      <div class="md:mx-auto lg:col-span-6 text-left text-gray-400 sm:text-lg" v-html="content" lang="md" id="blog"></div>
+      <div class="p-10">
+        <div class="flex flex-col space-y-4 md:space-y-0 md:space-x-6 md:flex-row">
+          <img src="~/assets/img/avatar.jpg" alt="Leszek W. Król" class="self-center flex-shrink-0 w-24 h-24 border rounded-full md:justify-self-start dark:bg-gray-500 dark:border-gray-700">
+          <div class="flex">
+            <h4 class="text-lg font-semibold text-gray-200">Leszek W. Król</h4>
+            <p>Na co dzień towarzyszę firmom i instytucjom w projektowaniu strategii oraz opracowywaniu nowych produktów i usług.</p>
+          </div>
+        </div>
+      </div>
     </article>
   </div>
 </template>
