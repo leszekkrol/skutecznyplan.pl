@@ -3,7 +3,14 @@
 @tailwind utilities;
 
 body {
-  background-color: rgb(17 24 39)
+  background-color: #111827
+}
+
+.v-lines {
+  background-color: #111827;
+  opacity: 0.8;
+  background-size: calc(100% / 4);
+  background-image: repeating-linear-gradient(to right, #29344b, #111827 1px, #111827 1px, #111827);
 }
 
 .text-header {
@@ -30,11 +37,6 @@ body {
 .bg-accent {
   background-color: #FBAB7E;
   color: white;
-}
-
-.bg-fancy {
-  background: url("img/background.png") center center;
-  background-size: cover;
 }
 
 #blog h1, #blog h2, #blog h3 {
@@ -82,5 +84,6 @@ body {
 }
 
 footer {
+  color: rgb(76, 76, 76);
   text-underline-offset: .2em;
 }
