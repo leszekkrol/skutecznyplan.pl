@@ -1,7 +1,6 @@
 <template>
   <footer class="mx-auto max-w-5xl px-4 py-24">
     <div class="mx-auto max-w-screen-xl">
-
       <p class="text-sm text-justify text-left text-gray-600">
         Informacje zamieszczone na naszej stronie internetowej nie mogą zostać uznane za poradę w jakiejkolwiek sprawie. Treści na niej zawarte mają charakter wyłącznie informacyjny, a my nie ponosimy odpowiedzialności z tytułu powstania jakichkolwiek szkód, wynikających z ich interpretacji, bez konsultacji. Wszystkie materiały udostępnione na naszej stronie internetowej są aktualne na dzień ich zamieszczenia. Nie możemy jednak zagwarantować, że będą aktualne czy przydatne w każdym stanie faktycznym i w każdym czasie. Wszelkie treści zawarte na naszej stronie można wykorzystywać wyłącznie do niekomercyjnego użytku prywatnego. Jeśli chcesz wykorzystać je w celach publicznych lub komercyjnych – napisz do nas.
       </p>
@@ -23,7 +22,7 @@
         <li>
           <a 
             href="https://dhosting.pl/pp-leszekkrol" 
-            title="Polityka prywatności serwisu" 
+            title="Dumnie zasilany przez dhosting.pl" 
             data-splitbee-event="Polecam dhosting.pl" 
             class="underline">Dumnie zasilany przez dhosting.pl</a>
         </li>
