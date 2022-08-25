@@ -12,12 +12,15 @@
         target="_blank"
         data-splitbee-event="Odsłuchaj podcast"
         v-bind:data-splitbee-event-destination="url"
+        title="Odsłuchaj podcast teraz 🎉"
         class="mt-5 inline-flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-3xl text-white bg-gray-700 hover:bg-blue-900 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">Odsłuchaj podcast teraz 🎉</a>
       <NuxtLink 
         v-else
         to="/"
         data-splitbee-event="Strona główna"
-        target="_blank" class="mt-5 inline-flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-3xl text-white bg-gray-700 hover:bg-blue-900 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">Strona główna</NuxtLink>
+        title="Strona głowna"
+        target="_blank" 
+        class="mt-5 inline-flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-3xl text-white bg-gray-700 hover:bg-blue-900 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">Strona główna</NuxtLink>
     </div>
 
     <div class="mx-auto max-w-5xl px-4 py-1 mb-10">
@@ -28,6 +31,7 @@
             href="https://open.spotify.com/show/0fmWamBZAUB8n6mEuLOJYP" 
             data-splitbee-event="Spotify"
             data-splitbee-event-destination="spotify.com"
+            title="Skuteczny Plan - podcast na Spotify" 
             class="transition ease-in-out delay-150 hover:-translate-1 hover:scale-110">
             <img alt="Skuteczny Plan - podcast na Spotify" src="~/assets/img/Podcast-Spotify-Icon.png" style="height: 45px !important">
           </a>
@@ -37,6 +41,7 @@
             href="https://podcasts.apple.com/us/podcast/skuteczny-plan-drogowskaz-dla-młodych-przedsiębiorców/id1609627970" 
             data-splitbee-event="Apple Podcasts"
             data-splitbee-event-destination="podcasts.apple.com"
+            title="Skuteczny Plan - podcast na Apple Podcast" 
             class="transition ease-in-out delay-150 hover:-translate-1 hover:scale-110">
             <img alt="Skuteczny Plan - podcast na Apple Podcast" src="~/assets/img/Podcast-Apple-Icon.png" style="height: 45px !important">
           </a>
@@ -46,6 +51,7 @@
             href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84MmE0MjQwL3BvZGNhc3QvcnNz" 
             data-splitbee-event="Google Podcasts"
             data-splitbee-event-destination="podcasts.google.com"
+            title="Skuteczny Plan - podcast na Google Podcast" 
             class="transition ease-in-out delay-150 hover:-translate-1 hover:scale-110">
             <img alt="Skuteczny Plan - podcast na Google Podcast" src="~/assets/img/Podcast-Google-Icon.png" style="height: 45px !important">
           </a>

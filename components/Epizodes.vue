@@ -15,6 +15,7 @@
           :to="`/${item.slug}`"
           data-splitbee-event="Podcast"
           v-bind:data-splitbee-event-episode="item.id"
+          title="Czytaj więcej"
           class="inline-flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-3xl text-white bg-gray-700 hover:bg-blue-900 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">Czytaj więcej 🔖</NuxtLink>  
         </div>
       </article>   

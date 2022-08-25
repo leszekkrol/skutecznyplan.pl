@@ -3,7 +3,7 @@
     <div class="md:flex">
       <div class="md:w-4/12 mb-8 md:mb-0">
         <div class="relative">
-          <img src="~/assets/img/avatar.jpg" alt="Leszek W. Król">
+          <img src="~/assets/img/avatar.jpg" alt="Leszek W. Król - Przedsiębiorca">
           <div class="image-mask"></div>
           <div class="absolute top-0 left-0 bg-gray-900 w-20 h-8"></div>
           <div class="absolute bottom-0 right-0 bg-gray-900 w-16 h-10"></div>
@@ -50,7 +50,7 @@
         <p class="mt-4 text-lg tracking-tight">Aktywnie uczestniczy w wielu krajowych i międzynarodowych konferencjach, czy seminariach naukowych poświęconych nowym technologiom oraz legaltech. Autor licznych artykułów naukowych opublikowanych w Polsce i za granica. Nadto współautor ponad pięciuset projektów informatycznych.</p>
         <p class="mt-4 text-lg tracking-tight">Aktualnie student Prawa na Wyższej Szkole Bankowej w Toruniu. Aktywnie uczestniczy w życiu studenckim jako Przewodniczący Samorządu Studenckiego oraz członek Rady Akademickiej. Prywatnie miłośnik golfa i od niedawna crossfit’u.</p>
         <p class="mt-4 text-lg tracking-tight">— Ciągle inspiruje młodych ludzi do zmiany.</p>
-        <img src="~/assets/img/sign.png" alt="Leszek W. Król" height="10" class="mt-10">
+        <img src="~/assets/img/sign.png" alt="Leszek W. Król - Przedsiębiorca" height="10" class="mt-10">
       </div>
     </div>
   </section>
