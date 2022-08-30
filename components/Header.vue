@@ -12,7 +12,7 @@
         target="_blank"
         data-splitbee-event="Odsłuchaj podcast"
         v-bind:data-splitbee-event-destination="url"
-        title="Odsłuchaj podcast teraz 🎉"
+        title="Odsłuchaj podcast teraz"
         class="mt-5 inline-flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-3xl text-white bg-gray-700 hover:bg-blue-900 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">Odsłuchaj podcast teraz 🎉</a>
       <NuxtLink 
         v-else
