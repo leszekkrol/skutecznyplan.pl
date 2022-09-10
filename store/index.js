@@ -5,6 +5,15 @@
 export const state = () => ({
   articles: [
     {
+      id: 8,
+      slug: 'to-nie-cel-sie-liczy',
+      title: '7. To nie cel się liczy',
+      description: 'Żyjemy w świecie, który ma obsesję na punkcie szybkiej pracy i osiągania wyników. Jakie znaczenie mają tygodnie, miesiące, lata przy ciągle zmieniającym się targecie? W dzisiejszym odcinku przyjrzymy się temu, co tak na prawdę jest ważne i determinuje nas do działania.',
+      filename: 'to-nie-cel-sie-liczy.md',
+      url: '',
+      publish_date: '2022.09.10 08:49'
+    },
+    {
       id: 7,
       slug: 'technika-skutecznego-robienia-postepow',
       title: '7. Technika skutecznego robienia postępów',
