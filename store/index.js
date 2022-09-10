@@ -11,7 +11,7 @@ export const state = () => ({
       description: 'Żyjemy w świecie, który ma obsesję na punkcie szybkiej pracy i osiągania wyników. Jakie znaczenie mają tygodnie, miesiące, lata przy ciągle zmieniającym się targecie? W dzisiejszym odcinku przyjrzymy się temu, co tak na prawdę jest ważne i determinuje nas do działania.',
       filename: 'to-nie-cel-sie-liczy.md',
       url: 'https://anchor.fm/skuteczny-plan-podcast/episodes/08--To-nie-cel-si-liczy-e1n5a9d',
-      publish_date: '2022.09.10 04:58'
+      publish_date: '2022.09.10 14:58'
     },
     {
       id: 7,
