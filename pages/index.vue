@@ -1,17 +1,5 @@
 <template>
   <div>
-    <Epizodes />
-    <Quotes />
-    <Author />
+    <NuxtWelcome />
   </div>
 </template>
-
-<script>
-  export default {
-    data() {
-      return {
-        
-      }
-    },
-  }
-</script>

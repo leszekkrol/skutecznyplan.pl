@@ -64,10 +64,5 @@
 <script>
 export default {
   props: ['tag', 'title', 'description', 'url'],
-  data() {
-    return {
-
-    }
-  },
 }
 </script>

@@ -1,24 +1,16 @@
 {
   "name": "skuteczny-plan",
   "scripts": {
-    "dev": "nuxt",
     "build": "nuxt build",
+    "dev": "nuxt dev",
     "generate": "nuxt generate",
-    "start": "nuxt start"
-  },
-  "dependencies": {
-    "@nuxtjs/markdownit": "^2.0.0",
-    "@nuxtjs/robots": "^3.0.0",
-    "@nuxtjs/sitemap": "^2.4.0",
-    "markdown-it-attrs": "^4.1.4",
-    "markdown-it-div": "^1.1.0",
-    "nuxt": "^2.15.8"
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@nuxt/postcss8": "^1.1.3",
-    "@nuxtjs/google-fonts": "^2.0.0",
-    "autoprefixer": "^10.4.9",
-    "postcss": "^8.4.18",
-    "tailwindcss": "^3.2.4"
+    "@nuxt/content": "^2.3.0",
+    "@nuxtjs/tailwindcss": "^6.2.0",
+    "@tailwindcss/typography": "^0.5.8",
+    "nuxt": "3.0.0"
   }
 }
