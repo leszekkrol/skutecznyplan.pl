@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@nuxtjs/markdownit": "^2.0.0",
-    "@nuxtjs/robots": "^2.5.0",
+    "@nuxtjs/robots": "^3.0.0",
     "@nuxtjs/sitemap": "^2.4.0",
     "markdown-it-attrs": "^4.1.4",
     "markdown-it-div": "^1.1.0",
