@@ -1,5 +1,5 @@
 <template>
-  <main id="app" class="bg-gray-900 v-lines">
+  <main id="app" class="bg-gray-900 v-lines agus">
     <Navigation />
     <Header 
       tag="podcast" 

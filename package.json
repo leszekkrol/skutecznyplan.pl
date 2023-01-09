@@ -12,5 +12,9 @@
     "@nuxtjs/tailwindcss": "^6.2.0",
     "@tailwindcss/typography": "^0.5.8",
     "nuxt": "3.0.0"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.4.6",
+    "pinia": "^2.0.28"
   }
 }
