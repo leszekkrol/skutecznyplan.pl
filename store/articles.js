@@ -82,6 +82,9 @@ export const useArticlesStore = defineStore({
   },
   actions: {},
   getters: {
-    articlesList: state => state.articles
+    articlesList: state => state.articles,
+    getArticleBySlug: (state) => {
+      return (slug) => state.articles.find((article) => article.slug === slug)
+    },
   },
 })
