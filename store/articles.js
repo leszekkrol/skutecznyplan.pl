@@ -84,7 +84,11 @@ export const useArticlesStore = defineStore({
   getters: {
     articlesList: state => state.articles,
     getArticleBySlug: (state) => {
-      return (slug) => state.articles.find((article) => article.slug === slug)
+      return (slug) => {
+        const res = state.articles.find((i) => i.slug === slug)
+        if (!res) throw createError({ statusCode: 404, statusMessage: 'Page Not Found' })
+        return res
+      }
     },
   },
 })
