@@ -29,11 +29,9 @@
 
 import { useArticlesStore } from '~/store/articles'
 
-definePageMeta({
-  layout: "blog",
-});
-
 export default {
+  layout: 'blog',
+  name: 'blog',
   setup() {
     const route = useRoute();
     const store = useArticlesStore()
