@@ -1,5 +1,9 @@
 {
   "name": "skuteczny-plan",
+  "description": "Website of the Skuteczny Plan podcast hosted by Leszek W. Król",
+  "version": "1.1.0",
+  "keywords": [],
+  "author": "Leszek W. Król <contact@leszekkrol.com>",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -16,5 +20,13 @@
   "dependencies": {
     "@pinia/nuxt": "^0.4.6",
     "pinia": "^2.0.28"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leszekkrol/skutecznyplan.pl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leszekkrol/skutecznyplan.pl/issues"
+  },
+  "homepage": "https://github.com/leszekkrol/skutecznyplan.pl"
 }
