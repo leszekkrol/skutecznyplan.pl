@@ -9,3 +9,9 @@ This site is built with [Nuxt.js](http://nuxtjs.org).
   <a href="https://www.skutecznyplan.pl/"><strong>See the website</strong></a> · 
   <a href="https://twitter.com/leszekkrol"><strong>Leszek W. Król on Twitter</strong></a>
 </p>
+
+## Follow me
+
+<p valign="center">
+  <a href="https://twitter.com/leszekkrol"><img width="20px" src="./.github/assets/twitter.svg" alt="Twitter"></a>&nbsp;&nbsp;<a href="https://github.com/leszekkrol"><img width="20px" src="./.github/assets/github.svg" alt="GitHub"></a>
+</p>
