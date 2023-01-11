@@ -9,27 +9,20 @@
   </section>
 </template>
 
-<script>
-  export default {
-    head() {
-      return {
-        meta: [
-          { hid: 'title', name: "title", content: "Zasady korzystania | Skuteczny Plan" },
-          { hid: "description", name: "description", content: "Wszelkie treści zawarte na naszej stronie można wykorzystywać wyłącznie do niekomercyjnego użytku prywatnego. Jeśli chcesz wykorzystać je w celach publicznych lub komercyjnych." },
-          { hid: "twitter:image", name: "twitter:image", content: "https://www.skutecznyplan.pl/skuteczny-plan-twitter.png" },
-          { hid: "twitter:card", name: "twitter:card", content: "summary_large_image" },
-          { hid: "og:image",name: "og:image", content: "https://www.skutecznyplan.pl/skuteczny-plan-og.png" },
-          { hid: "og:title", name: "og:title", content: "Zasady korzystania | Skuteczny Plan"  },
-          { hid: "og:description", name: "og:description", content: "Wszelkie treści zawarte na naszej stronie można wykorzystywać wyłącznie do niekomercyjnego użytku prywatnego. Jeśli chcesz wykorzystać je w celach publicznych lub komercyjnych." },
-          { hid: "description", name: "description", content: "Wszelkie treści zawarte na naszej stronie można wykorzystywać wyłącznie do niekomercyjnego użytku prywatnego. Jeśli chcesz wykorzystać je w celach publicznych lub komercyjnych." },
-          { hid: "og:url", name: "og:url", content: "https://www.skutecznyplan.pl" + this.$route.fullPath }
-        ]
-      };
-    },
-    data() {
-      return {
-        
-      }
-    },
-  }
+<script setup>
+const route = useRoute();
+
+useHead({
+  title: 'Zasady korzystania | Skuteczny Plan',
+  meta: [
+    { hid: "description", name: "description", content: "Wszelkie treści zawarte na naszej stronie można wykorzystywać wyłącznie do niekomercyjnego użytku prywatnego. Jeśli chcesz wykorzystać je w celach publicznych lub komercyjnych." },
+    { hid: "twitter:image", name: "twitter:image", content: "https://www.skutecznyplan.pl/skuteczny-plan-twitter.png" },
+    { hid: "twitter:card", name: "twitter:card", content: "summary_large_image" },
+    { hid: "og:image",name: "og:image", content: "https://www.skutecznyplan.pl/skuteczny-plan-og.png" },
+    { hid: "og:title", name: "og:title", content: "Zasady korzystania | Skuteczny Plan"  },
+    { hid: "og:description", name: "og:description", content: "Wszelkie treści zawarte na naszej stronie można wykorzystywać wyłącznie do niekomercyjnego użytku prywatnego. Jeśli chcesz wykorzystać je w celach publicznych lub komercyjnych." },
+    { hid: "description", name: "description", content: "Wszelkie treści zawarte na naszej stronie można wykorzystywać wyłącznie do niekomercyjnego użytku prywatnego. Jeśli chcesz wykorzystać je w celach publicznych lub komercyjnych." },
+    { hid: "og:url", name: "og:url", content: "https://www.skutecznyplan.pl" + route.params.fullPath }
+  ],
+})
 </script>
