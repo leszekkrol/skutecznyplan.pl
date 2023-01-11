@@ -14,6 +14,13 @@
         </li>
         <li>
           <NuxtLink 
+            to="/zasady-korzystania" 
+            title="Zasady korzystania z serwisu"
+            data-splitbee-event="Zasady korzystania" 
+            class="mr-8 underline">Zasady korzystania</NuxtLink>
+        </li>
+        <li>
+          <NuxtLink 
             to="/polityka-prywatnosci" 
             title="Polityka prywatności serwisu"
             data-splitbee-event="Polityka prywatności" 
@@ -27,7 +34,7 @@
             class="underline">Dumnie zasilany przez dhosting.pl</a>
         </li>
       </ul>
-      <span class="text-sm text-gray-500 sm:text-center">&copy; 2021-2022 <a href="https://www.leszekkrol.com" title="Leszek Wojciech Król - Strona internetowa" class="hover:underline">Leszek W. Król</a>. Wszelkie prawa zastrzeżone.</span>
+      <span class="text-sm text-gray-500 sm:text-center">&copy; 2021-2023 <a href="https://www.leszekkrol.com" title="Leszek Wojciech Król - Strona internetowa" class="hover:underline">Leszek W. Król</a>. Wszelkie prawa zastrzeżone.</span>
     </div>
   </footer>
 </template>

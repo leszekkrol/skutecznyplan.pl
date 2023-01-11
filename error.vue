@@ -1,7 +1,11 @@
 <template>
-  <Header 
-    tag="Błąd 404" 
-    title="Strona nie została znaleziona" />
+  <main id="app" class="bg-gray-900 v-lines agus">
+    <Navigation />
+    <Header 
+      tag="Błąd 404" 
+      title="Strona nie została znaleziona" />
+    <Footer />
+  </main>
 </template>
 
 <script setup>
@@ -17,7 +21,6 @@ useHead({
     { hid: "og:title", name: "og:title", content: "Strona nie znaleziona | Skuteczny Plan"  },
     { hid: "og:description", name: "og:description", content: "Przepraszamy, strona, której szukasz nie została znaleziona." },
     { hid: "description", name: "description", content: "Przepraszamy, strona, której szukasz nie została znaleziona." },
-    { hid: "og:url", name: "og:url", content: "https://www.skutecznyplan.pl" + route.params.fullPath }
   ],
 })
 </script>

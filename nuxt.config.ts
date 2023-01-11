@@ -122,8 +122,14 @@ export default defineNuxtConfig({
   modules: [
     '@nuxtjs/tailwindcss',
     '@nuxt/content',
+    '@nuxtjs/robots',
     '@pinia/nuxt'
   ],
+  robots: {
+    UserAgent: '*',
+    Allow: '/',
+    Sitemap: 'https://www.skutecznyplan.pl/sitemap.xml'
+  },
   css: [
     '~/assets/main.css',
   ],
@@ -138,4 +144,9 @@ export default defineNuxtConfig({
       theme: 'github-dark'
     },
   },
+  nitro: {
+    prerender: {
+      routes: ['/sitemap.xml']
+    }
+  }
 })
