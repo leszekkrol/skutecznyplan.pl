@@ -1,5 +1,5 @@
 # Skuteczy Plan
-> This is the website of the "Skuteczny Plan" podcast hosted by Leszek W. Król. It's silly and weird and (if you look hard enough) might contain the odd insight.
+> This is the website of the "Skuteczny Plan" podcast hosted by Leszek W. Król.
 
 This site is built with [Nuxt.js](http://nuxtjs.org).
 
