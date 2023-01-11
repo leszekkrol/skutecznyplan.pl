@@ -1,15 +1,17 @@
 <template>
-  <main id="app" class="bg-gray-900 v-lines agus">
-    <Navigation />
+  <div>
     <Header 
       tag="Błąd 404" 
       title="Strona nie została znaleziona" />
-    <Footer />
-  </main>
+  </div>
 </template>
 
 <script setup>
 const route = useRoute();
+
+definePageMeta({
+  layout: 'empty'
+})
 
 useHead({
   title: 'Strona nie znaleziona | Skuteczny Plan',
