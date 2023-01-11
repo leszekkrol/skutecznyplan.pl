@@ -21,7 +21,7 @@
   </main>
 </template>
 
-<script setup> 
+<script setup>
 
 import { useArticlesStore } from '~/store/articles'
 
