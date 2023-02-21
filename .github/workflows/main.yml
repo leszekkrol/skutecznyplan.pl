@@ -32,11 +32,11 @@ jobs:
           npm run generate
           
       - name: 📂 Sync files
-        uses: SamKirkland/FTP-Deploy-Action@4.1.0
+        uses: SamKirkland/FTP-Deploy-Action@4.3.3
         with:
           dangerous-clean-slate: true
           server: ${{ secrets.ftp_host }}
           username: ${{ secrets.ftp_username }}
           password: ${{ secrets.ftp_password }}
-          local-dir: ./.output/public
+          local-dir: ./.output/public/
           server-dir: ./public_html/
