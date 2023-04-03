@@ -14,7 +14,7 @@
   "devDependencies": {
     "@nuxt/content": "^2.4.3",
     "@nuxtjs/robots": "^3.0.0",
-    "@nuxtjs/tailwindcss": "^6.6.4",
+    "@nuxtjs/tailwindcss": "^6.6.5",
     "@tailwindcss/typography": "^0.5.8",
     "nuxt": "3.3.2",
     "sitemap": "^7.1.1"
