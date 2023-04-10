@@ -20,7 +20,7 @@
     "sitemap": "^7.1.1"
   },
   "dependencies": {
-    "@pinia/nuxt": "^0.4.7",
+    "@pinia/nuxt": "^0.4.8",
     "pinia": "^2.0.30"
   },
   "repository": {
