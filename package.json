@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@pinia/nuxt": "^0.4.9",
-    "pinia": "^2.0.34"
+    "pinia": "^2.0.35"
   },
   "repository": {
     "type": "git",
