@@ -148,5 +148,23 @@ export default defineNuxtConfig({
     prerender: {
       routes: ['/sitemap.xml', '/404.html']
     }
-  }
+  },
+  i18n: {
+    defaultLocale: 'pl',
+    locales: [{
+      code: 'pl',
+      iso: 'pl-PL',
+      file: 'pl-PL.json'
+    },
+    {
+      code: 'en',
+      iso: 'en-US',
+      file: 'en-US.json'
+    }
+    ],
+    langDir: 'locales/',
+    vueI18n: {
+      fallbackLocale: 'pl'
+    } 
+  },
 })
