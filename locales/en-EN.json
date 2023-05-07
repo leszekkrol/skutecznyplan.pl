@@ -1,4 +1,14 @@
 {
+  "common": {
+     "support": "Support me",
+     "listen": "Listen to the podcast now 🎉",
+     "homepage": "Homepage",
+     "subscribe-msg": "Subscribe to your favorite podcast platform:",
+     "read-more": "Read more 🔖",
+     "article": "Article 🔖",
+     "community": "Community ⭐️",
+     "what-listeners-saying": "What are the listeners saying?"
+   },
   "footer": {
     "legal-msg": "The information posted on our website cannot be considered as advice on any matter. The content contained therein is for informational purposes only, and we do not accept any responsibility for any damages resulting from their interpretation without consultation. All materials provided on our website are current as of the date of posting. However, we cannot guarantee that they will be current or useful in every factual circumstance or at all times. Any content contained on our website may only be used for non-commercial private use. If you want to use them for public or commercial purposes, please contact us.",
     "principles": "Principles",
