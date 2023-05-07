@@ -123,7 +123,8 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     '@nuxt/content',
     '@nuxtjs/robots',
-    '@pinia/nuxt'
+    '@pinia/nuxt',
+    '@nuxtjs/i18n'
   ],
   robots: {
     UserAgent: '*',
@@ -150,21 +151,21 @@ export default defineNuxtConfig({
     }
   },
   i18n: {
+    baseUrl: 'https://www.skutecznyplan.pl/',
     defaultLocale: 'pl',
-    locales: [{
-      code: 'pl',
-      iso: 'pl-PL',
-      file: 'pl-PL.json'
-    },
-    {
-      code: 'en',
-      iso: 'en-US',
-      file: 'en-US.json'
-    }
+    fallbackLocale: 'pl',
+    locales: [
+      {
+        code: 'pl',
+        iso: 'pl-PL',
+        file: 'pl-PL.json'
+      },
+      {
+        code: 'en',
+        iso: 'en-EN',
+        file: 'en-EN.json'
+      }
     ],
     langDir: 'locales/',
-    vueI18n: {
-      fallbackLocale: 'pl'
-    } 
   },
 })

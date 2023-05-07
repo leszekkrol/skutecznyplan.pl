@@ -13,18 +13,18 @@
         data-splitbee-event="Odsłuchaj podcast"
         v-bind:data-splitbee-event-destination="url"
         title="Odsłuchaj podcast teraz"
-        class="mt-5 inline-flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-3xl text-white bg-gray-700 hover:bg-blue-900 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">Odsłuchaj podcast teraz 🎉</a>
+        class="mt-5 inline-flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-3xl text-white bg-gray-700 hover:bg-blue-900 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">{{ $t('common.listen') }}</a>
       <NuxtLink 
         v-else
         to="/"
         data-splitbee-event="Strona główna"
         title="Strona głowna"
         target="_self" 
-        class="mt-5 inline-flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-3xl text-white bg-gray-700 hover:bg-blue-900 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">Strona główna</NuxtLink>
+        class="mt-5 inline-flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-3xl text-white bg-gray-700 hover:bg-blue-900 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">{{ $t('common.homepage') }}</NuxtLink>
     </div>
 
     <div class="mx-auto max-w-5xl px-4 py-1 mb-10" v-if="url">
-      <p class="mb-10 text-sm uppercase text-center text-gray-300">Zasubskrybuj na ulubionej platformie podcastów:</p>
+      <p class="mb-10 text-sm uppercase text-center text-gray-300">{{ $t('common.subscribe-msg') }}</p>
       <ul role="list" class="flex items-center justify-center justify-center gap-x-10">
         <li class="flex">
           <a 
