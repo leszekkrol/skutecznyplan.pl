@@ -1,32 +1,40 @@
 {
   "common": {
+    "error-404": "Bład 404",
+    "not-found": "Strona nie została znaleziona",
     "support": "Wspieraj twórczość",
-    "listen": "Odsłuchaj podcast teraz 🎉",
+    "listen": "Odsłuchaj podcast teraz",
     "homepage": "Strona główna",
     "subscribe-msg": "Zasubskrybuj na ulubionej platformie podcastów:",
-    "read-more": "Czytaj więcej 🔖",
-    "article": "Artykuł 🔖",
-    "community": "Społeczność ⭐️",
+    "read-more": "Czytaj więcej",
+    "article": "Artykuł",
+    "community": "Społeczność",
     "what-listeners-saying": "Co mówią słuchacze?"
   },
   "section": {
     "header": {
       "title": "Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania",
-      "description": "Zwiększ swoją produktywność podczas codziennej pracy siegając po dostępną, praktyczną i unikalną wiedzę, która pomoże Tobie odmienić sposób w jaki pracujesz każdego dnia."
+      "description": "Zwiększ swoją produktywność podczas codziennej pracy siegając po dostępną, praktyczną i unikalną wiedzę, która pomoże Tobie odmienić sposób w jaki pracujesz każdego dnia.",
+      "podcast-spotify": "",
     },
     "quotes": {
       "description": "Moja społeczność to każdy, kto chce zwiększyć swoją produktywność i efektywność podczas codziennej pracy. Siegają po tą trudno dostępną, praktyczną i unikalną wiedzę: twórcy, pisarze, programiści, marketerzy, agencje, firmy programistyczne, społeczności, podcasterzy..."
     },
     "author": {
       "title": "Nazywam się"
+    },
+    "slug": {
+      "description": "Na co dzień towarzyszę firmom i instytucjom w projektowaniu strategii oraz opracowywaniu nowych produktów i usług."
+    },
+    "footer": {
+      "carbon-neutral": "Carbon Neutral",
+      "webpage": "Leszek W. Król - Strona internetowa",
+      "legal-msg": "Informacje zamieszczone na naszej stronie internetowej nie mogą zostać uznane za poradę w jakiejkolwiek sprawie. Treści na niej zawarte mają charakter wyłącznie informacyjny, a my nie ponosimy odpowiedzialności z tytułu powstania jakichkolwiek szkód, wynikających z ich interpretacji, bez konsultacji. Wszystkie materiały udostępnione na naszej stronie internetowej są aktualne na dzień ich zamieszczenia. Nie możemy jednak zagwarantować, że będą aktualne czy przydatne w każdym stanie faktycznym i w każdym czasie. Wszelkie treści zawarte na naszej stronie można wykorzystywać wyłącznie do niekomercyjnego użytku prywatnego. Jeśli chcesz wykorzystać je w celach publicznych lub komercyjnych – napisz do nas.",
+      "principles": "Pryncypia",
+      "terms-of-use": "Zasady korzystania",
+      "privacy-policy": "Polityka prywatności",
+      "proudly-powered": "Dumnie zasilany przez dhosting.pl",
+      "all-rights-reserved": "Wszelkie prawa zastrzeżone."
     }
-  },
-  "footer": {
-    "legal-msg": "Informacje zamieszczone na naszej stronie internetowej nie mogą zostać uznane za poradę w jakiejkolwiek sprawie. Treści na niej zawarte mają charakter wyłącznie informacyjny, a my nie ponosimy odpowiedzialności z tytułu powstania jakichkolwiek szkód, wynikających z ich interpretacji, bez konsultacji. Wszystkie materiały udostępnione na naszej stronie internetowej są aktualne na dzień ich zamieszczenia. Nie możemy jednak zagwarantować, że będą aktualne czy przydatne w każdym stanie faktycznym i w każdym czasie. Wszelkie treści zawarte na naszej stronie można wykorzystywać wyłącznie do niekomercyjnego użytku prywatnego. Jeśli chcesz wykorzystać je w celach publicznych lub komercyjnych – napisz do nas.",
-    "principles": "Pryncypia",
-    "terms-of-use": "Zasady korzystania",
-    "privacy-policy": "Polityka prywatności",
-    "proudly-powered": "Dumnie zasilany przez dhosting.pl",
-    "all-rights-reserved": "Wszelkie prawa zastrzeżone.",
   }
 }

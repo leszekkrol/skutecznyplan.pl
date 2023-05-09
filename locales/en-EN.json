@@ -1,32 +1,40 @@
 {
   "common": {
-    "support": "Support me",
+    "error-404": "Error 404",
+    "not-found": "Page not found",
+    "support": "Support the creator",
     "listen": "Listen to the podcast now",
     "homepage": "Homepage",
-    "subscribe-msg": "Subscribe to your favorite podcast platform:",
+    "subscribe-msg": "Subscribe on your favorite podcast platform:",
     "read-more": "Read more",
     "article": "Article",
     "community": "Community",
-    "what-listeners-saying": "What are the listeners saying?"
+    "what-listeners-saying": "What are listeners saying?"
   },
   "section": {
     "header": {
-      "title": "I'll help you develop your management skills",
-      "description": "Increase your productivity at work by reaching for accessible, practical and unique knowledge that will help you change the way you work every day."
+      "title": "I'll help you develop practical management skills",
+      "description": "Increase your productivity during daily work by accessing practical and unique knowledge that will help you transform the way you work every day.",
+      "podcast-spotify": ""
     },
     "quotes": {
-      "description": "My community is anyone who wants to increase their productivity and efficiency in their daily work. They reach for this hard-to-reach, practical and unique knowledge: creators, writers, programmers, marketers, agencies, software companies, communities, podcasters.. "
+      "description": "My community is anyone who wants to increase their productivity and efficiency during daily work. They reach for this hard-to-access, practical and unique knowledge: creators, writers, programmers, marketers, agencies, software companies, communities, podcasters..."
     },
     "author": {
       "title": "My name is"
+    },
+    "slug": {
+      "description": "On a daily basis, I accompany companies and institutions in designing strategies and developing new products and services."
+    },
+    "footer": {
+      "carbon-neutral": "Carbon Neutral",
+      "webpage": "Leszek W. Król - Website",
+      "legal-msg": "The information on our website cannot be considered as advice in any matter. The content is for informational purposes only, and we are not responsible for any damages resulting from their interpretation without consultation. All materials available on our website are current as of the date of posting. However, we cannot guarantee that they will be current or useful in every factual situation and at all times. All content on our website may only be used for non-commercial private use. If you want to use them for public or commercial purposes, please contact us.",
+      "principles": "Principles",
+      "terms-of-use": "Terms of Use",
+      "privacy-policy": "Privacy Policy",
+      "proudly-powered": "Proudly powered by dhosting.pl",
+      "all-rights-reserved": "All rights reserved."
     }
-  },
-  "footer": {
-    "legal-msg": "The information posted on our website cannot be considered as advice on any matter. The content contained therein is for informational purposes only, and we do not accept any responsibility for any damages resulting from their interpretation without consultation. All materials provided on our website are current as of the date of posting. However, we cannot guarantee that they will be current or useful in every factual circumstance or at all times. Any content contained on our website may only be used for non-commercial private use. If you want to use them for public or commercial purposes, please contact us.",
-    "principles": "Principles",
-    "terms-of-use": "Terms of use",
-    "privacy-policy": "Privacy policy",
-    "proudly-powered": "Proudly powered by dhosting.pl",
-    "all-rights-reserved": "All rights reserved.",
   }
 }

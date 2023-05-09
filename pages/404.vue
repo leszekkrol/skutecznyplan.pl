@@ -1,8 +1,8 @@
 <template>
   <div>
     <Header 
-      tag="Błąd 404" 
-      title="Strona nie została znaleziona" />
+      :tag="$('error-404')" 
+      :title="$('not-found')" />
   </div>
 </template>
 
