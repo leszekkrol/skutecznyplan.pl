@@ -8,28 +8,28 @@
         <li>
           <NuxtLink 
             to="/pryncypia" 
-            title="Pryncypia Skuteczny Plan Podcast" 
+            :title="$t('footer.principles')" 
             data-splitbee-event="Pryncypia"
             class="mr-8 underline">{{ $t('footer.principles') }}</NuxtLink>
         </li>
         <li>
           <NuxtLink 
             to="/zasady-korzystania" 
-            title="Zasady korzystania z serwisu"
+            :title="$t('footer.terms-of-use')"
             data-splitbee-event="Zasady korzystania" 
             class="mr-8 underline">{{ $t('footer.terms-of-use') }}</NuxtLink>
         </li>
         <li>
           <NuxtLink 
             to="/polityka-prywatnosci" 
-            title="Polityka prywatności serwisu"
+            :title="$t('footer.privacy-policy')"
             data-splitbee-event="Polityka prywatności" 
             class="mr-8 underline">{{ $t('footer.privacy-policy') }}</NuxtLink>
         </li>
         <li>
           <a 
             href="https://dhosting.pl/pp-leszekkrol" 
-            title="Dumnie zasilany przez dhosting.pl" 
+            :title="$t('footer.proudly-powered')" 
             data-splitbee-event="Polecam dhosting.pl" 
             class="underline">{{ $t('footer.proudly-powered') }}</a>
         </li>

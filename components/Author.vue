@@ -11,7 +11,7 @@
       </div>
       <div class="md:pl-14 md:w-8/12">
         <h2 class="mt-12 font-display text-5xl font-extrabold tracking-tight text-white sm:text-6xl text-gray-300">
-          Nazywam się <br><span class="block text-header">Leszek W. Król</span>
+          {{ $t('section.author.title') }} <br><span class="block text-header">Leszek W. Król</span>
         </h2>
         <p class="mt-4 text-lg tracking-tight ">Nazywam się Leszek W. Król od prawie dwóch dekad pasjonuje się nowymi technologiami aktywnie działając w ekosystemie startupowym. Na codzień towarzyszę firmom i instytucjom w projektowaniu strategii oraz rozwoju nowych produktów i usług.</p>
         <p class="mt-4 text-lg tracking-tight">Inicjator i założyciel 

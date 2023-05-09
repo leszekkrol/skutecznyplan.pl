@@ -6,7 +6,9 @@
           {{ $t('common.community') }} ⭐️
         </p>
         <h2 class="mt-2 leading-loose font-extrabold tracking-tight text-header sm:text-4xl text-4xl sm:leading-10 lg:leading-relaxed lg:text-6xl">{{ $t('common.what-listeners-saying') }}</h2>
-        <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-300 mx-auto">Moja społeczność to każdy, kto chce zwiększyć swoją produktywność i efektywność podczas codziennej pracy. Siegają po tą trudno dostępną, praktyczną i unikalną wiedzę: twórcy, pisarze, programiści, marketerzy, agencje, firmy programistyczne, społeczności, podcasterzy...</p>
+        <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-300 mx-auto">
+          {{ $t('section.quotes.description') }}
+        </p>
       </div>
       <ul class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-6 sm:gap-8 lg:mt-20 lg:max-w-none lg:grid-cols-3">
         <li v-for="item in quotesList" >
