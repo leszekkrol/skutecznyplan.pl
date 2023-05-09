@@ -15,16 +15,29 @@
     "header": {
       "title": "Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania",
       "description": "Zwiększ swoją produktywność podczas codziennej pracy siegając po dostępną, praktyczną i unikalną wiedzę, która pomoże Tobie odmienić sposób w jaki pracujesz każdego dnia.",
-      "podcast-spotify": "",
+      "podcast-spotify": "Skuteczny Plan - podcast na Spotify",
+      "podcast-apple": "Skuteczny Plan - podcast na Apple Podcast",
+      "podcast-google": "Skuteczny Plan - podcast na Google Podcast",
     },
     "quotes": {
       "description": "Moja społeczność to każdy, kto chce zwiększyć swoją produktywność i efektywność podczas codziennej pracy. Siegają po tą trudno dostępną, praktyczną i unikalną wiedzę: twórcy, pisarze, programiści, marketerzy, agencje, firmy programistyczne, społeczności, podcasterzy..."
     },
     "author": {
-      "title": "Nazywam się"
+      "title": "Nazywam się",
+      "avatar-desc": "Leszek W. Król - Przedsiębiorca"
     },
     "slug": {
       "description": "Na co dzień towarzyszę firmom i instytucjom w projektowaniu strategii oraz opracowywaniu nowych produktów i usług."
+    },
+    "terms-of-use": {
+      "title": "Zasady korzystania",
+      "description": "Informacje zamieszczone na naszej stronie internetowej nie mogą zostać uznane za poradę w jakiejkolwiek sprawie. Treści na niej zawarte mają charakter wyłącznie informacyjny, a my nie ponosimy odpowiedzialności z tytułu powstania jakichkolwiek szkód, wynikających z ich interpretacji, bez konsultacji. Wszystkie materiały udostępnione na naszej stronie internetowej są aktualne na dzień ich zamieszczenia. Nie możemy jednak zagwarantować, że będą aktualne czy przydatne w każdym stanie faktycznym i w każdym czasie. Wszelkie treści zawarte na naszej stronie można wykorzystywać wyłącznie do niekomercyjnego użytku prywatnego. Jeśli chcesz wykorzystać je w celach publicznych lub komercyjnych – napisz do nas.",
+    },
+    "principles": {
+
+    },
+    "privacy-policy": {
+
     },
     "footer": {
       "carbon-neutral": "Carbon Neutral",

@@ -15,16 +15,29 @@
     "header": {
       "title": "I'll help you develop practical management skills",
       "description": "Increase your productivity during daily work by accessing practical and unique knowledge that will help you transform the way you work every day.",
-      "podcast-spotify": ""
+      "podcast-spotify": "Effective Plan - podcast on Spotify",
+      "podcast-apple": "Effective Plan - podcast on Apple Podcast",
+      "podcast-google": "Effective Plan - podcast on Google Podcast",
     },
     "quotes": {
       "description": "My community is anyone who wants to increase their productivity and efficiency during daily work. They reach for this hard-to-access, practical and unique knowledge: creators, writers, programmers, marketers, agencies, software companies, communities, podcasters..."
     },
     "author": {
-      "title": "My name is"
+      "title": "My name is",
+      "avatar-desc": "Leszek W. Król - Entrepreneur"
     },
     "slug": {
       "description": "On a daily basis, I accompany companies and institutions in designing strategies and developing new products and services."
+    },
+    "terms-of-use": {
+      "title": "Terms of Use",
+      "description": "The information posted on our website cannot be considered as advice on any matter. The contents provided on our website are for informational purposes only, and we do not assume any responsibility for any damages arising from their interpretation without consultation. All materials provided on our website are current as of the date of their publication. However, we cannot guarantee that they will be current or useful in every factual situation and at all times. Any content contained on our website may only be used for non-commercial private use. If you want to use them for public or commercial purposes, please contact us.",
+    },
+    "principles": {
+
+    },
+    "privacy-policy": {
+
     },
     "footer": {
       "carbon-neutral": "Carbon Neutral",
