@@ -86,8 +86,45 @@
       ]
     },
     "privacy-policy": {
-      "title": "Privacy policy",
-      "description": "We attach great importance to confidentiality, and protecting the trade secrets and confidential information of our clients is a hallmark of our professionalism. That is why our employees undergo appropriate training in this area, and the company uses modern technical means to secure the confidential information entrusted to us.",
+      "title": "Privacy Policy",
+      "metadata": {
+        "content": "We attach the highest importance to confidentiality, and safeguarding the trade secrets and confidential information of our clients is a measure of our professionalism."
+      },
+      "description_1": "We attach great importance to confidentiality and professionalism in safeguarding company secrets and our clients' confidential information. For this reason, our employees undergo appropriate training in this area, and modern technical means are used in the company to secure the confidential information entrusted to us.",
+      "description_2": "To begin with, we present a shortened version of the most important principles related to privacy protection:",
+      "description_3": [
+        "By sending a message through the contact form or signing up for our newsletter, you provide us with your personal data. We ensure that your data remains confidential, secure and will not be disclosed to any third party without your express consent.",
+        "We entrust the processing of personal data only to verified and trusted entities that provide services related to the processing of personal data.",
+        "We use Google Analytics analytical tools that collect information about your visits to the site (which tabs you click on, how long you spend on the site, how you navigate between tabs). To this end, Google LLC cookies related to the Google Analytics service are used.",
+        "We use marketing tools such as Facebook Pixel to display personalized ads on Facebook. To this end, Facebook cookies are used.",
+        "We provide the option of using social features such as sharing content on social media pages. Using these features may require the use of cookies by social media page administrators such as Facebook, Instagram, Twitter, Behance.",
+        "We use cookies to ensure the proper functioning of the website."
+      ],
+      "description_4": "If you want to learn more, keep reading.",
+      "description_5": "Personal data",
+      "description_6": "Skuteczny Plan is the administrator of your personal data within the meaning of personal data protection regulations. The purposes, legal bases, and period of personal data processing are indicated separately for each purpose of data processing.",
+      "description_7": "GDPR grants you the following rights related to the processing of your personal data:",
+      "description_8": [
+        "the right to rectify personal data,",
+        "the right to access personal data,",
+        "the right to delete personal data,",
+        "the right to limit the processing of personal data,",
+        "the right to object to the processing of personal data,",
+        "the right to data portability,",
+        "the right to lodge a complaint with a supervisory authority,",
+        "the right to withdraw consent to the processing of personal data, if you have previously given such consent."
+      ],
+      "description_9": "You can exercise the above rights in accordance with the principles described in Articles 16-21 of the GDPR by contacting us at the address kontakt{'@'}skutecznyplan.pl. The above email address can also be used for any questions related to the processing of your personal data.",
+      "description_10": "Security",
+      "description_11": "We guarantee the confidentiality of all personal data provided to us. We ensure the implementation of all necessary security measures and personal data protection required by the provisions of personal data protection laws. Personal data is collected with due diligence and properly protected against unauthorized access by third parties.",
+      "description_12": "Data recipients",
+      "description_13": "Your data may be processed by our subcontractors, i.e. entities whose services we use in processing data and providing services or fulfilling orders on your behalf.",
+      "description_14": [
+        "dhosting.pl - for data storage on a server, including a mailbox server,",
+        "Comarch ERPXT - for use of the invoicing system, in which your personal data is processed for the purpose of issuing an invoice,",
+        "individuals who, when providing technical support services for the Skuteczny Plan website, may potentially access your personal data."
+      ],
+      "description_15": "All entities to whom we entrust the processing of personal data guarantee the use of appropriate security and personal data protection measures required by law."
     },
     "footer": {
       "carbon-neutral": "Carbon Neutral",
