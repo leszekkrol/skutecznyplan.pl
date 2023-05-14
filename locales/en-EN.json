@@ -48,10 +48,16 @@
     "terms-of-use": {
       "title": "Terms of Use",
       "description": "The information posted on our website cannot be considered as advice on any matter. The contents provided on our website are for informational purposes only, and we do not assume any responsibility for any damages arising from their interpretation without consultation. All materials provided on our website are current as of the date of their publication. However, we cannot guarantee that they will be current or useful in every factual situation and at all times. Any content contained on our website may only be used for non-commercial private use. If you want to use them for public or commercial purposes, please contact us.",
+      "metadata": {
+        "content": "All content contained on our website may only be used for non-commercial private use. If you wish to use it for public or commercial purposes.",
+      }
     },
     "principles": {
       "title": "Principles",
       "description": "Principles [from Latin prīncipium, 'beginning, foundation']. A fundamental truth or proposition that serves as the foundation for a system of beliefs, behavior, or reasoning chain.",
+      "metadata": {
+        "content": "Principles [from Latin prīncipium, 'beginning, foundation']. A fundamental truth or proposition that serves as the foundation for a system of beliefs, behaviors, or reasoning chain.",
+      },
       "rules": [
         "Don't be the smartest person in the room.",
         "Listening > talking.",
