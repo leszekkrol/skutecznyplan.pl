@@ -25,4 +25,11 @@ useHead({
     { hid: "og:url", name: "og:url", content: "https://www.skutecznyplan.pl" + route.params.fullPath }
   ],
 })
+
+defineI18nRoute({
+  paths: {
+    pl: '/zasady-korzystania',
+    en: '/terms-of-use'
+  }
+})
 </script>

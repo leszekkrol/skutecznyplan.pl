@@ -7,21 +7,21 @@
       <ul class="flex flex-wrap justify-left my-6 text-gray-400">
         <li>
           <NuxtLink 
-            to="/pryncypia" 
+            :to="localePath('pryncypia')" 
             :title="$t('section.footer.principles')" 
             data-splitbee-event="Pryncypia"
             class="mr-8 underline">{{ $t('section.footer.principles') }}</NuxtLink>
         </li>
         <li>
           <NuxtLink 
-            to="/zasady-korzystania" 
+            :to="localePath('zasady-korzystania')"
             :title="$t('section.footer.terms-of-use')"
             data-splitbee-event="Zasady korzystania" 
             class="mr-8 underline">{{ $t('section.footer.terms-of-use') }}</NuxtLink>
         </li>
         <li>
           <NuxtLink 
-            to="/polityka-prywatnosci" 
+            :to="localePath('polityka-prywatnosci')"
             :title="$t('section.footer.privacy-policy')"
             data-splitbee-event="Polityka prywatności" 
             class="mr-8 underline">{{ $t('section.footer.privacy-policy') }}</NuxtLink>

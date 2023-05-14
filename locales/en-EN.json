@@ -2,7 +2,7 @@
   "common": {
     "error-404": "Error 404",
     "not-found": "Page not found",
-    "support": "Support the creator",
+    "support": "Support me",
     "listen": "Listen to the podcast now",
     "homepage": "Homepage",
     "subscribe-msg": "Subscribe on your favorite podcast platform:",
@@ -34,7 +34,40 @@
       "description": "The information posted on our website cannot be considered as advice on any matter. The contents provided on our website are for informational purposes only, and we do not assume any responsibility for any damages arising from their interpretation without consultation. All materials provided on our website are current as of the date of their publication. However, we cannot guarantee that they will be current or useful in every factual situation and at all times. Any content contained on our website may only be used for non-commercial private use. If you want to use them for public or commercial purposes, please contact us.",
     },
     "principles": {
-
+      "title": "Principles",
+      "description": "Principles [from Latin prīncipium, 'beginning, foundation']. A fundamental truth or proposition that serves as the foundation for a system of beliefs, behavior, or reasoning chain.",
+      "rules": [
+        "Don't be the smartest person in the room.",
+        "Listening > talking.",
+        "Always demand a deadline.",
+        "Being enthusiastic is worth 25 IQ points.",
+        "Maintain high standards in everything you do.",
+        "Remember that what you don't know is more important than what you already know.",
+        "Strive to be the most successful version of yourself.",
+        "Don't forget to praise well-done work (but don't praise bad work).",
+        "Don't criticize anyone in front of others.",
+        "Say 'thank you'!",
+        "Dress as the person you want to be.",
+        "Stupid people double stupidity. Then triple.",
+        "Train your mind, gut (nutrition), and body. Lift weights.",
+        "Always give more than you take.",
+        "Explore and try new things (60/30-minute rule).",
+        "Surround yourself with the best (few) people. Reject those who don't make you better.",
+        "Encourage intellectual debate.",
+        "Make room for mistakes. Don't worry about being wrong.",
+        "Understand interdisciplinary learning.",
+        "Small details build a big picture. Think first principles.",
+        "Everything has been done before. The scenes change, but behaviors and results don't.",
+        "Understand the 80/20 rule.",
+        "Be an infinite learner. Reading (learning) is the ultimate meta-skill.",
+        "Knowledge is a complex interest of curiosity.",
+        "Your habits make you. Stick to simple rules.",
+        "Our lives are shaped by our minds; we become what we think.",
+        "Pursue what matters, not what's expedient.",
+        "Don't complain.",
+        "Don't let other people's expectations guide your actions.",
+        "Write down everything you want to achieve."
+      ]
     },
     "privacy-policy": {
 

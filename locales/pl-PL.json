@@ -34,7 +34,40 @@
       "description": "Informacje zamieszczone na naszej stronie internetowej nie mogą zostać uznane za poradę w jakiejkolwiek sprawie. Treści na niej zawarte mają charakter wyłącznie informacyjny, a my nie ponosimy odpowiedzialności z tytułu powstania jakichkolwiek szkód, wynikających z ich interpretacji, bez konsultacji. Wszystkie materiały udostępnione na naszej stronie internetowej są aktualne na dzień ich zamieszczenia. Nie możemy jednak zagwarantować, że będą aktualne czy przydatne w każdym stanie faktycznym i w każdym czasie. Wszelkie treści zawarte na naszej stronie można wykorzystywać wyłącznie do niekomercyjnego użytku prywatnego. Jeśli chcesz wykorzystać je w celach publicznych lub komercyjnych – napisz do nas.",
     },
     "principles": {
-
+      "title": "Pryncypia",
+      "description": "Pryncypia [z łacińskiego prīncipium, 'początek, fundament']. Podstawowa prawda lub propozycja, która służy jako podstawa systemu przekonań, zachowań lub łańcucha rozumowania.",
+      "rules": [    
+        "Nie bądź najmądrzejszą osobą w pokoju.",    
+        "Słuchanie > mówienie.",    
+        "Zawsze żądaj terminu.",    
+        "Bycie entuzjastycznym jest warte 25 punktów IQ.",    
+        "Utrzymuj wysokie standardy we wszystkim, co robisz.",    
+        "Pamiętaj, że to, czego jeszcze nie wiesz, jest ważniejsze niż to, co już wiesz.",    
+        "Staraj się być najbardziej udaną wersją tego, kim jesteś.",    
+        "Nie zapomnij pochwalić dobrze wykonanej pracy (ale nie pochwal złej pracy).",    
+        "Nie krytykuj nikogo w obecności innych.",    
+        "Mów „dziękuję”!",    
+        "Ubieraj się jako osoba, którą chcesz być.",    
+        "Głupi ludzie podwajają głupotę. Potem potroją się.",    
+        "Trenuj swój umysł, wnętrzności (odżywianie) i ciało. Podnosić ciężary.",    
+        "Zawsze dawaj więcej niż bierzesz.",    
+        "Odkrywaj i próbuj nowych rzeczy (zasada 60/30 minut).",    
+        "Otaczaj się najlepszymi (kilku) ludźmi. Odrzuć ludzi, którzy nie czynią cię lepszym.",    
+        "Zachęcaj do intelektualnej debaty.",    
+        "Zrób miejsce na błędy. Nie przejmuj się, że się mylisz.",    
+        "Zrozum uczenie się wielodyscyplinarne.",    
+        "Drobne szczegóły budują duży obraz. Pomyśl o pierwszych zasadach.",    
+        "Wszystko zostało zrobione wcześniej. Sceny się zmieniają, ale zachowania i wyniki nie.",    
+        "Zrozum regułę 80/20.",    
+        "Bądź nieskończonym uczniem. Czytanie (uczenie się) to ostateczna meta-umiejętność.",   
+        "Wiedza jest złożonym zainteresowaniem ciekawości.",    
+        "Twoje nawyki cię tworzą. Trzymaj się prostych zasad.",    
+        "Nasze życie jest kształtowane przez nasz umysł; stajemy się tym, co myślimy.",    
+        "Dąż do tego, co ma znaczenie, a nie do tego, co jest celowe.",    
+        "Nie narzekaj.",   
+        "Nie pozwól, aby oczekiwania innych kierowały Twoimi działaniami.",    
+        "Zapisz wszystko, co chciałbyś osiągnąć."
+      ]
     },
     "privacy-policy": {
 
