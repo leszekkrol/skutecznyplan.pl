@@ -1,0 +1,148 @@
+{
+  "common": {
+    "error-404": "Error 404",
+    "not-found": "Page not found",
+    "support": "Support me",
+    "listen": "Listen to the podcast now",
+    "homepage": "Homepage",
+    "subscribe-msg": "Subscribe on your favorite podcast platform:",
+    "read-more": "Read more",
+    "article": "Article",
+    "community": "Community",
+    "what-listeners-saying": "What are listeners saying?"
+  },
+  "section": {
+    "404": {
+      "title": "Page not found",
+      "description": "We're sorry, the page you are looking for could not be found."
+    },
+    "header": {
+      "title": "I'll help you develop practical management skills",
+      "description": "Increase your productivity during daily work by accessing practical and unique knowledge that will help you transform the way you work every day.",
+      "podcast-spotify": "Skuteczny Plan - podcast on Spotify",
+      "podcast-apple": "Skuteczny Plan - podcast on Apple Podcast",
+      "podcast-google": "Skuteczny Plan - podcast on Google Podcast",
+    },
+    "quotes": {
+      "description": "My community is anyone who wants to increase their productivity and efficiency during daily work. They reach for this hard-to-access, practical and unique knowledge: creators, writers, programmers, marketers, agencies, software companies, communities, podcasters...",
+    },
+    "author": {
+      "title": "My name is",
+      "avatar-desc": "Leszek W. Król - Entrepreneur",
+      "description_1": "My name is Leszek W. Król and for almost two decades I have been passionate about new technologies, actively operating in the startup ecosystem. On a daily basis, I support companies and institutions in designing strategies and developing new products and services.",
+      "description_2": "Initiator and founder",
+      "description_3": "- of an international virtual hub for independent game developers, which aims to provide knowledge and practical solutions in the area of computer game design and programming, including best business practices supported by success stories of other creators from around the world.",
+      "description_4": "Creator",
+      "description_5": "- of a startup in the educational industry that changes the perception of employers to the importance of student theses written by university students.",
+      "description_6": "Co-owner and CTO",
+      "description_7": "- of a fintech startup providing mobile solutions for seamless customer interaction with a wide range of financial, investment, and transaction platforms.",
+      "description_8": "A pioneer in using augmented reality technology in education and retail industries.",
+      "description_9": "His solutions have been used in campaigns and projects for companies such as McDonald's, Nestle, Mattle, Trefl, and Toyota.",
+      "description_10": "He actively participates in many national and international conferences or scientific seminars dedicated to new technologies and legaltech. He is the author of numerous scientific articles published in Poland and abroad, and co-author of over five hundred IT projects.",
+      "description_11": "Currently, he is a law student at the Higher Banking School in Toruń. He actively participates in student life as the Chairman of the Student Government and a member of the Academic Council. Privately, he is a golf enthusiast and a recent crossfit enthusiast.",
+      "description_12": "- Continuously inspiring young people to make a change."
+    },
+    "slug": {
+      "description": "On a daily basis, I accompany companies and institutions in designing strategies and developing new products and services."
+    },
+    "terms-of-use": {
+      "title": "Terms of Use",
+      "description": "The information posted on our website cannot be considered as advice on any matter. The contents provided on our website are for informational purposes only, and we do not assume any responsibility for any damages arising from their interpretation without consultation. All materials provided on our website are current as of the date of their publication. However, we cannot guarantee that they will be current or useful in every factual situation and at all times. Any content contained on our website may only be used for non-commercial private use. If you want to use them for public or commercial purposes, please contact us.",
+    },
+    "principles": {
+      "title": "Principles",
+      "description": "Principles [from Latin prīncipium, 'beginning, foundation']. A fundamental truth or proposition that serves as the foundation for a system of beliefs, behavior, or reasoning chain.",
+      "rules": [
+        "Don't be the smartest person in the room.",
+        "Listening > talking.",
+        "Always demand a deadline.",
+        "Being enthusiastic is worth 25 IQ points.",
+        "Maintain high standards in everything you do.",
+        "Remember that what you don't know is more important than what you already know.",
+        "Strive to be the most successful version of yourself.",
+        "Don't forget to praise well-done work (but don't praise bad work).",
+        "Don't criticize anyone in front of others.",
+        "Say 'thank you'!",
+        "Dress as the person you want to be.",
+        "Stupid people double stupidity. Then triple.",
+        "Train your mind, gut (nutrition), and body. Lift weights.",
+        "Always give more than you take.",
+        "Explore and try new things (60/30-minute rule).",
+        "Surround yourself with the best (few) people. Reject those who don't make you better.",
+        "Encourage intellectual debate.",
+        "Make room for mistakes. Don't worry about being wrong.",
+        "Understand interdisciplinary learning.",
+        "Small details build a big picture. Think first principles.",
+        "Everything has been done before. The scenes change, but behaviors and results don't.",
+        "Understand the 80/20 rule.",
+        "Be an infinite learner. Reading (learning) is the ultimate meta-skill.",
+        "Knowledge is a complex interest of curiosity.",
+        "Your habits make you. Stick to simple rules.",
+        "Our lives are shaped by our minds; we become what we think.",
+        "Pursue what matters, not what's expedient.",
+        "Don't complain.",
+        "Don't let other people's expectations guide your actions.",
+        "Write down everything you want to achieve."
+      ]
+    },
+    "privacy-policy": {
+      "title": "Privacy Policy",
+      "metadata": {
+        "content": "We attach the highest importance to confidentiality, and safeguarding the trade secrets and confidential information of our clients is a measure of our professionalism."
+      },
+      "description_1": "We attach great importance to confidentiality and professionalism in safeguarding company secrets and our clients' confidential information. For this reason, our employees undergo appropriate training in this area, and modern technical means are used in the company to secure the confidential information entrusted to us.",
+      "description_2": "To begin with, we present a shortened version of the most important principles related to privacy protection:",
+      "description_3": [
+        "By sending a message through the contact form or signing up for our newsletter, you provide us with your personal data. We ensure that your data remains confidential, secure and will not be disclosed to any third party without your express consent.",
+        "We entrust the processing of personal data only to verified and trusted entities that provide services related to the processing of personal data.",
+        "We use Google Analytics analytical tools that collect information about your visits to the site (which tabs you click on, how long you spend on the site, how you navigate between tabs). To this end, Google LLC cookies related to the Google Analytics service are used.",
+        "We use marketing tools such as Facebook Pixel to display personalized ads on Facebook. To this end, Facebook cookies are used.",
+        "We provide the option of using social features such as sharing content on social media pages. Using these features may require the use of cookies by social media page administrators such as Facebook, Instagram, Twitter, Behance.",
+        "We use cookies to ensure the proper functioning of the website."
+      ],
+      "description_4": "If you want to learn more, keep reading.",
+      "description_5": "Personal data",
+      "description_6": "Skuteczny Plan is the administrator of your personal data within the meaning of personal data protection regulations. The purposes, legal bases, and period of personal data processing are indicated separately for each purpose of data processing.",
+      "description_7": "GDPR grants you the following rights related to the processing of your personal data:",
+      "description_8": [
+        "the right to rectify personal data,",
+        "the right to access personal data,",
+        "the right to delete personal data,",
+        "the right to limit the processing of personal data,",
+        "the right to object to the processing of personal data,",
+        "the right to data portability,",
+        "the right to lodge a complaint with a supervisory authority,",
+        "the right to withdraw consent to the processing of personal data, if you have previously given such consent."
+      ],
+      "description_9": "You can exercise the above rights in accordance with the principles described in Articles 16-21 of the GDPR by contacting us at the address kontakt{'@'}skutecznyplan.pl. The above email address can also be used for any questions related to the processing of your personal data.",
+      "description_10": "Security",
+      "description_11": "We guarantee the confidentiality of all personal data provided to us. We ensure the implementation of all necessary security measures and personal data protection required by the provisions of personal data protection laws. Personal data is collected with due diligence and properly protected against unauthorized access by third parties.",
+      "description_12": "Data recipients",
+      "description_13": "Your data may be processed by our subcontractors, i.e. entities whose services we use in processing data and providing services or fulfilling orders on your behalf.",
+      "description_14": [
+        "dhosting.pl - for data storage on a server, including a mailbox server,",
+        "Comarch ERPXT - for use of the invoicing system, in which your personal data is processed for the purpose of issuing an invoice,",
+        "individuals who, when providing technical support services for the Skuteczny Plan website, may potentially access your personal data."
+      ],
+      "description_15": "All entities to whom we entrust the processing of personal data guarantee the use of appropriate security and personal data protection measures required by law."
+    },
+    "footer": {
+      "carbon-neutral": "Carbon Neutral",
+      "webpage": "Leszek W. Król - Website",
+      "legal-msg": "The information on our website cannot be considered as advice in any matter. The content is for informational purposes only, and we are not responsible for any damages resulting from their interpretation without consultation. All materials available on our website are current as of the date of posting. However, we cannot guarantee that they will be current or useful in every factual situation and at all times. All content on our website may only be used for non-commercial private use. If you want to use them for public or commercial purposes, please contact us.",
+      "principles": "Principles",
+      "terms-of-use": "Terms of Use",
+      "privacy-policy": "Privacy Policy",
+      "proudly-powered": "Proudly powered by dhosting.pl",
+      "all-rights-reserved": "All rights reserved."
+    }
+  },
+  "quotes": {
+    "item_1": "Leszek tries to explain everything in a very human way, definitely suitable as a lecturer.",
+    "item_2": "I must admit that listening to you that day, I felt a surge of motivation to do things outside of work.",
+    "item_3": "Leszek touches on topics that are not only related to entrepreneurship and business, but also have to do with everyday life.",
+    "item_4": "A substantive, inspiring, and developing podcast. Thank you for all the episodes! You're doing an amazing job.",
+    "item_5": "The podcast gives a lot of courage for daily action. Leszek develops and helps to step out of the comfort zone, allowing us to think and look more broadly.",
+    "item_6": "Leszek is very pleasant and gentle to listen to. The podcast is definitely directed to ordinary people, without pompous words.",
+  }
+}

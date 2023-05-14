@@ -1,0 +1,154 @@
+{
+  "common": {
+    "error-404": "Bład 404",
+    "not-found": "Strona nie została znaleziona",
+    "support": "Wspieraj twórczość",
+    "listen": "Odsłuchaj podcast teraz",
+    "homepage": "Strona główna",
+    "subscribe-msg": "Zasubskrybuj na ulubionej platformie podcastów:",
+    "read-more": "Czytaj więcej",
+    "article": "Artykuł",
+    "community": "Społeczność",
+    "what-listeners-saying": "Co mówią słuchacze?"
+  },
+  "section": {
+    "404": {
+      "title": "Strona nie znaleziona",
+      "description": "Przepraszamy, strona, której szukasz nie została znaleziona."
+    },
+    "header": {
+      "title": "Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania",
+      "description": "Zwiększ swoją produktywność podczas codziennej pracy siegając po dostępną, praktyczną i unikalną wiedzę, która pomoże Tobie odmienić sposób w jaki pracujesz każdego dnia.",
+      "podcast-spotify": "Skuteczny Plan - podcast na Spotify",
+      "podcast-apple": "Skuteczny Plan - podcast na Apple Podcast",
+      "podcast-google": "Skuteczny Plan - podcast na Google Podcast",
+    },
+    "quotes": {
+      "description": "Moja społeczność to każdy, kto chce zwiększyć swoją produktywność i efektywność podczas codziennej pracy. Siegają po tą trudno dostępną, praktyczną i unikalną wiedzę: twórcy, pisarze, programiści, marketerzy, agencje, firmy programistyczne, społeczności, podcasterzy..."
+    },
+    "author": {
+      "title": "Nazywam się",
+      "avatar-desc": "Leszek W. Król - Przedsiębiorca",
+      "description_1": "Nazywam się Leszek W. Król od prawie dwóch dekad pasjonuje się nowymi technologiami aktywnie działając w ekosystemie startupowym. Na codzień towarzyszę firmom i instytucjom w projektowaniu strategii oraz rozwoju nowych produktów i usług.",
+      "description_2": "Inicjator i założyciel",
+      "description_3": "- międzynarodowego wirtualnego hubu dla niezależnych twórców gier komputerowych, którego celem jest dostarczanie wiedzy oraz praktycznych rozwiązań w obszarze projektowania i programowania gier komputerowych, w tym najlepszych praktyk biznesowych popartych historią sukcesu innych twórców z całego świata.",
+      "description_4": "Twórca",
+      "description_5": "- startupu z branży edukacyjnej, który zmienia postrzeganie pracodawców na znaczenie prac dyplomowych pisanych przez studentów uczelni wyższych.",
+      "description_6": "Współwłaściciel i CTO",
+      "description_7": "- startupu z branży fintech dostarczającego rozwiązania mobilne umożliwiające bezproblemową interakcje klienta z szeroką gamą platform finansowych, inwestycyjnych i transakcyjnych.",
+      "description_8": "Prekursor wykorzystania technologii rozszerzonej rzeczywistości w edukacji oraz branży retail.",
+      "description_9": "Jego rozwiązania były wykorzystywane w kampaniach i projektach takich firm jak: McDonalds, Nestle, Mattle, Trefl czy Toyota.",
+      "description_10": "Aktywnie uczestniczy w wielu krajowych i międzynarodowych konferencjach, czy seminariach naukowych poświęconych nowym technologiom oraz legaltech. Autor licznych artykułów naukowych opublikowanych w Polsce i za granica. Nadto współautor ponad pięciuset projektów informatycznych.",
+      "description_11": "Aktualnie student Prawa na Wyższej Szkole Bankowej w Toruniu. Aktywnie uczestniczy w życiu studenckim jako Przewodniczący Samorządu Studenckiego oraz członek Rady Akademickiej. Prywatnie miłośnik golfa i od niedawna crossfit’u.",
+      "description_12": "— Ciągle inspiruje młodych ludzi do zmiany."
+    },
+    "slug": {
+      "description": "Na co dzień towarzyszę firmom i instytucjom w projektowaniu strategii oraz opracowywaniu nowych produktów i usług."
+    },
+    "terms-of-use": {
+      "title": "Zasady korzystania",
+      "description": "Informacje zamieszczone na naszej stronie internetowej nie mogą zostać uznane za poradę w jakiejkolwiek sprawie. Treści na niej zawarte mają charakter wyłącznie informacyjny, a my nie ponosimy odpowiedzialności z tytułu powstania jakichkolwiek szkód, wynikających z ich interpretacji, bez konsultacji. Wszystkie materiały udostępnione na naszej stronie internetowej są aktualne na dzień ich zamieszczenia. Nie możemy jednak zagwarantować, że będą aktualne czy przydatne w każdym stanie faktycznym i w każdym czasie. Wszelkie treści zawarte na naszej stronie można wykorzystywać wyłącznie do niekomercyjnego użytku prywatnego. Jeśli chcesz wykorzystać je w celach publicznych lub komercyjnych – napisz do nas.",
+      "metadata": {
+        "content": "Wszelkie treści zawarte na naszej stronie można wykorzystywać wyłącznie do niekomercyjnego użytku prywatnego. Jeśli chcesz wykorzystać je w celach publicznych lub komercyjnych.",
+      }
+    },
+    "principles": {
+      "title": "Pryncypia",
+      "description": "Pryncypia [z łacińskiego prīncipium, 'początek, fundament']. Podstawowa prawda lub propozycja, która służy jako podstawa systemu przekonań, zachowań lub łańcucha rozumowania.",
+      "metadata": {
+        "content": "Pryncypia [z łacińskiego prīncipium, „początek, fundament”]. Podstawowa prawda lub propozycja, która służy jako podstawa systemu przekonań, zachowań lub łańcucha rozumowania.",
+      },
+      "rules": [    
+        "Nie bądź najmądrzejszą osobą w pokoju.",    
+        "Słuchanie > mówienie.",    
+        "Zawsze żądaj terminu.",    
+        "Bycie entuzjastycznym jest warte 25 punktów IQ.",    
+        "Utrzymuj wysokie standardy we wszystkim, co robisz.",    
+        "Pamiętaj, że to, czego jeszcze nie wiesz, jest ważniejsze niż to, co już wiesz.",    
+        "Staraj się być najbardziej udaną wersją tego, kim jesteś.",    
+        "Nie zapomnij pochwalić dobrze wykonanej pracy (ale nie pochwal złej pracy).",    
+        "Nie krytykuj nikogo w obecności innych.",    
+        "Mów „dziękuję”!",    
+        "Ubieraj się jako osoba, którą chcesz być.",    
+        "Głupi ludzie podwajają głupotę. Potem potroją się.",    
+        "Trenuj swój umysł, wnętrzności (odżywianie) i ciało. Podnosić ciężary.",    
+        "Zawsze dawaj więcej niż bierzesz.",    
+        "Odkrywaj i próbuj nowych rzeczy (zasada 60/30 minut).",    
+        "Otaczaj się najlepszymi (kilku) ludźmi. Odrzuć ludzi, którzy nie czynią cię lepszym.",    
+        "Zachęcaj do intelektualnej debaty.",    
+        "Zrób miejsce na błędy. Nie przejmuj się, że się mylisz.",    
+        "Zrozum uczenie się wielodyscyplinarne.",    
+        "Drobne szczegóły budują duży obraz. Pomyśl o pierwszych zasadach.",    
+        "Wszystko zostało zrobione wcześniej. Sceny się zmieniają, ale zachowania i wyniki nie.",    
+        "Zrozum regułę 80/20.",    
+        "Bądź nieskończonym uczniem. Czytanie (uczenie się) to ostateczna meta-umiejętność.",   
+        "Wiedza jest złożonym zainteresowaniem ciekawości.",    
+        "Twoje nawyki cię tworzą. Trzymaj się prostych zasad.",    
+        "Nasze życie jest kształtowane przez nasz umysł; stajemy się tym, co myślimy.",    
+        "Dąż do tego, co ma znaczenie, a nie do tego, co jest celowe.",    
+        "Nie narzekaj.",   
+        "Nie pozwól, aby oczekiwania innych kierowały Twoimi działaniami.",    
+        "Zapisz wszystko, co chciałbyś osiągnąć."
+      ]
+    },
+    "privacy-policy": {
+      "title": "Polityka prywatności",
+      "metadata": {
+        "content": "Do zasad poufności przykładamy najwyższą wagę, a dbałość o tajemnice przedsiębiorstwa i informacje poufne naszych klientów jest dla nas wyznacznikiem profesjonalizmu."
+      },
+      "description_1": "Do zasad poufności przykładamy najwyższą wagę, a dbałość o tajemnice przedsiębiorstwa i informacje poufne naszych klientów jest dla nas wyznacznikiem profesjonalizmu. Dlatego też nasi pracownicy przechodzą odpowiednie szkolenia w tym zakresie, a w firmie stosowane są nowoczesne środki techniczne w celu zabezpieczenia powierzonych nam informacji poufnych.",
+      "description_2": "Na początek przedstawiamy skróconą wersję najważniejszych zasad związanych z ochroną prywatności:",
+      "description_3": [
+        "Wysyłając wiadomość za pomocą formularza kontaktowego lub zapisując się na nasz newsletter, przekazujesz nam swoje dane osobowe. Zapewniamy, że Twoje dane pozostaną poufne, bezpieczne i nie będą udostępniane jakimkolwiek podmiotom trzecim bez Twojej wyraźnej zgody.",
+        "Powierzamy przetwarzanie danych osobowych tylko sprawdzonym i zaufanym podmiotom, którzy świadczą usługi związane z przetwarzaniem danych osobowych.",
+        "Korzystamy z narzędzi analitycznych Google Analytics, które zbierają informacje o Twoich wizytach na stronie (na które zakładki klikasz, jak długo spędzasz na stronie, jak nawigujesz między zakładkami). W tym celu wykorzystywane są pliki cookies firmy Google LLC związane z usługą Google Analytics.",
+        "Wykorzystujemy narzędzia marketingowe, takie jak Facebook Pixel, by wyświetlać spersonalizowane reklamy na Facebooku. W tym celu wykorzystywane są pliki cookies firmy Facebook.",
+        "Zapewniamy możliwość korzystania z funkcji społecznościowych, takich jak udostępnianie treści na stronach społecznościowych. Korzystanie z tych funkcji może wymagać wykorzystania plików cookies przez administratorów stron społecznościowych, takich jak Facebook, Instagram, Twitter, Behance.",
+        "Wykorzystujemy pliki cookies, aby zapewnić prawidłowe działanie strony."
+      ],
+      "description_4": "Jeżeli chcesz dowiedzieć się więcej, czytaj dalej.",
+      "description_5": "Dane osobowe",
+      "description_6": "Administratorem Twoich danych osobowych w rozumieniu przepisów o ochronie danych osobowych jest Skuteczny Plan. Cele, podstawy prawne oraz okres przetwarzania danych osobowych wskazane są osobno do każdego celu przetwarzania danych uprawnienia.",
+      "description_7": "RODO przyznaje Ci następujące uprawnienia związane z przetwarzaniem Twoich danych osobowych:",
+      "description_8": [
+        "prawo do sprostowania danych osobowych,",
+        "prawo dostępu do danych osobowych,",
+        "prawo do usunięcia danych osobowych,",
+        "prawo do ograniczenia przetwarzania danych osobowych,",
+        "prawo do wniesienia sprzeciwu co do przetwarzania danych osobowych,",
+        "prawo do przenoszenia danych,",
+        "prawo do wniesienia skargi do organu nadzorczego,",
+        "prawo do odwołania zgody na przetwarzanie danych osobowych, jeżeli takiej zgody udzieliłeś wcześniej."
+      ],
+      "description_9": "Powyższe uprawnienia możesz realizować zgodnie z zasadami opisanymi w art. 16 – 21 RODO, kontaktując się z nami pod adresem kontakt{'@'}skutecznyplan.pl. Podany powyżej adres e-mail możesz wykorzystać również w razie jakichkolwiek pytań związanych z przetwarzaniem Twoich danych osobowych.",
+      "description_10": "Bezpieczeństwo",
+      "description_11": "Gwarantujemy poufność wszelkich przekazanych nam danych osobowych. Zapewniamy podjęcie wszelkich środków bezpieczeństwa i ochrony danych osobowych wymaganych przez przepisy o ochronie danych osobowych. Dane osobowe są gromadzone z należytą starannością i odpowiednio chronione przed dostępem do nich przez osoby do tego nieupoważnione.",
+      "description_12": "Odbiór danych",
+      "description_13": "Twoje dane mogą być przetwarzane przez naszych podwykonawców, czyli podmioty, z których usług korzystamy przy przetwarzaniu danych oraz świadczeniu na Twoją rzecz usług czy realizacji zamówień.",
+      "description_14": [
+        "dhosting.pl - w celu przechowywania danych na serwerze, w tym serwerze skrzynki pocztowej,",
+        "Comarch ERPXT - w celu korzystania z systemu do fakturowania, w którym przetwarzane są Twoje dane osobowe na potrzeby wystawienia faktury,",
+        "osoby, które przy świadczeniu na rzecz Skuteczny Plan usług związanych ze wsparciem technicznym strony internetowej mogą potencjalnie uzyskać dostęp do Twoich danych osobowych."
+      ],
+      "description_15": "Wszystkie podmioty, którym powierzam przetwarzanie danych osobowych gwarantują stosowanie odpowiednich środków ochrony i bezpieczeństwa danych osobowych wymaganych przez przepisy prawa.",
+    },
+    "footer": {
+      "carbon-neutral": "Carbon Neutral",
+      "webpage": "Leszek W. Król - Strona internetowa",
+      "legal-msg": "Informacje zamieszczone na naszej stronie internetowej nie mogą zostać uznane za poradę w jakiejkolwiek sprawie. Treści na niej zawarte mają charakter wyłącznie informacyjny, a my nie ponosimy odpowiedzialności z tytułu powstania jakichkolwiek szkód, wynikających z ich interpretacji, bez konsultacji. Wszystkie materiały udostępnione na naszej stronie internetowej są aktualne na dzień ich zamieszczenia. Nie możemy jednak zagwarantować, że będą aktualne czy przydatne w każdym stanie faktycznym i w każdym czasie. Wszelkie treści zawarte na naszej stronie można wykorzystywać wyłącznie do niekomercyjnego użytku prywatnego. Jeśli chcesz wykorzystać je w celach publicznych lub komercyjnych – napisz do nas.",
+      "principles": "Pryncypia",
+      "terms-of-use": "Zasady korzystania",
+      "privacy-policy": "Polityka prywatności",
+      "proudly-powered": "Dumnie zasilany przez dhosting.pl",
+      "all-rights-reserved": "Wszelkie prawa zastrzeżone."
+    }
+  },
+  "quotes": {
+    "item_1": "Leszek stara się wszystko tłumaczyć bardzo po ludzku, zdecydowanie nadaje się na wykładowcę.",
+    "item_2": "Przyznam że słuchając Ciebie tego dnia,  poczułam przypływ motywacji na  robienie rzeczy poza firmą",
+    "item_3": "Leszek porusza tematy, ktore nie tylko związane są z przedsiębiorczością i biznesem, ale również mają związek z codziennym życiem.",
+    "item_4": "Merytoryczny, inspirujący i rozwijający podcast. Dziękuję za wszystkie odcinki! Robisz mega robotę.",
+    "item_5": "Podcast daje wiele odwagi do codziennego działania. Leszek rozwija i pomaga wyjść ze strefy komfortu pozwając przy tym myśleć i patrzeć szerzej.",
+    "item_6": "Leszka słucha się bardzo sympatycznie, delikatnie. Zdecydowanie podcast jest kierowany również do zwykłych ludzi, bez pompatycznych słów",
+  }
+}

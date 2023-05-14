@@ -2,39 +2,48 @@
   <footer class="mx-auto max-w-5xl px-4 py-24">
     <div class="mx-auto max-w-screen-xl">
       <p class="text-sm text-justify text-left text-gray-600">
-        Informacje zamieszczone na naszej stronie internetowej nie mogą zostać uznane za poradę w jakiejkolwiek sprawie. Treści na niej zawarte mają charakter wyłącznie informacyjny, a my nie ponosimy odpowiedzialności z tytułu powstania jakichkolwiek szkód, wynikających z ich interpretacji, bez konsultacji. Wszystkie materiały udostępnione na naszej stronie internetowej są aktualne na dzień ich zamieszczenia. Nie możemy jednak zagwarantować, że będą aktualne czy przydatne w każdym stanie faktycznym i w każdym czasie. Wszelkie treści zawarte na naszej stronie można wykorzystywać wyłącznie do niekomercyjnego użytku prywatnego. Jeśli chcesz wykorzystać je w celach publicznych lub komercyjnych – napisz do nas.
+        {{ $t('section.footer.legal-msg') }}
       </p>
       <ul class="flex flex-wrap justify-left my-6 text-gray-400">
         <li>
           <NuxtLink 
-            to="/pryncypia" 
-            title="Pryncypia Skuteczny Plan Podcast" 
+            :to="localePath('pryncypia')" 
+            :title="$t('section.footer.principles')" 
             data-splitbee-event="Pryncypia"
-            class="mr-8 underline">Pryncypia</NuxtLink>
+            class="mr-8 underline">{{ $t('section.footer.principles') }}</NuxtLink>
         </li>
         <li>
           <NuxtLink 
-            to="/zasady-korzystania" 
-            title="Zasady korzystania z serwisu"
+            :to="localePath('zasady-korzystania')"
+            :title="$t('section.footer.terms-of-use')"
             data-splitbee-event="Zasady korzystania" 
-            class="mr-8 underline">Zasady korzystania</NuxtLink>
+            class="mr-8 underline">{{ $t('section.footer.terms-of-use') }}</NuxtLink>
         </li>
         <li>
           <NuxtLink 
-            to="/polityka-prywatnosci" 
-            title="Polityka prywatności serwisu"
+            :to="localePath('polityka-prywatnosci')"
+            :title="$t('section.footer.privacy-policy')"
             data-splitbee-event="Polityka prywatności" 
-            class="mr-8 underline">Polityka prywatności</NuxtLink>
+            class="mr-8 underline">{{ $t('section.footer.privacy-policy') }}</NuxtLink>
         </li>
         <li>
           <a 
             href="https://dhosting.pl/pp-leszekkrol" 
-            title="Dumnie zasilany przez dhosting.pl" 
+            :title="$t('section.footer.proudly-powered')" 
             data-splitbee-event="Polecam dhosting.pl" 
-            class="underline">Dumnie zasilany przez dhosting.pl</a>
+            class="underline">{{ $t('section.footer.proudly-powered') }}</a>
         </li>
       </ul>
-      <span class="text-sm text-gray-500 sm:text-center">&copy; 2021-2023 <a href="https://www.leszekkrol.com" title="Leszek Wojciech Król - Strona internetowa" class="hover:underline">Leszek W. Król</a>. Wszelkie prawa zastrzeżone.</span>
+      <ul class="flex flex-wrap items-center gap-x-5 justify-left my-6 text-gray-400">
+        <li>
+          <a 
+            href="https://github.com/leszekkrol/skutecznyplan.pl" 
+            :title="$t('section.footer.carbon-neutral')" 
+            data-splitbee-event="Carbon Neutral" 
+            class="underline"><img src="~/assets/carbon-neutral.svg" class="h-8 sm:h-10 md:h-12" /></a>
+        </li>
+      </ul>
+      <span class="text-sm text-gray-500 sm:text-center">&copy; 2021-2023 <a href="https://www.leszekkrol.com" :title="$t('section.footer.webpage')" class="hover:underline">Leszek W. Król</a>. {{ $t('section.footer.all-rights-reserved') }}</span>
     </div>
   </footer>
 </template>

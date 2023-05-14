@@ -6,32 +6,32 @@ export const useQuotesStore = defineStore({
     return {
       quotes: [
         {
-          description: "Leszek stara się wszystko tłumaczyć bardzo po ludzku, zdecydowanie nadaje się na wykładowcę.",
+          key: "quotes.item_1",
           author: "Katarzyna",
           position: "Studentka"
         },
         {
-          description: "Przyznam że słuchając Ciebie tego dnia,  poczułam przypływ motywacji na  robienie rzeczy poza firmą",
+          key: "quotes.item_2",
           author: "Joanna",
           position: "Projektanta"
         },
         {
-          description: "Leszek porusza tematy, ktore nie tylko związane są z przedsiębiorczością i biznesem, ale również mają związek z codziennym życiem.",
+          key: "quotes.item_3",
           author: "Jacek",
           position: "Student"
         },
         {
-          description: "Merytoryczny, inspirujący i rozwijający podcast. Dziękuję za wszystkie odcinki! Robisz mega robotę.",
+          key: "quotes.item_4",
           author: "Paweł",
           position: "Student"
         },
         {
-          description: "Podcast daje wiele odwagi do codziennego działania. Leszek rozwija i pomaga wyjść ze strefy komfortu pozwając przy tym myśleć i patrzeć szerzej.",
+          key: "quotes.item_5",
           author: "Martyna",
           position: "Grafik 2D"
         },
         {
-          description: "Leszka słucha się bardzo sympatycznie, delikatnie. Zdecydowanie podcast jest kierowany również do zwykłych ludzi, bez pompatycznych słów",
+          key: "quotes.item_6",
           author: "Agnieszka",
           position: "Studentka"
         },
