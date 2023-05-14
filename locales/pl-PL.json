@@ -12,6 +12,10 @@
     "what-listeners-saying": "Co mówią słuchacze?"
   },
   "section": {
+    "404": {
+      "title": "Strona nie znaleziona",
+      "description": "Przepraszamy, strona, której szukasz nie została znaleziona."
+    },
     "header": {
       "title": "Pomogę Tobie rozwinąć praktyczne umiejętności zarządzania",
       "description": "Zwiększ swoją produktywność podczas codziennej pracy siegając po dostępną, praktyczną i unikalną wiedzę, która pomoże Tobie odmienić sposób w jaki pracujesz każdego dnia.",
@@ -24,7 +28,10 @@
     },
     "author": {
       "title": "Nazywam się",
-      "avatar-desc": "Leszek W. Król - Przedsiębiorca"
+      "avatar-desc": "Leszek W. Król - Przedsiębiorca",
+      "description_1": "Nazywam się Leszek W. Król od prawie dwóch dekad pasjonuje się nowymi technologiami aktywnie działając w ekosystemie startupowym. Na codzień towarzyszę firmom i instytucjom w projektowaniu strategii oraz rozwoju nowych produktów i usług.",
+      "description_2": "Inicjator i założyciel",
+      "description_3": "- międzynarodowego wirtualnego hubu dla niezależnych twórców gier komputerowych, którego celem jest dostarczanie wiedzy oraz praktycznych rozwiązań w obszarze projektowania i programowania gier komputerowych, w tym najlepszych praktyk biznesowych popartych historią sukcesu innych twórców z całego świata."
     },
     "slug": {
       "description": "Na co dzień towarzyszę firmom i instytucjom w projektowaniu strategii oraz opracowywaniu nowych produktów i usług."
@@ -70,7 +77,8 @@
       ]
     },
     "privacy-policy": {
-
+      "title": "Polityka prywatności",
+      "description": "Do zasad poufności przykładamy najwyższą wagę, a dbałość o tajemnice przedsiębiorstwa i informacje poufne naszych klientów jest dla nas wyznacznikiem profesjonalizmu. Dlatego też nasi pracownicy przechodzą odpowiednie szkolenia w tym zakresie, a w firmie stosowane są nowoczesne środki techniczne w celu zabezpieczenia powierzonych nam informacji poufnych.",
     },
     "footer": {
       "carbon-neutral": "Carbon Neutral",
@@ -82,5 +90,13 @@
       "proudly-powered": "Dumnie zasilany przez dhosting.pl",
       "all-rights-reserved": "Wszelkie prawa zastrzeżone."
     }
-  }
+  },
+  "quotes": [
+    "Leszek stara się wszystko tłumaczyć bardzo po ludzku, zdecydowanie nadaje się na wykładowcę.",
+    "Przyznam że słuchając Ciebie tego dnia,  poczułam przypływ motywacji na  robienie rzeczy poza firmą",
+    "Leszek porusza tematy, ktore nie tylko związane są z przedsiębiorczością i biznesem, ale również mają związek z codziennym życiem.",
+    "Merytoryczny, inspirujący i rozwijający podcast. Dziękuję za wszystkie odcinki! Robisz mega robotę.",
+    "Podcast daje wiele odwagi do codziennego działania. Leszek rozwija i pomaga wyjść ze strefy komfortu pozwając przy tym myśleć i patrzeć szerzej.",
+    "Leszka słucha się bardzo sympatycznie, delikatnie. Zdecydowanie podcast jest kierowany również do zwykłych ludzi, bez pompatycznych słów",
+  ]
 }

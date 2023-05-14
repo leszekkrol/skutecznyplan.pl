@@ -12,19 +12,25 @@
     "what-listeners-saying": "What are listeners saying?"
   },
   "section": {
+    "404": {
+      "title": "Page not found"
+    },
     "header": {
       "title": "I'll help you develop practical management skills",
       "description": "Increase your productivity during daily work by accessing practical and unique knowledge that will help you transform the way you work every day.",
-      "podcast-spotify": "Effective Plan - podcast on Spotify",
-      "podcast-apple": "Effective Plan - podcast on Apple Podcast",
-      "podcast-google": "Effective Plan - podcast on Google Podcast",
+      "podcast-spotify": "Skuteczny Plan - podcast on Spotify",
+      "podcast-apple": "Skuteczny Plan - podcast on Apple Podcast",
+      "podcast-google": "Skuteczny Plan - podcast on Google Podcast",
     },
     "quotes": {
-      "description": "My community is anyone who wants to increase their productivity and efficiency during daily work. They reach for this hard-to-access, practical and unique knowledge: creators, writers, programmers, marketers, agencies, software companies, communities, podcasters..."
+      "description": "My community is anyone who wants to increase their productivity and efficiency during daily work. They reach for this hard-to-access, practical and unique knowledge: creators, writers, programmers, marketers, agencies, software companies, communities, podcasters...",
     },
     "author": {
       "title": "My name is",
-      "avatar-desc": "Leszek W. Król - Entrepreneur"
+      "avatar-desc": "Leszek W. Król - Entrepreneur",
+      "description_1": "My name is Leszek W. Król and for almost two decades, I have been passionate about new technologies, actively operating in the startup ecosystem. On a daily basis, I support companies and institutions in designing strategies and developing new products and services.",
+      "description_2": "Initiator and founder of the",
+      "description_3": "- an international virtual hub for independent computer game developers, aimed at providing knowledge and practical solutions in the area of designing and programming computer games, including best business practices supported by success stories of other creators from around the world."
     },
     "slug": {
       "description": "On a daily basis, I accompany companies and institutions in designing strategies and developing new products and services."
@@ -70,7 +76,8 @@
       ]
     },
     "privacy-policy": {
-
+      "title": "Privacy policy",
+      "description": "We attach great importance to confidentiality, and protecting the trade secrets and confidential information of our clients is a hallmark of our professionalism. That is why our employees undergo appropriate training in this area, and the company uses modern technical means to secure the confidential information entrusted to us.",
     },
     "footer": {
       "carbon-neutral": "Carbon Neutral",
@@ -82,5 +89,13 @@
       "proudly-powered": "Proudly powered by dhosting.pl",
       "all-rights-reserved": "All rights reserved."
     }
+  },
+  "quotes": {
+    "item_1": "Leszek tries to explain everything in a very human way, definitely suitable as a lecturer.",
+    "item_2": "I must admit that listening to you that day, I felt a surge of motivation to do things outside of work.",
+    "item_3": "Leszek touches on topics that are not only related to entrepreneurship and business, but also have to do with everyday life.",
+    "item_4": "A substantive, inspiring, and developing podcast. Thank you for all the episodes! You're doing an amazing job.",
+    "item_5": "The podcast gives a lot of courage for daily action. Leszek develops and helps to step out of the comfort zone, allowing us to think and look more broadly.",
+    "item_6": "Leszek is very pleasant and gentle to listen to. The podcast is definitely directed to ordinary people, without pompous words.",
   }
 }

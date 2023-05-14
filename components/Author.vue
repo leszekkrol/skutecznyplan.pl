@@ -13,8 +13,12 @@
         <h2 class="mt-12 font-display text-5xl font-extrabold tracking-tight text-white sm:text-6xl text-gray-300">
           {{ $t('section.author.title') }} <br><span class="block text-header">Leszek W. Król</span>
         </h2>
-        <p class="mt-4 text-lg tracking-tight ">Nazywam się Leszek W. Król od prawie dwóch dekad pasjonuje się nowymi technologiami aktywnie działając w ekosystemie startupowym. Na codzień towarzyszę firmom i instytucjom w projektowaniu strategii oraz rozwoju nowych produktów i usług.</p>
-        <p class="mt-4 text-lg tracking-tight">Inicjator i założyciel 
+        <p class="mt-4 text-lg tracking-tight ">
+          {{ $t('section.author.description_1') }}
+        </p>
+        <p class="mt-4 text-lg tracking-tight">
+          {{ $t('section.author.description_2') }}
+
           <a 
             href="https://universityofgames.net" 
             target="_blank" 
@@ -23,8 +27,9 @@
             title="University of Games - Społeczność twórców gier" 
             class="underline">
               <strong>University of Games</strong><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" class="inline ml-1"><g fill="#8c8c8c"><path d="M8.293 2.293L4.586 6 6 7.414l3.707-3.707L12 6V0H6l2.293 2.293z"></path><path d="M10 10H2V2h2V0H2a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2V8h-2z"></path></g></svg>
-          </a>  
-          - międzynarodowego wirtualnego hubu dla niezależnych twórców gier komputerowych, którego celem jest dostarczanie wiedzy oraz praktycznych rozwiązań w obszarze projektowania i programowania gier komputerowych, w tym najlepszych praktyk biznesowych popartych historią sukcesu innych twórców z całego świata.
+          </a> 
+
+          {{ $t('section.author.description_3') }} 
         </p>
         <p class="mt-4 text-lg tracking-tight">Twórca 
           <a 

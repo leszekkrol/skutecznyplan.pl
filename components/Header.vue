@@ -31,9 +31,9 @@
             href="https://open.spotify.com/show/0fmWamBZAUB8n6mEuLOJYP" 
             data-splitbee-event="Spotify"
             data-splitbee-event-destination="spotify.com"
-            :title="$t('podcast-spotify')" 
+            :title="$t('section.header.podcast-spotify')" 
             class="transition ease-in-out delay-150 hover:-translate-1 hover:scale-110">
-            <img :alt="$t('podcast-spotify')" src="~/assets/img/Podcast-Spotify-Icon.png" style="height: 45px !important">
+            <img :alt="$t('section.header.podcast-spotify')" src="~/assets/img/Podcast-Spotify-Icon.png" style="height: 45px !important">
           </a>
         </li>
         <li class="flex">
@@ -41,9 +41,9 @@
             href="https://podcasts.apple.com/us/podcast/skuteczny-plan-drogowskaz-dla-młodych-przedsiębiorców/id1609627970" 
             data-splitbee-event="Apple Podcasts"
             data-splitbee-event-destination="podcasts.apple.com"
-            :title="$t('podcast-apple')" 
+            :title="$t('section.header.podcast-apple')" 
             class="transition ease-in-out delay-150 hover:-translate-1 hover:scale-110">
-            <img :alt="$t('podcast-apple')" src="~/assets/img/Podcast-Apple-Icon.png" style="height: 45px !important">
+            <img :alt="$t('section.header.podcast-apple')" src="~/assets/img/Podcast-Apple-Icon.png" style="height: 45px !important">
           </a>
         </li>
         <li class="flex">
@@ -51,9 +51,9 @@
             href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84MmE0MjQwL3BvZGNhc3QvcnNz" 
             data-splitbee-event="Google Podcasts"
             data-splitbee-event-destination="podcasts.google.com"
-            :title="$t('podcast-google')" 
+            :title="$t('section.header.podcast-google')" 
             class="transition ease-in-out delay-150 hover:-translate-1 hover:scale-110">
-            <img :alt="$t('podcast-google')" src="~/assets/img/Podcast-Google-Icon.png" style="height: 45px !important">
+            <img :alt="$t('section.header.podcast-google')" src="~/assets/img/Podcast-Google-Icon.png" style="height: 45px !important">
           </a>
         </li>
       </ul>

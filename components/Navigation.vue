@@ -1,4 +1,4 @@
-4<template>
+<template>
   <nav class="container flex justify-center md:justify-end pt-4 px-4 sm:px-6 mx-auto md:pt-6 max-w-8xl lg:px-28">
     <a 
       href="http://buycoffee.to/leszekkrol" 
