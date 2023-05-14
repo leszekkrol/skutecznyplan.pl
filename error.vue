@@ -2,8 +2,8 @@
   <main id="app" class="bg-gray-900 v-lines agus">
     <Navigation />
     <Header 
-      :tag="$t('common.error-404')" 
-      :title="$t('common.not-found')" />
+      :tag="t('common.error-404')" 
+      :title="t('common.not-found')" />
     <Footer />
   </main>
 </template>
