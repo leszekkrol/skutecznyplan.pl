@@ -12,7 +12,7 @@
         <h2 class="mb-2 text-3xl md:text-4xl font-bold tracking-tight text-accent">{{ item.title }}</h2>
         <p class="mb-5 font-light text-justify leading-1 text-gray-300">{{ item.description }}</p>
         <NuxtLink 
-          :to="`/${item.slug}`"
+          :to="localePath({path: item.slug})"
           data-splitbee-event="Podcast"
           v-bind:data-splitbee-event-episode="item.id"
           :title="$t('common.read-more')"

@@ -30,6 +30,7 @@ definePageMeta({
 })
 
 const route = useRoute();
+const { t, i18n } = useI18n()
 const store = useArticlesStore()
 const article = store.getArticleBySlug(route.params.slug)
 

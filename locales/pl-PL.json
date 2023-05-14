@@ -31,7 +31,16 @@
       "avatar-desc": "Leszek W. Król - Przedsiębiorca",
       "description_1": "Nazywam się Leszek W. Król od prawie dwóch dekad pasjonuje się nowymi technologiami aktywnie działając w ekosystemie startupowym. Na codzień towarzyszę firmom i instytucjom w projektowaniu strategii oraz rozwoju nowych produktów i usług.",
       "description_2": "Inicjator i założyciel",
-      "description_3": "- międzynarodowego wirtualnego hubu dla niezależnych twórców gier komputerowych, którego celem jest dostarczanie wiedzy oraz praktycznych rozwiązań w obszarze projektowania i programowania gier komputerowych, w tym najlepszych praktyk biznesowych popartych historią sukcesu innych twórców z całego świata."
+      "description_3": "- międzynarodowego wirtualnego hubu dla niezależnych twórców gier komputerowych, którego celem jest dostarczanie wiedzy oraz praktycznych rozwiązań w obszarze projektowania i programowania gier komputerowych, w tym najlepszych praktyk biznesowych popartych historią sukcesu innych twórców z całego świata.",
+      "description_4": "Twórca",
+      "description_5": "- startupu z branży edukacyjnej, który zmienia postrzeganie pracodawców na znaczenie prac dyplomowych pisanych przez studentów uczelni wyższych.",
+      "description_6": "Współwłaściciel i CTO",
+      "description_7": "- startupu z branży fintech dostarczającego rozwiązania mobilne umożliwiające bezproblemową interakcje klienta z szeroką gamą platform finansowych, inwestycyjnych i transakcyjnych.",
+      "description_8": "Prekursor wykorzystania technologii rozszerzonej rzeczywistości w edukacji oraz branży retail.",
+      "description_9": "Jego rozwiązania były wykorzystywane w kampaniach i projektach takich firm jak: McDonalds, Nestle, Mattle, Trefl czy Toyota.",
+      "description_10": "Aktywnie uczestniczy w wielu krajowych i międzynarodowych konferencjach, czy seminariach naukowych poświęconych nowym technologiom oraz legaltech. Autor licznych artykułów naukowych opublikowanych w Polsce i za granica. Nadto współautor ponad pięciuset projektów informatycznych.",
+      "description_11": "Aktualnie student Prawa na Wyższej Szkole Bankowej w Toruniu. Aktywnie uczestniczy w życiu studenckim jako Przewodniczący Samorządu Studenckiego oraz członek Rady Akademickiej. Prywatnie miłośnik golfa i od niedawna crossfit’u.",
+      "description_12": "— Ciągle inspiruje młodych ludzi do zmiany."
     },
     "slug": {
       "description": "Na co dzień towarzyszę firmom i instytucjom w projektowaniu strategii oraz opracowywaniu nowych produktów i usług."
@@ -39,10 +48,16 @@
     "terms-of-use": {
       "title": "Zasady korzystania",
       "description": "Informacje zamieszczone na naszej stronie internetowej nie mogą zostać uznane za poradę w jakiejkolwiek sprawie. Treści na niej zawarte mają charakter wyłącznie informacyjny, a my nie ponosimy odpowiedzialności z tytułu powstania jakichkolwiek szkód, wynikających z ich interpretacji, bez konsultacji. Wszystkie materiały udostępnione na naszej stronie internetowej są aktualne na dzień ich zamieszczenia. Nie możemy jednak zagwarantować, że będą aktualne czy przydatne w każdym stanie faktycznym i w każdym czasie. Wszelkie treści zawarte na naszej stronie można wykorzystywać wyłącznie do niekomercyjnego użytku prywatnego. Jeśli chcesz wykorzystać je w celach publicznych lub komercyjnych – napisz do nas.",
+      "metadata": {
+        "content": "Wszelkie treści zawarte na naszej stronie można wykorzystywać wyłącznie do niekomercyjnego użytku prywatnego. Jeśli chcesz wykorzystać je w celach publicznych lub komercyjnych.",
+      }
     },
     "principles": {
       "title": "Pryncypia",
       "description": "Pryncypia [z łacińskiego prīncipium, 'początek, fundament']. Podstawowa prawda lub propozycja, która służy jako podstawa systemu przekonań, zachowań lub łańcucha rozumowania.",
+      "metadata": {
+        "content": "Pryncypia [z łacińskiego prīncipium, „początek, fundament”]. Podstawowa prawda lub propozycja, która służy jako podstawa systemu przekonań, zachowań lub łańcucha rozumowania.",
+      },
       "rules": [    
         "Nie bądź najmądrzejszą osobą w pokoju.",    
         "Słuchanie > mówienie.",    
