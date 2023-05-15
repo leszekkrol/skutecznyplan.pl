@@ -1,8 +1,5 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  generate: {
-    fallback: true,
-  },
   app: {
     head: {
       title: "Skuteczny Plan - Rozwiń praktyczne umiejętności zarządzania",
