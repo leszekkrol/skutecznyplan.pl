@@ -1,0 +1,154 @@
+{
+  "common": {
+    "error-404": "Fehler 404",
+    "not-found": "Seite nicht gefunden",
+    "support": "Unterstütze mich",
+    "listen": "Jetzt Podcast anhören",
+    "homepage": "Startseite",
+    "subscribe-msg": "Abonniere auf deiner Lieblings-Podcast-Plattform:",
+    "read-more": "Mehr lesen",
+    "article": "Artikel",
+    "community": "Gemeinschaft",
+    "what-listeners-saying": "Was sagen die Zuhörer?"
+  },
+  "section": {
+    "404": {
+      "title": "Seite nicht gefunden",
+      "description": "Es tut uns leid, die von Ihnen gesuchte Seite konnte nicht gefunden werden."
+    },
+    "header": {
+      "title": "Ich werde Ihnen helfen, praktische Managementfähigkeiten zu entwickeln",
+      "description": "Steigern Sie Ihre Produktivität während der täglichen Arbeit, indem Sie auf praktisches und einzigartiges Wissen zugreifen, das Ihnen hilft, die Art und Weise zu verändern, wie Sie jeden Tag arbeiten.",
+      "podcast-spotify": "Skuteczny Plan - Podcast auf Spotify",
+      "podcast-apple": "Skuteczny Plan - Podcast auf Apple Podcast",
+      "podcast-google": "Skuteczny Plan - Podcast auf Google Podcast"
+    },
+    "quotes": {
+      "description": "Meine Community besteht aus allen, die ihre Produktivität und Effizienz während der täglichen Arbeit steigern möchten. Sie greifen nach diesem schwer zugänglichen, praktischen und einzigartigen Wissen: Kreative, Schriftsteller, Programmierer, Vermarkter, Agenturen, Softwareunternehmen, Gemeinschaften, Podcaster..."
+    },
+    "author": {
+      "title": "Mein Name ist",
+      "avatar-desc": "Leszek W. Król - Unternehmer",
+      "description_1": "Mein Name ist Leszek W. Król und seit fast zwei Jahrzehnten bin ich leidenschaftlich für neue Technologien und aktiv im Startup-Ökosystem tätig. Täglich unterstütze ich Unternehmen und Institutionen bei der Entwicklung von Strategien und der Entwicklung neuer Produkte und Dienstleistungen.",
+      "description_2": "Initiator und Gründer",
+      "description_3": "- eines internationalen virtuellen Hubs für unabhängige Spieleentwickler, der Wissen und praktische Lösungen im Bereich Computerspiel-Design und Programmierung bietet, einschließlich bewährter Geschäftspraktiken, unterstützt durch Erfolgsgeschichten anderer Kreativer aus der ganzen Welt.",
+      "description_4": "Schöpfer",
+      "description_5": "- eines Startups in der Bildungsbranche, das die Wahrnehmung von Arbeitgebern hinsichtlich der Bedeutung von Abschlussarbeiten von Universitätsstudenten verändert.",
+      "description_6": "Mitinhaber und CTO",
+      "description_7": "- eines Fintech-Startups, das mobile Lösungen für nahtlose Kundeninteraktion mit einer Vielzahl von Finanz-, Investment- und Transaktionsplattformen bietet.",
+      "description_8": "Ein Vorreiter bei der Verwendung von Augmented-Reality-Technologie in den Bereichen Bildung und Einzelhandel.",
+      "description_9": "Seine Lösungen wurden in Kampagnen und Projekten für Unternehmen wie McDonald's, Nestle, Mattle, Trefl und Toyota eingesetzt.",
+      "description_10": "Er nimmt aktiv an vielen nationalen und internationalen Konferenzen oder wissenschaftlichen Seminaren zu neuen Technologien und Legaltech teil. Er ist Autor zahlreicher wissenschaftlicher Artikel, die in Polen und im Ausland veröffentlicht wurden, und Mitautor von über fünfhundert IT-Projekten.",
+      "description_11": "Derzeit studiert er Recht an der Höheren Bankenschule in Toruń. Er nimmt aktiv am Studentenleben teil, indem er Vorsitzender der Studentenregierung und Mitglied des Akademischen Rates ist. Privat ist er begeisterter Golfspieler und neuerdings auch Crossfit-Enthusiast.",
+      "description_12": "- Kontinuierlich junge Menschen dazu inspirieren, Veränderungen herbeizuführen."
+    },
+    "slug": {
+      "description": "Täglich begleite ich Unternehmen und Institutionen bei der Entwicklung von Strategien und der Entwicklung neuer Produkte und Dienstleistungen."
+    },
+    "terms-of-use": {
+      "title": "Nutzungsbedingungen",
+      "description": "Die auf unserer Website veröffentlichten Informationen können nicht als Ratschlag in irgendeiner Angelegenheit angesehen werden. Die auf unserer Website bereitgestellten Inhalte dienen nur zu Informationszwecken, und wir übernehmen keine Verantwortung für etwaige Schäden, die sich aus ihrer Interpretation ohne Beratung ergeben. Alle auf unserer Website bereitgestellten Materialien sind zum Zeitpunkt ihrer Veröffentlichung aktuell. Wir können jedoch nicht garantieren, dass sie in jeder tatsächlichen Situation und zu jeder Zeit aktuell oder nützlich sein werden. Jeglicher Inhalt auf unserer Website darf nur für den nichtkommerziellen privaten Gebrauch verwendet werden. Wenn Sie sie für öffentliche oder kommerzielle Zwecke verwenden möchten, kontaktieren Sie uns bitte.",
+      "metadata": {
+        "content": "Alle Inhalte auf unserer Website dürfen nur für den nichtkommerziellen privaten Gebrauch verwendet werden. Wenn Sie sie für öffentliche oder kommerzielle Zwecke verwenden möchten."
+      }
+    },
+    "principles": {
+      "title": "Prinzipien",
+      "description": "Prinzipien [aus dem Lateinischen prīncipium, 'Anfang, Grundlage']. Eine grundlegende Wahrheit oder Aussage, die als Grundlage für ein System von Überzeugungen, Verhaltensweisen oder logischen Ketten dient.",
+      "metadata": {
+        "content": "Prinzipien [aus dem Lateinischen prīncipium, 'Anfang, Grundlage']. Eine grundlegende Wahrheit oder Aussage, die als Grundlage für ein System von Überzeugungen, Verhaltensweisen oder logischen Ketten dient."
+      },
+      "rules": [
+        "Sei nicht die klügste Person im Raum.",
+        "Zuhören ist wichtiger als Reden.",
+        "Fordere immer eine Deadline.",
+        "Enthusiasmus ist 25 IQ-Punkte wert.",
+        "Halte hohe Standards in allem, was du tust.",
+        "Denke daran, dass das, was du nicht weißt, wichtiger ist als das, was du bereits weißt.",
+        "Strebe danach, die erfolgreichste Version von dir selbst zu sein.",
+        "Vergiss nicht, gut gemachte Arbeit zu loben (aber lob keine schlechte Arbeit).",
+        "Kritisiere niemanden vor anderen.",
+        "Sage 'Danke'!",
+        "Kleide dich wie die Person, die du sein möchtest.",
+        "Dumme Menschen verdoppeln ihre Dummheit. Dann verdreifachen sie sie.",
+        "Trainiere deinen Verstand, deinen Bauch (Ernährung) und deinen Körper. Hebe Gewichte.",
+        "Gib immer mehr, als du nimmst.",
+        "Erkunde und probiere neue Dinge aus (60/30-Minuten-Regel).",
+        "Umgebe dich mit den besten (wenigen) Menschen. Lehn diejenigen ab, die dich nicht besser machen.",
+        "Fördere intellektuelle Debatten.",
+        "Lass Platz für Fehler. Mach dir keine Sorgen, wenn du falsch liegst.",
+        "Verstehe interdisziplinäres Lernen.",
+        "Kleine Details bilden ein großes Bild. Denke in Grundprinzipien.",
+        "Alles wurde schon einmal gemacht. Die Szenen ändern sich, aber Verhaltensweisen und Ergebnisse nicht.",
+        "Verstehe die 80/20-Regel.",
+        "Sei ein unendlicher Lerner. Lesen (lernen) ist die ultimative Metakompetenz.",
+        "Wissen ist ein komplexes Interesse an Neugierde.",
+        "Deine Gewohnheiten formen dich. Halte dich an einfache Regeln.",
+        "Unsere Leben werden von unseren Gedanken geprägt; wir werden zu dem, was wir denken.",
+        "Verfolge das, was wichtig ist, nicht das, was bequem ist.",
+        "Beschwere dich nicht.",
+        "Lass nicht die Erwartungen anderer Menschen dein Handeln bestimmen.",
+        "Schreibe alles auf, was du erreichen möchtest."
+      ]
+    },
+    "privacy-policy": {
+      "title": "Datenschutzerklärung",
+      "metadata": {
+        "content": "Wir legen größten Wert auf Vertraulichkeit und den Schutz von Geschäftsgeheimnissen. Der Schutz der vertraulichen Informationen unserer Kunden ist ein Maß für unsere Professionalität."
+      },
+      "description_1": "Wir legen großen Wert auf Vertraulichkeit und Professionalität beim Schutz von Firmengeheimnissen und vertraulichen Informationen unserer Kunden. Aus diesem Grund werden unsere Mitarbeiter in diesem Bereich entsprechend geschult und im Unternehmen werden moderne technische Mittel eingesetzt, um die uns anvertrauten vertraulichen Informationen zu sichern.",
+      "description_2": "Zu Beginn präsentieren wir eine verkürzte Version der wichtigsten Prinzipien zum Schutz der Privatsphäre:",
+      "description_3": [
+        "Durch das Senden einer Nachricht über das Kontaktformular oder das Anmelden für unseren Newsletter stellen Sie uns personenbezogene Daten zur Verfügung. Wir stellen sicher, dass Ihre Daten vertraulich bleiben, sicher sind und ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben werden.",
+        "Wir übertragen die Verarbeitung personenbezogener Daten nur an verifizierte und vertrauenswürdige Unternehmen, die Dienstleistungen im Zusammenhang mit der Verarbeitung personenbezogener Daten erbringen.",
+        "Wir verwenden Analysetools wie Google Analytics, die Informationen über Ihre Besuche auf der Website sammeln (welche Registerkarten Sie anklicken, wie lange Sie auf der Website verweilen, wie Sie zwischen den Registerkarten navigieren). Hierzu werden Cookies von Google LLC im Zusammenhang mit dem Dienst Google Analytics verwendet.",
+        "Wir verwenden Marketing-Tools wie den Facebook-Pixel, um personalisierte Anzeigen auf Facebook anzuzeigen. Hierzu werden Cookies von Facebook verwendet.",
+        "Wir bieten die Möglichkeit, Social-Media-Funktionen wie das Teilen von Inhalten auf Social-Media-Seiten zu nutzen. Die Verwendung dieser Funktionen kann die Verwendung von Cookies durch die Administratoren der Social-Media-Seiten wie Facebook, Instagram, Twitter, Behance erfordern.",
+        "Wir verwenden Cookies, um das ordnungsgemäße Funktionieren der Website zu gewährleisten."
+      ],
+      "description_4": "Wenn Sie mehr erfahren möchten, lesen Sie weiter.",
+      "description_5": "Personenbezogene Daten",
+      "description_6": "Skuteczny Plan ist der Verantwortliche für Ihre personenbezogenen Daten im Sinne der Datenschutzbestimmungen. Die Zwecke, Rechtsgrundlagen und Dauer der Verarbeitung personenbezogener Daten werden für jeden Verarbeitungszweck gesondert angegeben.",
+      "description_7": "Die DSGVO gewährt Ihnen folgende Rechte in Bezug auf die Verarbeitung Ihrer personenbezogenen Daten:",
+      "description_8": [
+        "das Recht auf Berichtigung personenbezogener Daten,",
+        "das Recht auf Zugang zu personenbezogenen Daten,",
+        "das Recht auf Löschung personenbezogener Daten,",
+        "das Recht auf Einschränkung der Verarbeitung personenbezogener Daten,",
+        "das Recht, der Verarbeitung personenbezogener Daten zu widersprechen,",
+        "das Recht auf Datenübertragbarkeit,",
+        "das Recht, eine Beschwerde bei einer Aufsichtsbehörde einzureichen,",
+        "das Recht, Ihre Einwilligung zur Verarbeitung personenbezogener Daten zu widerrufen, sofern Sie zuvor eine solche Einwilligung erteilt haben."
+      ],
+      "description_9": "Sie können die oben genannten Rechte gemäß den in den Artikeln 16-21 der DSGVO beschriebenen Grundsätzen ausüben, indem Sie uns unter der Adresse kontakt{'@'}skutecznyplan.pl kontaktieren. Die oben genannte E-Mail-Adresse kann auch für Fragen im Zusammenhang mit der Verarbeitung Ihrer personenbezogenen Daten verwendet werden.",
+      "description_10": "Sicherheit",
+      "description_11": "Wir garantieren die Vertraulichkeit aller uns zur Verfügung gestellten personenbezogenen Daten. Wir stellen die Umsetzung aller erforderlichen Sicherheitsmaßnahmen und den Schutz personenbezogener Daten gemäß den Bestimmungen der Datenschutzgesetze sicher. Personenbezogene Daten werden mit der gebotenen Sorgfalt erhoben und angemessen vor unbefugtem Zugriff durch Dritte geschützt.",
+      "description_12": "Datenempfänger",
+      "description_13": "Ihre Daten können von unseren Auftragnehmern verarbeitet werden, d.h. von Unternehmen, deren Dienste wir bei der Verarbeitung von Daten und der Erbringung von Dienstleistungen oder der Erfüllung von Aufträgen in Ihrem Namen in Anspruch nehmen.",
+      "description_14": [
+        "dhosting.pl - für die Datenspeicherung auf einem Server, einschließlich eines Mailbox-Servers,",
+        "Comarch ERPXT - für die Nutzung des Rechnungssystems, in dem Ihre personenbezogenen Daten zum Zwecke der Rechnungsstellung verarbeitet werden,",
+        "Personen, die beim technischen Support für die Skuteczny Plan-Website tätig sind und potenziell auf Ihre personenbezogenen Daten zugreifen können."
+      ],
+      "description_15": "Alle Unternehmen, denen wir die Verarbeitung personenbezogener Daten anvertrauen, garantieren die Verwendung geeigneter Sicherheits- und Datenschutzmaßnahmen, die gesetzlich vorgeschrieben sind."
+    },
+    "footer": {
+      "carbon-neutral": "Klimaneutral",
+      "webpage": "Leszek W. Król - Webseite",
+      "legal-msg": "Die Informationen auf unserer Website können nicht als Beratung in irgendeiner Angelegenheit betrachtet werden. Der Inhalt dient nur zu Informationszwecken, und wir übernehmen keine Verantwortung für Schäden, die aus ihrer Interpretation ohne Konsultation entstehen. Alle auf unserer Website verfügbaren Materialien sind zum Zeitpunkt der Veröffentlichung aktuell. Wir können jedoch nicht garantieren, dass sie in jeder tatsächlichen Situation und jederzeit aktuell oder nützlich sein werden. Alle Inhalte auf unserer Website dürfen nur für den nichtkommerziellen privaten Gebrauch verwendet werden. Wenn Sie sie für öffentliche oder kommerzielle Zwecke verwenden möchten, kontaktieren Sie uns bitte.",
+      "principles": "Grundsätze",
+      "terms-of-use": "Nutzungsbedingungen",
+      "privacy-policy": "Datenschutzrichtlinie",
+      "proudly-powered": "Mit Stolz unterstützt von dhosting.pl",
+      "all-rights-reserved": "Alle Rechte vorbehalten."
+    }
+  },
+  "quotes": {
+    "item_1": "Leszek versucht alles auf eine sehr menschliche Art zu erklären, definitiv geeignet als Dozent.",
+    "item_2": "Ich muss zugeben, dass ich an diesem Tag, als ich dir zugehört habe, einen Motivationsschub verspürt habe, Dinge außerhalb der Arbeit zu tun.",
+    "item_3": "Leszek spricht Themen an, die nicht nur mit Unternehmertum und Geschäft zu tun haben, sondern auch mit dem täglichen Leben.",
+    "item_4": "Ein inhaltlich fundierter, inspirierender und entwickelnder Podcast. Vielen Dank für alle Episoden! Du leistest großartige Arbeit.",
+    "item_5": "Der Podcast gibt viel Mut für das tägliche Handeln. Leszek entwickelt und hilft dabei, aus der Komfortzone herauszutreten und breiter zu denken und zu schauen.",
+    "item_6": "Leszek ist sehr angenehm und sanft anzuhören. Der Podcast richtet sich definitiv an normale Menschen, ohne aufgeblasene Worte."
+  }
+}

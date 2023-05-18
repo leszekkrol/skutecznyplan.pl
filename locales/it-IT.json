@@ -1,0 +1,154 @@
+{
+  "common": {
+    "error-404": "Errore 404",
+    "not-found": "Pagina non trovata",
+    "support": "Supportami",
+    "listen": "Ascolta il podcast ora",
+    "homepage": "Pagina principale",
+    "subscribe-msg": "Iscriviti sulla tua piattaforma di podcast preferita:",
+    "read-more": "Leggi di più",
+    "article": "Articolo",
+    "community": "Comunità",
+    "what-listeners-saying": "Cosa dicono gli ascoltatori?"
+  },
+  "section": {
+    "404": {
+      "title": "Pagina non trovata",
+      "description": "Ci scusiamo, la pagina che stai cercando non può essere trovata."
+    },
+    "header": {
+      "title": "Ti aiuterò a sviluppare competenze pratiche di gestione",
+      "description": "Aumenta la tua produttività durante il lavoro quotidiano accedendo a conoscenze pratiche e uniche che ti aiuteranno a trasformare il tuo modo di lavorare ogni giorno.",
+      "podcast-spotify": "Skuteczny Plan - podcast su Spotify",
+      "podcast-apple": "Skuteczny Plan - podcast su Apple Podcast",
+      "podcast-google": "Skuteczny Plan - podcast su Google Podcast",
+    },
+    "quotes": {
+      "description": "La mia comunità è composta da chiunque voglia aumentare la propria produttività ed efficienza durante il lavoro quotidiano. Si rivolgono a questa conoscenza pratica e unica, difficile da ottenere: creatori, scrittori, programmatori, marketer, agenzie, aziende software, comunità, podcaster..."
+    },
+    "author": {
+      "title": "Mi chiamo",
+      "avatar-desc": "Leszek W. Król - Imprenditore",
+      "description_1": "Mi chiamo Leszek W. Król e da quasi due decenni sono appassionato di nuove tecnologie, opero attivamente nell'ecosistema delle startup. quotidianamente, supporto aziende e istituzioni nella progettazione di strategie e nello sviluppo di nuovi prodotti e servizi.",
+      "description_2": "Iniziatore e fondatore",
+      "description_3": "- di un hub virtuale internazionale per sviluppatori di giochi indipendenti, che mira a fornire conoscenze e soluzioni pratiche nell'ambito del design e della programmazione di giochi per computer, inclusi le migliori pratiche aziendali supportate da storie di successo di altri creatori provenienti da tutto il mondo.",
+      "description_4": "Creatore",
+      "description_5": "- di una startup nell'industria dell'istruzione che cambia la percezione dei datori di lavoro sull'importanza delle tesi degli studenti universitari.",
+      "description_6": "Co-proprietario e CTO",
+      "description_7": "- di una startup fintech che fornisce soluzioni mobili per un'interazione senza soluzione di continuità dei clienti con una vasta gamma di piattaforme finanziarie, di investimento e di transazione.",
+      "description_8": "Pioniere nell'uso della tecnologia della realtà aumentata nelle industrie dell'istruzione e del commercio al dettaglio.",
+      "description_9": "Le sue soluzioni sono state utilizzate in campagne e progetti per aziende come McDonald's, Nestlé, Mattle, Trefl e Toyota.",
+      "description_10": "Partecipa attivamente a numerose conferenze nazionali e internazionali o seminari scientifici dedicati alle nuove tecnologie e al legaltech. È autore di numerosi articoli scientifici pubblicati in Polonia e all'estero e coautore di oltre cinquecento progetti IT.",
+      "description_11": "Attualmente è uno studente di legge presso la Higher Banking School di Toruń. Partecipa attivamente alla vita studentesca come presidente del Consiglio degli studenti e membro del Consiglio accademico. Privatamente, è un appassionato di golf e un recente appassionato di crossfit.",
+      "description_12": "- Ispirando continuamente i giovani a fare la differenza."
+    },
+    "slug": {
+      "description": "Quotidianamente, accompagno aziende e istituzioni nella progettazione di strategie e nello sviluppo di nuovi prodotti e servizi."
+    },
+    "terms-of-use": {
+      "title": "Termini di utilizzo",
+      "description": "Le informazioni pubblicate sul nostro sito web non possono essere considerate come consulenza su qualsiasi argomento. I contenuti forniti sul nostro sito web hanno solo scopo informativo, e non assumiamo alcuna responsabilità per eventuali danni derivanti dalla loro interpretazione senza consultazione. Tutti i materiali forniti sul nostro sito web sono aggiornati alla data della loro pubblicazione. Tuttavia, non possiamo garantire che siano aggiornati o utili in ogni situazione di fatto e in ogni momento. Eventuali contenuti presenti sul nostro sito web possono essere utilizzati solo per uso privato non commerciale. Se desideri utilizzarli per scopi pubblici o commerciali, contattaci per favore.",
+      "metadata": {
+        "content": "Tutti i contenuti presenti sul nostro sito web possono essere utilizzati solo per uso privato non commerciale. Se desideri utilizzarli per scopi pubblici o commerciali.",
+      }
+    },
+    "principles": {
+      "title": "Principi",
+      "description": "Principi [dal latino prīncipium, 'inizio, fondamento']. Una verità fondamentale o una proposizione che serve come base per un sistema di credenze, comportamenti o ragionamenti.",
+      "metadata": {
+        "content": "Principi [dal latino prīncipium, 'inizio, fondamento']. Una verità fondamentale o una proposizione che serve come base per un sistema di credenze, comportamenti o ragionamenti.",
+      },
+      "rules": [
+        "Non essere la persona più intelligente nella stanza.",
+        "Ascoltare > parlare.",
+        "Richiedi sempre una scadenza.",
+        "Essere entusiasti vale 25 punti di QI.",
+        "Mantieni alti standard in tutto ciò che fai.",
+        "Ricorda che ciò che non sai è più importante di ciò che già sai.",
+        "Cerca di essere la versione di te stesso più di successo.",
+        "Non dimenticare di lodare il lavoro ben fatto (ma non lodare il lavoro scadente).",
+        "Non criticare nessuno di fronte agli altri.",
+        "Di' 'grazie'!",
+        "Vestiti come la persona che vuoi essere.",
+        "Le persone stupide raddoppiano la stupidità. Poi triplicano.",
+        "Allena la tua mente, stomaco (alimentazione) e corpo. Fai pesi.",
+        "Dai sempre più di quanto prendi.",
+        "Esplora e prova cose nuove (regola dei 60/30 minuti).",
+        "Circondati delle migliori (poche) persone. Rifiuta coloro che non ti fanno migliorare.",
+        "Incoraggia il dibattito intellettuale.",
+        "Lascia spazio per gli errori. Non preoccuparti di sbagliare.",
+        "Comprendi l'apprendimento interdisciplinare.",
+        "I piccoli dettagli costruiscono un quadro generale. Pensa ai principi fondamentali.",
+        "Tutto è già stato fatto in precedenza. Le scene cambiano, ma i comportamenti e i risultati no.",
+        "Comprendi la regola dell'80/20.",
+        "Sii un eterno studente. La lettura (l'apprendimento) è la meta-competenza definitiva.",
+        "La conoscenza è un interesse complesso di curiosità.",
+        "Le tue abitudini ti definiscono. Attieniti a regole semplici.",
+        "Le nostre vite sono plasmate dalle nostre menti; diventiamo ciò che pensiamo.",
+        "Insegui ciò che conta, non ciò che è conveniente.",
+        "Non lamentarti.",
+        "Non lasciare che le aspettative degli altri guidino le tue azioni.",
+        "Scrivi tutto ciò che vuoi raggiungere."
+      ]
+    },
+    "privacy-policy": {
+      "title": "Informativa sulla privacy",
+      "metadata": {
+        "content": "Noi attribuiamo la massima importanza alla riservatezza, e la salvaguardia dei segreti commerciali e delle informazioni riservate dei nostri clienti è un indicatore della nostra professionalità."
+      },
+      "description_1": "Noi attribuiamo grande importanza alla riservatezza e alla professionalità nella protezione dei segreti aziendali e delle informazioni riservate dei nostri clienti. Per questo motivo, i nostri dipendenti ricevono una formazione adeguata in questo ambito e nell'azienda vengono utilizzati mezzi tecnici moderni per garantire la sicurezza delle informazioni riservate che ci vengono affidate.",
+      "description_2": "Per cominciare, presentiamo una versione abbreviata dei principi più importanti relativi alla protezione della privacy:",
+      "description_3": [
+        "Inviando un messaggio tramite il modulo di contatto o iscrivendoti alla nostra newsletter, ci fornisci i tuoi dati personali. Ci assicuriamo che i tuoi dati rimangano confidenziali, sicuri e non saranno divulgati a terzi senza il tuo esplicito consenso.",
+        "Affidiamo il trattamento dei dati personali solo a entità verificate e affidabili che forniscono servizi correlati al trattamento dei dati personali.",
+        "Utilizziamo strumenti di analisi come Google Analytics che raccolgono informazioni sulle tue visite al sito (quali schede clicchi, quanto tempo trascorri sul sito, come navighi tra le schede). A tal fine, vengono utilizzati i cookie di Google LLC relativi al servizio Google Analytics.",
+        "Utilizziamo strumenti di marketing come Facebook Pixel per visualizzare annunci personalizzati su Facebook. A tal fine, vengono utilizzati i cookie di Facebook.",
+        "Offriamo la possibilità di utilizzare funzionalità sociali come la condivisione di contenuti sulle pagine dei social media. L'utilizzo di queste funzionalità potrebbe richiedere l'utilizzo di cookie da parte degli amministratori delle pagine dei social media come Facebook, Instagram, Twitter, Behance.",
+        "Utilizziamo i cookie per garantire il corretto funzionamento del sito web."
+      ],
+      "description_4": "Se vuoi saperne di più, continua a leggere.",
+      "description_5": "Dati personali",
+      "description_6": "Skuteczny Plan è il titolare del trattamento dei tuoi dati personali ai sensi delle normative sulla protezione dei dati personali. Le finalità, le basi giuridiche e il periodo di trattamento dei dati personali sono indicati separatamente per ciascuna finalità di trattamento dei dati.",
+      "description_7": "Il GDPR ti garantisce i seguenti diritti relativi al trattamento dei tuoi dati personali:",
+      "description_8": [
+        "il diritto di rettifica dei dati personali,",
+        "il diritto di accesso ai dati personali,",
+        "il diritto alla cancellazione dei dati personali,",
+        "il diritto di limitare il trattamento dei dati personali,",
+        "il diritto di opporsi al trattamento dei dati personali,",
+        "il diritto alla portabilità dei dati,",
+        "il diritto di presentare un reclamo all'autorità di controllo,",
+        "il diritto di revocare il consenso al trattamento dei dati personali, se hai precedentemente fornito tale consenso."
+      ],
+      "description_9": "Puoi esercitare i diritti sopra indicati in conformità ai principi descritti negli articoli 16-21 del GDPR contattandoci all'indirizzo kontakt{'@'}skutecznyplan.pl. L'indirizzo email sopra indicato può essere utilizzato anche per qualsiasi domanda relativa al trattamento dei tuoi dati personali.",
+      "description_10": "Sicurezza",
+      "description_11": "Garantiamo la riservatezza di tutti i dati personali forniti. Assicuriamo l'attuazione di tutte le misure di sicurezza necessarie e la protezione dei dati personali richieste dalle disposizioni delle leggi sulla protezione dei dati personali. I dati personali vengono raccolti con la dovuta diligenza e adeguatamente protetti contro l'accesso non autorizzato da parte di terzi.",
+      "description_12": "Destinatari dei dati",
+      "description_13": "I tuoi dati possono essere trattati dai nostri subappaltatori, ossia entità le cui servizi utilizziamo per il trattamento dei dati e la fornitura dei servizi o l'esecuzione degli ordini per tuo conto.",
+      "description_14": [
+        "dhosting.pl - per la memorizzazione dei dati su un server, incluso un server di posta,",
+        "Comarch ERPXT - per l'utilizzo del sistema di fatturazione, in cui i tuoi dati personali vengono trattati allo scopo di emettere una fattura,",
+        "persone che, fornendo servizi di supporto tecnico per il sito Skuteczny Plan, potrebbero potenzialmente accedere ai tuoi dati personali."
+      ],
+      "description_15": "Tutte le entità a cui affidiamo il trattamento dei dati personali garantiscono l'utilizzo di adeguate misure di sicurezza e protezione dei dati personali richieste dalla legge."
+    },
+    "footer": {
+      "carbon-neutral": "Carbon Neutral",
+      "webpage": "Leszek W. Król - Sito web",
+      "legal-msg": "Le informazioni sul nostro sito web non possono essere considerate come consulenza su alcun argomento. I contenuti sono solo a scopo informativo e non ci assumiamo alcuna responsabilità per eventuali danni derivanti dalla loro interpretazione senza consulenza. Tutti i materiali disponibili sul nostro sito web sono aggiornati alla data di pubblicazione. Tuttavia, non possiamo garantire che saranno aggiornati o utili in ogni situazione di fatto e in ogni momento. Tutti i contenuti del nostro sito web possono essere utilizzati solo per uso privato non commerciale. Se desideri utilizzarli per scopi pubblici o commerciali, contattaci.",
+      "principles": "Principi",
+      "terms-of-use": "Termini di utilizzo",
+      "privacy-policy": "Informativa sulla privacy",
+      "proudly-powered": "Fornito con orgoglio da dhosting.pl",
+      "all-rights-reserved": "Tutti i diritti riservati."
+    }
+  },
+  "quotes": {
+    "item_1": "Leszek cerca di spiegare tutto in modo molto umano, sicuramente adatto come docente.",
+    "item_2": "Devo ammettere che ascoltandoti quel giorno, ho sentito un'ondata di motivazione per fare cose al di fuori del lavoro.",
+    "item_3": "Leszek affronta argomenti che non riguardano solo l'imprenditoria e gli affari, ma hanno anche a che fare con la vita di tutti i giorni.",
+    "item_4": "Un podcast sostanziale, ispiratore e in continua crescita. Grazie per tutti gli episodi! Stai facendo un lavoro straordinario.",
+    "item_5": "Il podcast dà molto coraggio per l'azione quotidiana. Leszek si sviluppa e aiuta a uscire dalla zona di comfort, permettendoci di pensare e guardare in modo più ampio.",
+    "item_6": "Leszek è molto piacevole e delicato da ascoltare. Il podcast è sicuramente rivolto alle persone comuni, senza parole pompose.",
+  }
+}
