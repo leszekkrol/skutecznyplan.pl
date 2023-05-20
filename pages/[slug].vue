@@ -2,12 +2,12 @@
   <main>
     <Header
       tag="podcast"
-      :title="t('articles.epizode_' + article.id + '.title')"
-      :description="t('articles.epizode_' + article.id + '.description')"
+      :title="article.title"
+      :description="article.description"
       :url="article.url"
      />
     <article class="mx-auto max-w-3xl pt-10 px-4 pb-12 sm:py-24 text-gray-300">
-      <ContentDoc id="blog" :head="false" :path="article.filename" />
+      <ContentDoc id="blog" :head="false" :path="$i18n.locale + '/' + article.slug" />
       <div class="p-10">
         <div class="flex flex-col space-y-4 md:space-y-0 md:space-x-6 md:flex-row">
           <img src="~/assets/img/avatar.jpg" alt="Leszek W. Król" class="self-center flex-shrink-0 w-24 h-24 border rounded-full md:justify-self-start">
@@ -35,17 +35,17 @@ const store = useArticlesStore()
 const article = store.getArticleBySlug(route.params.slug)
 
 useHead({
-  title: t('articles.epizode_' + article.id + '.title') + " | Skuteczny Plan",
+  title: article.title + " | Skuteczny Plan",
     meta: [
     {
       hid: "title",
       name: "title",
-      content: t('articles.epizode_' + article.id + '.title') + " | Skuteczny Plan",
+      content: article.title + " | Skuteczny Plan",
     },
     {
       hid: "description",
       name: "description",
-      content: t('articles.epizode_' + article.id + '.description'),
+      content: article.description,
     },
     {
       hid: 'article:published_time',
@@ -65,12 +65,12 @@ useHead({
     {
       hid: 'og:title',
       property: 'og:title',
-      content: t('articles.epizode_' + article.id + '.title') + " | Skuteczny Plan",
+      content: article.title + " | Skuteczny Plan",
     },
     {
       hid: 'og:description',
       property: 'og:description',
-      content: t('articles.epizode_' + article.id + '.description'),
+      content: article.description,
     },
     {
       hid: 'og:publish_date',
@@ -100,7 +100,7 @@ useHead({
     {
       hid: 'og:image:alt',
       property: 'og:image:alt',
-      content: t('articles.epizode_' + article.id + '.title') + " | " + t('articles.epizode_' + article.id + '.description'),
+      content: article.title + " | " + article.description,
     },
     {
       hid: 'twitter:card',
@@ -120,12 +120,12 @@ useHead({
     {
       hid: 'twitter:title',
       name: 'twitter:title',
-      content: t('articles.epizode_' + article.id + '.title') + " | Skuteczny Plan",
+      content: article.title + " | Skuteczny Plan",
     },
     {
       hid: 'twitter:description',
       name: 'twitter:description',
-      content: t('articles.epizode_' + article.id + '.description'),
+      content: article.description,
     },
   ]
 })
