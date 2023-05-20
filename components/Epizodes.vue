@@ -9,10 +9,14 @@
           </span>
           <span class="text-sm">{{ item.publish_date }}</span>
         </div>
-        <h2 class="mb-2 text-3xl md:text-4xl font-bold tracking-tight text-accent">{{ item.title }}</h2>
-        <p class="mb-5 font-light text-justify leading-1 text-gray-300">{{ item.description }}</p>
+        <h2 class="mb-2 text-3xl md:text-4xl font-bold tracking-tight text-accent">
+          {{ item.id }}. {{ $t('articles.epizode_' + item.id + '.title') }}
+        </h2>
+        <p class="mb-5 font-light text-justify leading-1 text-gray-300">
+          {{ $t('articles.epizode_' + item.id + '.description') }}
+        </p>
         <NuxtLink 
-          :to="localePath({path: item.slug})"
+          :to="localePath({path: $t('articles.epizode_' + item.id + '.slug')})"
           data-splitbee-event="Podcast"
           v-bind:data-splitbee-event-episode="item.id"
           :title="$t('common.read-more')"

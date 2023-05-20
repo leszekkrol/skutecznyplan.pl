@@ -150,5 +150,47 @@
     "item_4": "A substantive, inspiring, and developing podcast. Thank you for all the episodes! You're doing an amazing job.",
     "item_5": "The podcast gives a lot of courage for daily action. Leszek develops and helps to step out of the comfort zone, allowing us to think and look more broadly.",
     "item_6": "Leszek is very pleasant and gentle to listen to. The podcast is definitely directed to ordinary people, without pompous words.",
+  },
+  "articles": {
+    "epizode_1": {
+      "slug": "prosty-sposob-na-produktywnosc",
+      "title": "Simple Way to Boost Productivity",
+      "description": "How will Ivy Lee's method increase your productivity? A simple way to be productive. Try a method that is based on very simple principles.",
+    },
+    "epizode_2": {
+      "slug": "moje-spojrzenie-na-samodoskonalenie",
+      "title": "My Perspective on Self-Improvement",
+      "description": "Small steps that are the essence of the Kaizen philosophy, known as the method of continuous process improvement. According to psychology, self-improvement is the pursuit of personal development in various areas.",
+    },
+    "epizode_3": {
+      "slug": "zacznij-kontrolowac-swoje-ryzyko",
+      "title": "Start Controlling Your Risks",
+      "description": "Consider whether, when preparing for a new venture, you have taken a moment to think if you or your company are adequately prepared for it.",
+    },
+    "epizode_4": {
+      "slug": "gdy-zadania-zaczna-ciebie-przytlaczac",
+      "title": "When Tasks Start Overwhelming You?",
+      "description": "There is talk of morning larks or night owls - a certain dependence on our individual rhythm of activity in which our body feels more productive. But is it really so...",
+    },
+    "epizode_5": {
+      "slug": "zasada-2-minut-czyli-skuteczne-zarzadzanie-czasem",
+      "title": "The 2-Minute Rule: Effective Time Management",
+      "description": "We have all experienced a state of overwhelm. Even the most organized individuals sometimes postpone some of their tasks. How to deal with it?",
+    },
+    "epizode_6": {
+      "slug": "matrycja-priorytetow-i-zarzadzania-czasem",
+      "title": "Matrix of Priorities and Time Management",
+      "description": "None of us likes to find ourselves in a situation for which we were not previously prepared. When additional tasks come pouring in, demanding our attention, and we start losing control. Tasks begin to manage us, but it should be the other way around. What to do to have more time for important things and manage the chaos?",
+    },
+    "epizode_7": {
+      "slug": "technika-skutecznego-robienia-postepow",
+      "title": "The Technique for Effective Progress",
+      "description": "We all have goals, but what to do when their implementation is going poorly, and we stop seeing progress? The technique you will learn in today's episode guarantees clear guidelines on how to overcome your own stagnation.",
+    },
+    "epizode_8": {
+      "slug": "to-nie-cel-sie-liczy",
+      "title": "It's Not About the Goal",
+      "description": "We live in a world obsessed with fast work and achieving results. What significance do weeks, months, and years have when the target keeps changing? In today's episode, we will examine what truly matters and determines our actions.",
+    },
   }
 }

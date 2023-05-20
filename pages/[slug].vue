@@ -2,8 +2,8 @@
   <main>
     <Header
       tag="podcast"
-      :title="article.title"
-      :description="article.description"
+      :title="t('articles.epizode_' + article.id + '.title')"
+      :description="t('articles.epizode_' + article.id + '.description')"
       :url="article.url"
      />
     <article class="mx-auto max-w-3xl pt-10 px-4 pb-12 sm:py-24 text-gray-300">
@@ -35,17 +35,17 @@ const store = useArticlesStore()
 const article = store.getArticleBySlug(route.params.slug)
 
 useHead({
-  title: article.title + " | Skuteczny Plan",
+  title: t('articles.epizode_' + article.id + '.title') + " | Skuteczny Plan",
     meta: [
     {
       hid: "title",
       name: "title",
-      content: article.title + " | Skuteczny Plan",
+      content: t('articles.epizode_' + article.id + '.title') + " | Skuteczny Plan",
     },
     {
       hid: "description",
       name: "description",
-      content: article.description,
+      content: t('articles.epizode_' + article.id + '.description'),
     },
     {
       hid: 'article:published_time',
@@ -65,12 +65,12 @@ useHead({
     {
       hid: 'og:title',
       property: 'og:title',
-      content: article.title + " | Skuteczny Plan",
+      content: t('articles.epizode_' + article.id + '.title') + " | Skuteczny Plan",
     },
     {
       hid: 'og:description',
       property: 'og:description',
-      content: article.description,
+      content: t('articles.epizode_' + article.id + '.description'),
     },
     {
       hid: 'og:publish_date',
@@ -100,7 +100,7 @@ useHead({
     {
       hid: 'og:image:alt',
       property: 'og:image:alt',
-      content: article.title + " | " + article.description,
+      content: t('articles.epizode_' + article.id + '.title') + " | " + t('articles.epizode_' + article.id + '.description'),
     },
     {
       hid: 'twitter:card',
@@ -120,12 +120,12 @@ useHead({
     {
       hid: 'twitter:title',
       name: 'twitter:title',
-      content: article.title + " | Skuteczny Plan",
+      content: t('articles.epizode_' + article.id + '.title') + " | Skuteczny Plan",
     },
     {
       hid: 'twitter:description',
       name: 'twitter:description',
-      content: article.description,
+      content: t('articles.epizode_' + article.id + '.description'),
     },
   ]
 })

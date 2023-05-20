@@ -150,5 +150,47 @@
     "item_4": "Un podcast sostanziale, ispiratore e in continua crescita. Grazie per tutti gli episodi! Stai facendo un lavoro straordinario.",
     "item_5": "Il podcast dà molto coraggio per l'azione quotidiana. Leszek si sviluppa e aiuta a uscire dalla zona di comfort, permettendoci di pensare e guardare in modo più ampio.",
     "item_6": "Leszek è molto piacevole e delicato da ascoltare. Il podcast è sicuramente rivolto alle persone comuni, senza parole pompose.",
+  },
+  "articles": {
+    "epizode_1": {
+      "slug": "prosty-sposob-na-produktywnosc",
+      "title": "Un modo semplice per aumentare la produttività",
+      "description": "Come il metodo di Ivy Lee può aumentare la tua produttività? Un modo semplice per aumentare la produttività. Prova questo metodo basato su principi molto semplici.",
+    },
+    "epizode_2": {
+      "slug": "moje-spojrzenie-na-samodoskonalenie",
+      "title": "Il mio punto di vista sull'auto-miglioramento",
+      "description": "Piccoli passi che rappresentano l'essenza della filosofia del Kaizen, il metodo di miglioramento continuo del processo. Secondo la psicologia, l'auto-miglioramento è la ricerca dello sviluppo personale su diverse sfere.",
+    },
+    "epizode_3": {
+      "slug": "zacznij-kontrolowac-swoje-ryzyko",
+      "title": "Inizia a controllare il tuo rischio",
+      "description": "Hai mai pensato, mentre ti preparavi per una nuova impresa, se tu o la tua azienda eravate sufficientemente preparati?",
+    },
+    "epizode_4": {
+      "slug": "gdy-zadania-zaczna-ciebie-przytlaczac",
+      "title": "Quando i compiti iniziano a sopraffarti?",
+      "description": "Si parla di allodole mattutine o di gufi notturni, cioè di una certa dipendenza dal nostro ritmo individuale di attività in cui il nostro corpo si sente più produttivo. Ma è davvero così...",
+    },
+    "epizode_5": {
+      "slug": "zasada-2-minut-czyli-skuteczne-zarzadzanie-czasem",
+      "title": "Il principio dei 2 minuti: gestire efficacemente il tempo",
+      "description": "Tutti noi abbiamo sperimentato la sensazione di essere sopraffatti. Anche le persone più organizzate talvolta rimandano alcune delle loro attività. Come affrontare questa situazione?",
+    },
+    "epizode_6": {
+      "slug": "matrycja-priorytetow-i-zarzadzania-czasem",
+      "title": "Matrice delle priorità e gestione del tempo",
+      "description": "Nessuno di noi vuole trovarsi in una situazione per cui non è stato preparato in anticipo. Quando i compiti continuano ad accumularsi richiedendo la nostra attenzione, iniziamo a perdere il controllo. I compiti iniziano a gestirci anziché il contrario. Cosa fare per avere più tempo per le cose importanti e per gestire il caos?",
+    },
+    "epizode_7": {
+      "slug": "technika-skutecznego-robienia-postepow",
+      "title": "La tecnica per fare progressi efficacemente",
+      "description": "Tutti noi abbiamo obiettivi, ma cosa fare quando stiamo avendo difficoltà nel raggiungerli e non vediamo progressi? La tecnica che imparerete in questo episodio fornisce linee guida chiare su come superare la propria stagnazione.",
+    },
+    "epizode_8": {
+      "slug": "to-nie-cel-sie-liczy",
+      "title": "Non è il traguardo che conta",
+      "description": "Viviamo in un mondo ossessionato dal lavoro veloce e dai risultati immediati. Quale importanza hanno settimane, mesi, anni quando l'obiettivo continua a cambiare? In questo episodio esamineremo ciò che è veramente importante e ci spinge all'azione.",
+    },
   }
 }

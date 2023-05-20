@@ -150,5 +150,47 @@
     "item_4": "Ein inhaltlich fundierter, inspirierender und entwickelnder Podcast. Vielen Dank für alle Episoden! Du leistest großartige Arbeit.",
     "item_5": "Der Podcast gibt viel Mut für das tägliche Handeln. Leszek entwickelt und hilft dabei, aus der Komfortzone herauszutreten und breiter zu denken und zu schauen.",
     "item_6": "Leszek ist sehr angenehm und sanft anzuhören. Der Podcast richtet sich definitiv an normale Menschen, ohne aufgeblasene Worte."
+  },
+  "articles": {
+    "epizode_1": {
+      "slug": "prosty-sposob-na-produktywnosc",
+      "title": "Einfacher Weg zur Produktivität",
+      "description": "Wie steigert die Ivy Lee Methode Ihre Produktivität? Ein einfacher Weg zur Produktivität. Probieren Sie diese Methode aus, die auf sehr einfachen Prinzipien basiert.",
+    },
+    "epizode_2": {
+      "slug": "moje-spojrzenie-na-samodoskonalenie",
+      "title": "Mein Blick auf Selbstverbesserung",
+      "description": "Kleine Schritte, die das Wesen der Kaizen-Philosophie ausmachen, einer Methode kontinuierlicher Prozessverbesserung. Gemäß der Psychologie strebt Selbstverbesserung die Entwicklung einer Person auf verschiedenen Ebenen an.",
+    },
+    "epizode_3": {
+      "slug": "zacznij-kontrolowac-swoje-ryzyko",
+      "title": "Kontrolliere dein Risiko",
+      "description": "Hast du dir jemals die Zeit genommen, dich auf ein neues Unterfangen vorzubereiten und dich zu fragen, ob du oder dein Unternehmen ausreichend darauf vorbereitet seid?",
+    },
+    "epizode_4": {
+      "slug": "gdy-zadania-zaczna-ciebie-przytlaczac",
+      "title": "Wenn Aufgaben überwältigend werden",
+      "description": "Man spricht von den Morgenmenschen oder den Nachteulen - einer gewissen Abhängigkeit von unserem individuellen Aktivitätsrhythmus, in dem sich unser Körper produktiver fühlt. Aber ist das wirklich so?",
+    },
+    "epizode_5": {
+      "slug": "zasada-2-minut-czyli-skuteczne-zarzadzanie-czasem",
+      "title": "Die 2-Minuten-Regel für effektives Zeitmanagement",
+      "description": "Jeder von uns hat wohl schon einmal das Gefühl der Überforderung erlebt. Selbst die organisiertesten Menschen verschieben manchmal Aufgaben auf später. Wie geht man damit um?",
+    },
+    "epizode_6": {
+      "slug": "matrycja-priorytetow-i-zarzadzania-czasem",
+      "title": "Prioritätsmatrix und Zeitmanagement",
+      "description": "Niemand mag es, in einer Situation zu sein, für die er nicht vorbereitet war. Wenn uns zusätzliche Aufgaben über den Kopf wachsen und unsere Aufmerksamkeit erfordern, verlieren wir die Kontrolle. Die Aufgaben beginnen, uns zu kontrollieren, obwohl es eigentlich andersherum sein sollte. Was kann man tun, um mehr Zeit für wichtige Dinge zu haben und das Chaos zu bewältigen?",
+    },
+    "epizode_7": {
+      "slug": "technika-skutecznego-robienia-postepow",
+      "title": "Technik für effektiven Fortschritt",
+      "description": "Jeder von uns hat Ziele, aber was tun, wenn die Umsetzung schleppend verläuft und wir keinen Fortschritt sehen? Die Technik, die Sie in dieser Episode kennenlernen werden, bietet klare Anleitungen, wie man seine eigene Stagnation überwindet.",
+    },
+    "epizode_8": {
+      "slug": "to-nie-cel-sie-liczy",
+      "title": "Es kommt nicht auf das Ziel an",
+      "description": "Wir leben in einer Welt, die von schneller Arbeit und Ergebnisorientierung besessen ist. Welche Bedeutung haben Wochen, Monate oder Jahre in Anbetracht eines sich ständig ändernden Ziels? In dieser Episode werden wir uns damit befassen, was wirklich wichtig ist und uns zum Handeln antreibt.",
+    },
   }
 }
