@@ -37,10 +37,17 @@
       <ul class="flex flex-wrap items-center gap-x-5 justify-left my-6 text-gray-400">
         <li>
           <a 
-            href="https://github.com/leszekkrol/skutecznyplan.pl" 
+            href="https://www.carbonneutral.com" 
             :title="$t('section.footer.carbon-neutral')" 
             data-splitbee-event="Carbon Neutral" 
             class="underline"><img src="~/assets/carbon-neutral.svg" class="h-8 sm:h-10 md:h-12" /></a>
+        </li>
+        <li>
+          <a 
+            href="https://github.com/leszekkrol/skutecznyplan.pl/" 
+            :title="$t('section.footer.open-source')" 
+            data-splitbee-event="Open Source" 
+            class="underline"><img src="~/assets/open-source.svg" class="h-8 sm:h-10 md:h-10" /></a>
         </li>
       </ul>
       <span class="text-sm text-gray-500 sm:text-center">&copy; 2021-2023 <a href="https://www.leszekkrol.com" :title="$t('section.footer.webpage')" class="hover:underline">Leszek W. Król</a>. {{ $t('section.footer.all-rights-reserved') }}</span>
