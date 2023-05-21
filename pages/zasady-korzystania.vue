@@ -30,7 +30,10 @@ useHead({
 defineI18nRoute({
   paths: {
     pl: '/zasady-korzystania',
-    en: '/terms-of-use'
+    en: '/terms-of-use',
+    de: '/nutzungsbedingungen',
+    fr: '/conditions-d-utilisation',
+    it: '/termini-di-utilizzo'
   }
 })
 </script>

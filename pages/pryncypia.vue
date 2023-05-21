@@ -37,7 +37,10 @@ useHead({
 defineI18nRoute({
   paths: {
     pl: '/pryncypia',
-    en: '/principles'
+    en: '/principles',
+    de: '/prinzipien',
+    fr: '/principes',
+    it: '/principi'
   }
 })
 </script>

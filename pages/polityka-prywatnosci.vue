@@ -62,7 +62,10 @@ useHead({
 defineI18nRoute({
   paths: {
     pl: '/polityka-prywatnosci',
-    en: '/privacy-policy'
+    en: '/privacy-policy',
+    de: '/datenschutzrichtlinie',
+    fr: '/politique-de-confidentialite',
+    it: '/informativa-sulla-privacy'
   }
 })
 </script>

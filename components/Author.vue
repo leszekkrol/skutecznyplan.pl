@@ -3,7 +3,7 @@
     <div class="md:flex">
       <div class="md:w-4/12 mb-8 md:mb-0">
         <div class="relative">
-          <img src="~/assets/img/avatar.jpg" :alt="$t('avatar-desc')">
+          <img src="~/assets/img/avatar.jpg" :alt="$t('section.author.avatar-desc')">
           <div class="image-mask"></div>
           <div class="absolute top-0 left-0 bg-gray-900 w-20 h-8"></div>
           <div class="absolute bottom-0 right-0 bg-gray-900 w-16 h-10"></div>
