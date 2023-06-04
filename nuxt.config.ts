@@ -126,11 +126,6 @@ export default defineNuxtConfig({
     '@pinia/nuxt',
     '@nuxtjs/i18n'
   ],
-  robots: {
-    UserAgent: '*',
-    Allow: '/',
-    Sitemap: 'https://www.skutecznyplan.pl/sitemap.xml'
-  },
   css: [
     '~/assets/main.css',
   ],
@@ -139,16 +134,6 @@ export default defineNuxtConfig({
       tailwindcss: {},
       autoprefixer: {},
     },
-  },
-  content: {
-    highlight: {
-      theme: 'github-dark'
-    },
-  },
-  nitro: {
-    prerender: {
-      routes: ['/sitemap.xml', '/404.html']
-    }
   },
   i18n: {
     baseUrl: 'https://www.skutecznyplan.pl/',
@@ -182,5 +167,10 @@ export default defineNuxtConfig({
       }
     ],
     langDir: 'locales/',
+  },
+  robots: {
+    UserAgent: '*',
+    Allow: '/',
+    Sitemap: 'https://www.skutecznyplan.pl/sitemap.xml'
   },
 })
