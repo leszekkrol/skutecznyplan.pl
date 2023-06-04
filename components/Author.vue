@@ -56,7 +56,9 @@
           </a>
           {{ $t('section.author.description_7') }} 
         </p>
-        <p class="mt-4 text-lg tracking-tight"><span class="font-bold underline">{{ $t('section.author.description_8') }}</span> {{ $t('section.author.description_9') }}</p>
+        <p class="mt-4 text-lg tracking-tight">
+          <span class="font-bold underline">{{ $t('section.author.description_8') }}</span> {{ $t('section.author.description_9') }}
+        </p>
         <p class="mt-4 text-lg tracking-tight">{{ $t('section.author.description_10') }}</p>
         <p class="mt-4 text-lg tracking-tight">{{ $t('section.author.description_11') }}</p>
         <p class="mt-4 text-lg tracking-tight">{{ $t('section.author.description_12') }}</p>
