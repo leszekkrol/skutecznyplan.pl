@@ -2,7 +2,7 @@
   "name": "skuteczny-plan",
   "description": "Website of the Skuteczny Plan podcast hosted by Leszek W. Król",
   "version": "1.1.1",
-  "keywords": [],
+  "keywords": ["i18n", "frontend-web", "nuxt", "website-design", "tailwindcss", "pinia-vuejs", "nuxt3-content"],
   "author": "Leszek W. Król <contact@leszekkrol.com>",
   "scripts": {
     "build": "nuxt build",
