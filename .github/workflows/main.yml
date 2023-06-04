@@ -18,21 +18,21 @@ jobs:
 
     steps:
       - name: 🚚 Get latest code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: 🛠 Use Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 16
+          node-version: 18
 
       - name: 🔨 Build Project
         run: |
-          npm install
+          npm ci
           npm run build
           npm run generate
           
       - name: 📂 Sync files
-        uses: SamKirkland/FTP-Deploy-Action@4.3.3
+        uses: SamKirkland/FTP-Deploy-Action@4.3.4
         with:
           dangerous-clean-slate: true
           server: ${{ secrets.ftp_host }}
