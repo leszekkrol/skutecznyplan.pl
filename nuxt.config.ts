@@ -16,7 +16,7 @@ export default defineNuxtConfig({
         {
           hid: "description",
           name: "description",
-          content: "Zwiększ swoją produktywność podczas codziennej pracy siegając po dostępną, praktyczną i unikalną wiedzę.",
+          content: "Zwiększ swoją produktywność podczas codziennej pracy siegając po dostępną, praktyczną i unikalną wiedzę. Skuteczny plan to podcast prowadzony przez Leszek W. Król.",
         },
         {
           hid: 'og:site_name',
@@ -123,8 +123,9 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     '@nuxt/content',
     '@nuxtjs/robots',
+    '@nuxtjs/i18n',
     '@pinia/nuxt',
-    '@nuxtjs/i18n'
+    '@funken-studio/sitemap-nuxt-3'
   ],
   css: [
     '~/assets/main.css',
@@ -172,5 +173,14 @@ export default defineNuxtConfig({
     UserAgent: '*',
     Allow: '/',
     Sitemap: 'https://www.skutecznyplan.pl/sitemap.xml'
+  },
+  sitemap: {
+    hostname: 'https://www.skutecznyplan.pl', 
+    cacheTime: 1,
+    defaults: {
+      changefreq: 'monthly',
+      priority: 1,
+      lastmod: new Date().toISOString(),
+    },
   },
 })

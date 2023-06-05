@@ -36,7 +36,7 @@ const article = store.getArticleBySlug(route.params.slug)
 
 useHead({
   title: article.title + " | Skuteczny Plan",
-    meta: [
+  meta: [
     {
       hid: "title",
       name: "title",
