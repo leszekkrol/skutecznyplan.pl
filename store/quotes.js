@@ -1,37 +1,39 @@
 import { defineStore } from 'pinia'
+import { useI18n } from 'vue-i18n'
 
 export const useQuotesStore = defineStore({
   id: 'quotes',
   state: () => {
+    const i18n = useI18n();
     return {
       quotes: [
         {
-          key: "quotes.item_1",
+          key: i18n.t('quotes.item_1'),
           author: "Katarzyna",
           position: "Studentka"
         },
         {
-          key: "quotes.item_2",
+          key: i18n.t('quotes.item_2'),
           author: "Joanna",
           position: "Projektanta"
         },
         {
-          key: "quotes.item_3",
+          key: i18n.t('quotes.item_3'),
           author: "Jacek",
           position: "Student"
         },
         {
-          key: "quotes.item_4",
+          key: i18n.t('quotes.item_4'),
           author: "Paweł",
           position: "Student"
         },
         {
-          key: "quotes.item_5",
+          key: i18n.t('quotes.item_5'),
           author: "Martyna",
           position: "Grafik 2D"
         },
         {
-          key: "quotes.item_6",
+          key: i18n.t('quotes.item_6'),
           author: "Agnieszka",
           position: "Studentka"
         },

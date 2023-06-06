@@ -1,4 +1,10 @@
 {
+  "meta": {
+    "title": "Skuteczny Plan - Rozwiń praktyczne umiejętności zarządzania",
+    "description": "Zwiększ swoją produktywność podczas codziennej pracy siegając po dostępną, praktyczną i unikalną wiedzę. Skuteczny plan to podcast prowadzony przez Leszek W. Król.",
+    "site_name": "Skuteczny Plan",
+    "image_alt": "Skuteczny Plan to rozmowy o aktualnych wyzwaniach dla firm, produktywnej pracy, nowych technologiach, czy grywalizacji. Zwiększ swoją produktywność podczas codziennej pracy siegając po dostępną, praktyczną i unikalną wiedzę, która pomoże Tobie odmienić sposób w jaki pracujesz każdego dnia."
+  },
   "common": {
     "error-404": "Bład 404",
     "not-found": "Strona nie została znaleziona",
