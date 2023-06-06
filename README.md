@@ -1,4 +1,4 @@
-# Skuteczy Plan
+# Skuteczny Plan
 > This is the website of the "Skuteczny Plan" podcast hosted by Leszek W. Król.
 
 ![Zrzut ekranu 2023-05-21 o 21 01 24](https://github.com/leszekkrol/skutecznyplan.pl/assets/10097678/7bd03e3b-000d-427c-add4-3c4d729bf52c)
