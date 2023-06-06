@@ -32,7 +32,7 @@ jobs:
           npm run generate
           
       - name: 📂 Sync files
-        uses: SamKirkland/FTP-Deploy-Action@4.3.4
+        uses: SamKirkland/FTP-Deploy-Action@4.3.3
         with:
           dangerous-clean-slate: true
           server: ${{ secrets.ftp_host }}
