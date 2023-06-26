@@ -1,10 +1,13 @@
 # Skuteczny Plan
 
+[![Nuxt](https://img.shields.io/badge/nuxt-3.svg)](https://nuxt.com)
+[![Vue](https://img.shields.io/badge/vue-blue)](https://vuejs.org)
+[![license](https://img.shields.io/badge/license-mit-brightgreen.svg)](https://en.wikipedia.org/wiki/MIT_License)
+
+Welcome to Skuteczny Plan, a signpost for young entrepreneurs and those who want to try their hand at business. These are talks about current challenges for companies, new technologies, gamification or topics related to building your own startup or products. I want to talk about complicated topics in an accessible way. Podcast hosted by Leszek W. Król.
+
+
 ![Zrzut ekranu 2023-05-21 o 21 01 24](https://github.com/leszekkrol/skutecznyplan.pl/assets/10097678/7bd03e3b-000d-427c-add4-3c4d729bf52c)
-
-## 📝 About the project
-
-`Skuteczny Plan` - a signpost for young entrepreneurs and those who want to try their hand at business. These are talks about current challenges for companies, new technologies, gamification or topics related to building your own startup or products. I want to talk about complicated topics in an accessible way. Podcast hosted by Leszek W. Król.
 
 ## 🛠 Technology Stack
 - [Nuxt 3](https://nuxt.com) - Vue.js framework
