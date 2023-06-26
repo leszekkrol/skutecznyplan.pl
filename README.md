@@ -10,22 +10,31 @@ Welcome to Skuteczny Plan, a signpost for young entrepreneurs and those who want
 ![Zrzut ekranu 2023-05-21 o 21 01 24](https://github.com/leszekkrol/skutecznyplan.pl/assets/10097678/7bd03e3b-000d-427c-add4-3c4d729bf52c)
 
 ## 🛠 Technology Stack
-- [Nuxt 3](https://nuxt.com) - Vue.js framework
-- [Tailwind](https://tailwindcss.com) - styling and layout
-- [Pinia](https://pinia.vuejs.org) - store for Vue.js
-- [i18n](https://i18n.nuxtjs.org) - localization
+- [Nuxt 3](https://nuxt.com) - framework for building Vue.js applications. It offers features like Server-Side Rendering, automatic code splitting, and static site generation, among others.
+- [Tailwind](https://tailwindcss.com) - low-level, utility-first CSS framework that promotes highly customizable designs. It enables developers to construct complex designs by assembling utility classes in HTML, thus making CSS more reusable and maintainable.
+- [Pinia](https://pinia.vuejs.org) -  lightweight and straightforward state management library for Vue.js. It offers an intuitive and Vuex-like API, making it easy to handle your application's state while improving performance and developer experience.
+- [i18n](https://i18n.nuxtjs.org) - tool for structuring your application to support different languages and cultural regions. It allows for dynamic translation of your application, catering to a global audience.
 
 ## ✍️ Development
-Do you want to participate in my projects? Thank you very much for your interest! I am always seeking further development for what I do, and the contribution of open-source programmers is greatly appreciated.
+It brings immense joy and excitement to know that you're keen on contributing to the projects I'm working on. There's always a world of possibilities that can be explored, and having talented individuals like you onboard can truly make a massive difference. Your interest is deeply appreciated, and it's a reminder of the magic ✨ that happens when open-source developers come together and collaborate.
+
+Open-source is the foundation of many groundbreaking innovations, and it's the community of developers like you who fuel this ceaseless evolution. Your ideas 💡, your code 💻, and your passion ❤️ can significantly impact the shape of the projects and contribute to the larger world of technology.
+
+Let's build 🛠️, create 🎨, and revolutionize 🚀 together. Let's take these projects to new heights 🏔️ and unlock their true potential. Your skills 🎯 and ideas 💭 are more than welcome here - they're necessary, valued, and have the potential to spark real change.
+
+So, yes, absolutely, your participation is eagerly welcomed! I'm thrilled 😄 at the prospect of working with you, and I can't wait to see the incredible contributions you'll bring to these projects. Thanks again for showing your interest and excitement. It truly means the world! 🌍
+
+Let's do this, and let's make amazing things happen together. 🚀
 
 ## 🌟 Share with Friends!
-If you want to express your gratitude and/or support active development:
+If you're enjoying the projects and want to send some love back my way, that's music to my ears! Your support is the fuel that keeps this creative machine running, and I am forever grateful for that.
 
-- Add a GitHub star to the project!
-- Tweet about the project on your Twitter!
-   - Tag [@leszekkrol](https://twitter.com/leszekkrol) and/or  `#leszekkrol`
+Here are some super cool ways you can express your appreciation and help keep this development train chugging:
 
-Thank you very much for your interest in the development of my community!
+- 🌟 Show some love with a GitHub star on the project! It's like applause, but for coders!
+- 🐦 Share the love on Twitter! Tweeting about the project helps spread the word and attract more rockstars like you. Don't forget to tag me [@leszekkrol](https://twitter.com/leszekkrol) and use the hashtag `#leszekkrol`!
+
+Your voice is powerful, and your support means the world. Thank you, from the bottom of my heart, for your interest in the development of my community. 🙏
 
 _**PS:** Consider sponsoring my work ([Leszek W. Król](https://www.leszekkrol.com)) on [Kup mi kawę](https://buycoffee.to/leszekkrol)_
 
