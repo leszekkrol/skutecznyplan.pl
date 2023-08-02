@@ -33,20 +33,12 @@
       "description": "Moja społeczność to każdy, kto chce zwiększyć swoją produktywność i efektywność podczas codziennej pracy. Siegają po tą trudno dostępną, praktyczną i unikalną wiedzę: twórcy, pisarze, programiści, marketerzy, agencje, firmy programistyczne, społeczności, podcasterzy..."
     },
     "author": {
-      "title": "Nazywam się",
+      "title": "Poznaj,",
       "avatar-desc": "Leszek W. Król - Przedsiębiorca",
-      "description_1": "Nazywam się Leszek W. Król od prawie dwóch dekad pasjonuje się nowymi technologiami aktywnie działając w ekosystemie startupowym. Na codzień towarzyszę firmom i instytucjom w projektowaniu strategii oraz rozwoju nowych produktów i usług.",
-      "description_2": "Inicjator i założyciel",
-      "description_3": "- międzynarodowego wirtualnego hubu dla niezależnych twórców gier komputerowych, którego celem jest dostarczanie wiedzy oraz praktycznych rozwiązań w obszarze projektowania i programowania gier komputerowych, w tym najlepszych praktyk biznesowych popartych historią sukcesu innych twórców z całego świata.",
-      "description_4": "Twórca",
-      "description_5": "- startupu z branży edukacyjnej, który zmienia postrzeganie pracodawców na znaczenie prac dyplomowych pisanych przez studentów uczelni wyższych.",
-      "description_6": "Współwłaściciel i CTO",
-      "description_7": "- startupu z branży fintech dostarczającego rozwiązania mobilne umożliwiające bezproblemową interakcje klienta z szeroką gamą platform finansowych, inwestycyjnych i transakcyjnych.",
-      "description_8": "Prekursor wykorzystania technologii rozszerzonej rzeczywistości w edukacji oraz branży retail.",
-      "description_9": "Jego rozwiązania były wykorzystywane w kampaniach i projektach takich firm jak: McDonalds, Nestle, Mattle, Trefl czy Toyota.",
-      "description_10": "Aktywnie uczestniczy w wielu krajowych i międzynarodowych konferencjach, czy seminariach naukowych poświęconych nowym technologiom oraz legaltech. Autor licznych artykułów naukowych opublikowanych w Polsce i za granica. Nadto współautor ponad pięciuset projektów informatycznych.",
-      "description_11": "Aktualnie student Prawa na Wyższej Szkole Bankowej w Toruniu. Aktywnie uczestniczy w życiu studenckim jako Przewodniczący Samorządu Studenckiego oraz członek Rady Akademickiej. Prywatnie miłośnik golfa i od niedawna crossfit’u.",
-      "description_12": "— Ciągle inspiruje młodych ludzi do zmiany."
+      "description_1": "Przedsiębiorca, mentor, działacz społeczny, absolwent prawa i czynny mediator sądowy. Wielokrotny stypendysta stypendium rektora Wyższej Szkoły Bankowej w Toruniu, stypendium rektora Uniwersytetu Warmińsko-Mazurskiego w Olsztynie oraz stypendium Prezydenta Miasta Olsztyna. ",
+      "description_2": "Posiada obszerne doświadczenie w kreowaniu produktów cyfrowych i zarządzaniu zespołami multidyscyplinarnymi, szczególnie rozumie i wykorzystuje potęgę kreatywności i innowacji na terenie zróżnicowanego środowiska startupowego, angażując się z powodzeniem w projektowanie, realizację i implementację innowacyjnych rozwiązań technologicznych. Jego portfolio obejmuje ponad 500 z powodzeniem wdrożonych projektów informatycznych. Uhonorowany tytułem laureata konkursu Microsoft Polska za nowatorski projekt wykorzystania grywalizacji na konsoli Xbox 360. Laureat I Warmińsko-Mazurskich zawodów programistycznych organizowanych przez Uniwersytet Warmińsko-Mazurski w Olsztynie. ",
+      "description_3": "Prekursor wykorzystania technologii rozszerzonej rzeczywistości w edukacji i branży retail. Jego pomysły i rozwiązania zostały wykorzystane przez: McDonalds, Nestle, Mattle, Nadec, Trefl czy Toyota. Wyróżniony prestiżową nagrodę im. Marka Drapińskiego za projekt automatyzacji procesów w nauczaniu zdalnym, który przyczynił się do innowacyjnych i pozytywnych zmian w polskim środowisku akademickim. ",
+      "description_4": "Aktywny uczestnik wielu krajowych i międzynarodowych konferencji i seminariów naukowych dotyczących nowych technologii (AR, VR, FinTech) oraz LegalTech, jest również autorem licznych publikacji i cenionym mówcą. Prywatnie pasjonat golfa, a od niedawna crossfit-u.",
     },
     "slug": {
       "description": "Na co dzień towarzyszę firmom i instytucjom w projektowaniu strategii oraz opracowywaniu nowych produktów i usług."

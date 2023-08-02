@@ -27,20 +27,12 @@
       "description": "La mia comunità è composta da chiunque voglia aumentare la propria produttività ed efficienza durante il lavoro quotidiano. Si rivolgono a questa conoscenza pratica e unica, difficile da ottenere: creatori, scrittori, programmatori, marketer, agenzie, aziende software, comunità, podcaster..."
     },
     "author": {
-      "title": "Mi chiamo",
+      "title": "Incontra,",
       "avatar-desc": "Leszek W. Król - Imprenditore",
-      "description_1": "Mi chiamo Leszek W. Król e da quasi due decenni sono appassionato di nuove tecnologie, opero attivamente nell'ecosistema delle startup. quotidianamente, supporto aziende e istituzioni nella progettazione di strategie e nello sviluppo di nuovi prodotti e servizi.",
-      "description_2": "Iniziatore e fondatore",
-      "description_3": "- di un hub virtuale internazionale per sviluppatori di giochi indipendenti, che mira a fornire conoscenze e soluzioni pratiche nell'ambito del design e della programmazione di giochi per computer, inclusi le migliori pratiche aziendali supportate da storie di successo di altri creatori provenienti da tutto il mondo.",
-      "description_4": "Creatore",
-      "description_5": "- di una startup nell'industria dell'istruzione che cambia la percezione dei datori di lavoro sull'importanza delle tesi degli studenti universitari.",
-      "description_6": "Co-proprietario e CTO",
-      "description_7": "- di una startup fintech che fornisce soluzioni mobili per un'interazione senza soluzione di continuità dei clienti con una vasta gamma di piattaforme finanziarie, di investimento e di transazione.",
-      "description_8": "Pioniere nell'uso della tecnologia della realtà aumentata nelle industrie dell'istruzione e del commercio al dettaglio.",
-      "description_9": "Le sue soluzioni sono state utilizzate in campagne e progetti per aziende come McDonald's, Nestlé, Mattle, Trefl e Toyota.",
-      "description_10": "Partecipa attivamente a numerose conferenze nazionali e internazionali o seminari scientifici dedicati alle nuove tecnologie e al legaltech. È autore di numerosi articoli scientifici pubblicati in Polonia e all'estero e coautore di oltre cinquecento progetti IT.",
-      "description_11": "Attualmente è uno studente di legge presso la Higher Banking School di Toruń. Partecipa attivamente alla vita studentesca come presidente del Consiglio degli studenti e membro del Consiglio accademico. Privatamente, è un appassionato di golf e un recente appassionato di crossfit.",
-      "description_12": "- Ispirando continuamente i giovani a fare la differenza."
+      "description_1": "Imprenditore, mentore, attivista sociale, laureato in legge e mediatore giudiziario attivo. Multiplo beneficiario di borse di studio dalla Scuola di Banca di Torun, Università di Warmia-Mazury a Olsztyn, e dal Presidente della città di Olsztyn.",
+      "description_2": "Ha una vasta esperienza nella creazione di prodotti digitali e nella gestione di team multidisciplinari, capisce particolarmente e sfrutta il potere della creatività e dell'innovazione all'interno dell'ambiente startup diversificato, impegnandosi con successo nella progettazione, esecuzione e implementazione di soluzioni tecnologiche innovative. Il suo portfolio include oltre 500 progetti IT implementati con successo. Onorato con il premio Microsoft Polonia per un progetto innovativo di gamification sulla console Xbox 360. Vincitore del I concorso di programmazione Warmia-Mazury organizzato dall'Università di Warmia-Mazury a Olsztyn.",
+      "description_3": "Pioniere nell'uso della tecnologia di realtà aumentata nell'educazione e nell'industria del retail. Le sue idee e soluzioni sono state utilizzate da aziende come: McDonald's, Nestlé, Mattel, Nadec, Trefl e Toyota. Ha ricevuto il prestigioso premio Marek Drapiński per un progetto di automazione dei processi nell'insegnamento a distanza, che ha contribuito a cambiamenti innovativi e positivi nell'ambiente accademico polacco.",
+      "description_4": "Partecipante attivo a molte conferenze e seminari scientifici nazionali e internazionali su nuove tecnologie (AR, VR, FinTech) e LegalTech, è anche l'autore di numerose pubblicazioni e un oratore apprezzato. Nella sua vita privata, è un appassionato di golf e, recentemente, un devoto di crossfit.",
     },
     "slug": {
       "description": "Quotidianamente, accompagno aziende e istituzioni nella progettazione di strategie e nello sviluppo di nuovi prodotti e servizi."
