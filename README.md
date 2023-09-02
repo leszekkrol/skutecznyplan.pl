@@ -6,8 +6,7 @@
 
 Welcome to Skuteczny Plan, a signpost for young entrepreneurs and those who want to try their hand at business. These are talks about current challenges for companies, new technologies, gamification or topics related to building your own startup or products. I want to talk about complicated topics in an accessible way. Podcast hosted by Leszek W. Król.
 
-
-![Zrzut ekranu 2023-05-21 o 21 01 24](https://github.com/leszekkrol/skutecznyplan.pl/assets/10097678/7bd03e3b-000d-427c-add4-3c4d729bf52c)
+![screely-1693672255606](https://github.com/leszekkrol/skutecznyplan.pl/assets/10097678/1e442427-2ebf-4c2c-8931-4f7efaa2a4f0)
 
 ## 🛠 Technology Stack
 - [Nuxt 3](https://nuxt.com) - framework for building Vue.js applications. It offers features like Server-Side Rendering, automatic code splitting, and static site generation, among others.
