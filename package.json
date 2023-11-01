@@ -35,7 +35,7 @@
     "@nuxt/content": "^2.8.5",
     "@nuxtjs/i18n": "^8.0.0-rc.4",
     "@nuxtjs/robots": "^3.0.0",
-    "@nuxtjs/tailwindcss": "^6.8.0",
+    "@nuxtjs/tailwindcss": "^6.8.1",
     "@tailwindcss/typography": "^0.5.10",
     "nuxt": "3.7.4"
   },
