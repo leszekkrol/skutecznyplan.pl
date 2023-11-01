@@ -37,7 +37,7 @@
     "@nuxtjs/robots": "^3.0.0",
     "@nuxtjs/tailwindcss": "^6.8.0",
     "@tailwindcss/typography": "^0.5.10",
-    "nuxt": "3.7.4"
+    "nuxt": "3.8.0"
   },
   "dependencies": {
     "@funken-studio/sitemap-nuxt-3": "^4.0.4",
