@@ -14,12 +14,14 @@ Welcome to Skuteczny Plan, a signpost for young entrepreneurs and those who want
 - [Pinia](https://pinia.vuejs.org) - lightweight and straightforward state management library for Vue.js. It offers an intuitive and Vuex-like API, making it easy to handle your application's state while improving performance and developer experience.
 - [@nuxtjs/i18n](https://i18n.nuxtjs.org) - tool for structuring your application to support different languages and cultural regions. It allows for dynamic translation of your application, catering to a global audience.
 - [@nuxt/content](https://content.nuxt.com) - file-based CMS for Nuxt, supporting Markdown, YAML, CSV and JSON content files.
+- [@nuxtjs/sitemap](https://github.com/nuxt-community/sitemap-module) - automatically generates sitemap.xml for better SEO.
+- [@nuxtjs/robots](https://github.com/nuxt-community/robots-module) - automatically generates robots.txt for search engine crawlers.
 - [Railway](https://railway.app) - platform for deploying and hosting applications with automatic scaling and zero-config deployments.
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js >= 18.0.0
+- Node.js >= 20.19.0
 - npm >= 9.0.0
 
 ### Installation
@@ -60,18 +62,45 @@ Railway will automatically detect the Node.js project and run `npm install`, `np
 
 ```
 ├── assets/          # Static assets (images, CSS)
+│   ├── img/        # Images (avatar, podcast icons)
+│   └── svg/        # SVG icons
 ├── components/      # Vue components
-├── content/         # Content files (Markdown)
-│   ├── pl/         # Polish content
-│   ├── en/         # English content
-│   ├── de/         # German content
-│   ├── fr/         # French content
-│   └── it/         # Italian content
+│   ├── Author.vue  # Author section component
+│   ├── Epizodes.vue # Episodes listing component
+│   ├── Footer.vue  # Footer component
+│   ├── Header.vue  # Header component
+│   ├── Navigation.vue # Navigation component
+│   └── Quotes.vue  # Quotes/testimonials component
+├── content/         # Content files (Markdown) - Nuxt Content v3
+│   ├── pl/         # Polish content (8 articles)
+│   ├── en/         # English content (8 articles)
+│   ├── de/         # German content (8 articles)
+│   ├── fr/         # French content (8 articles)
+│   └── it/         # Italian content (8 articles)
+├── content.config.ts # Nuxt Content configuration
 ├── layouts/         # Layout components
+│   ├── blog.vue    # Blog article layout
+│   ├── default.vue # Default layout
+│   └── empty.vue   # Empty layout
 ├── locales/         # Translation files (i18n)
+│   ├── pl-PL.json  # Polish translations
+│   ├── en-EN.json  # English translations
+│   ├── de-DE.json  # German translations
+│   ├── fr-FR.json  # French translations
+│   └── it-IT.json  # Italian translations
 ├── pages/           # Application pages and routes
-├── public/          # Public static files
-└── store/           # Pinia stores
+│   ├── [slug].vue  # Dynamic article page
+│   ├── index.vue   # Homepage
+│   ├── error-404.vue # 404 error page
+│   ├── polityka-prywatnosci.vue # Privacy policy (PL)
+│   ├── pryncypia.vue # Principles page (PL)
+│   └── zasady-korzystania.vue # Terms of use (PL)
+├── public/          # Public static files (favicons, images)
+├── store/           # Pinia stores
+│   ├── articles.js # Articles store
+│   └── quotes.js   # Quotes store
+├── nuxt.config.ts   # Nuxt configuration
+└── tailwind.config.js # Tailwind CSS configuration
 ```
 
 ## 🌍 Internationalization
@@ -83,7 +112,17 @@ The application supports 5 languages:
 - French (fr)
 - Italian (it)
 
-Translation files are located in the `locales/` directory.
+Translation files are located in the `locales/` directory. The content articles are stored in Markdown format in the `content/` directory, organized by language code (pl, en, de, fr, it).
+
+### SEO Optimization
+
+The project includes comprehensive SEO optimization:
+- **Sitemap**: Automatically generated via `@nuxtjs/sitemap` module
+- **Robots.txt**: Automatically generated via `@nuxtjs/robots` module
+- **Meta tags**: SEO meta tags configured per page using `useSeoMeta()` composable
+- **Open Graph**: Social media sharing tags for Facebook, Twitter, etc.
+- **Canonical URLs**: Proper canonical links for all pages
+- **Multilingual SEO**: Hreflang tags for international content
 
 ## ✍️ Development
 
