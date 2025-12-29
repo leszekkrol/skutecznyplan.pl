@@ -61,4 +61,10 @@ export default defineNuxtConfig({
   site: {
     url: 'https://www.skutecznyplan.pl',
   },
+  nitro: {
+    prerender: {
+      crawlLinks: false,
+      ignore: ['/__nuxt_content/content/sql_dump.txt']
+    }
+  },
 })
