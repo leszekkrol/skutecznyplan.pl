@@ -30,13 +30,3 @@ jobs:
           npm ci
           npm run build
           npm run generate
-          
-      - name: 📂 Sync files
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
-        with:
-          dangerous-clean-slate: true
-          server: ${{ secrets.ftp_host }}
-          username: ${{ secrets.ftp_username }}
-          password: ${{ secrets.ftp_password }}
-          local-dir: ./.output/public/
-          server-dir: ./public_html/
