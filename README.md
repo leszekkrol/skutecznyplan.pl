@@ -1,6 +1,6 @@
 # Skuteczny Plan
 
-[![Nuxt](https://img.shields.io/badge/nuxt-3.svg)](https://nuxt.com)
+[![Nuxt](https://img.shields.io/badge/nuxt-4.svg)](https://nuxt.com)
 [![Vue](https://img.shields.io/badge/vue-blue)](https://vuejs.org)
 [![license](https://img.shields.io/badge/license-mit-brightgreen.svg)](https://en.wikipedia.org/wiki/MIT_License)
 
@@ -9,12 +9,84 @@ Welcome to Skuteczny Plan, a signpost for young entrepreneurs and those who want
 ![screely-1693672255606](https://github.com/leszekkrol/skutecznyplan.pl/assets/10097678/1e442427-2ebf-4c2c-8931-4f7efaa2a4f0)
 
 ## 🛠 Technology Stack
-- [Nuxt 3](https://nuxt.com) - framework for building Vue.js applications. It offers features like Server-Side Rendering, automatic code splitting, and static site generation, among others.
-- [Tailwind](https://tailwindcss.com) - low-level, utility-first CSS framework that promotes highly customizable designs. It enables developers to construct complex designs by assembling utility classes in HTML, thus making CSS more reusable and maintainable.
-- [Pinia](https://pinia.vuejs.org) -  lightweight and straightforward state management library for Vue.js. It offers an intuitive and Vuex-like API, making it easy to handle your application's state while improving performance and developer experience.
-- [i18n](https://i18n.nuxtjs.org) - tool for structuring your application to support different languages and cultural regions. It allows for dynamic translation of your application, catering to a global audience.
+- [Nuxt 4](https://nuxt.com) - framework for building Vue.js applications. It offers features like Server-Side Rendering, automatic code splitting, and static site generation, among others.
+- [Tailwind CSS](https://tailwindcss.com) - low-level, utility-first CSS framework that promotes highly customizable designs. It enables developers to construct complex designs by assembling utility classes in HTML, thus making CSS more reusable and maintainable.
+- [Pinia](https://pinia.vuejs.org) - lightweight and straightforward state management library for Vue.js. It offers an intuitive and Vuex-like API, making it easy to handle your application's state while improving performance and developer experience.
+- [@nuxtjs/i18n](https://i18n.nuxtjs.org) - tool for structuring your application to support different languages and cultural regions. It allows for dynamic translation of your application, catering to a global audience.
+- [@nuxt/content](https://content.nuxt.com) - file-based CMS for Nuxt, supporting Markdown, YAML, CSV and JSON content files.
+- [Railway](https://railway.app) - platform for deploying and hosting applications with automatic scaling and zero-config deployments.
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js >= 18.0.0
+- npm >= 9.0.0
+
+### Installation
+
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
+
+# Generate static site
+npm run generate
+```
+
+### Development
+
+The development server will be available at `http://localhost:3000`
+
+### Production Build
+
+For production deployment on Railway:
+
+```bash
+npm run build
+npm start
+```
+
+Railway will automatically detect the Node.js project and run `npm install`, `npm run build`, and `npm start` in sequence.
+
+## 📁 Project Structure
+
+```
+├── assets/          # Static assets (images, CSS)
+├── components/      # Vue components
+├── content/         # Content files (Markdown)
+│   ├── pl/         # Polish content
+│   ├── en/         # English content
+│   ├── de/         # German content
+│   ├── fr/         # French content
+│   └── it/         # Italian content
+├── layouts/         # Layout components
+├── locales/         # Translation files (i18n)
+├── pages/           # Application pages and routes
+├── public/          # Public static files
+└── store/           # Pinia stores
+```
+
+## 🌍 Internationalization
+
+The application supports 5 languages:
+- Polish (pl) - default
+- English (en)
+- German (de)
+- French (fr)
+- Italian (it)
+
+Translation files are located in the `locales/` directory.
 
 ## ✍️ Development
+
 It brings immense joy and excitement to know that you're keen on contributing to the projects I'm working on. There's always a world of possibilities that can be explored, and having talented individuals like you onboard can truly make a massive difference. Your interest is deeply appreciated, and it's a reminder of the magic ✨ that happens when open-source developers come together and collaborate.
 
 Open-source is the foundation of many groundbreaking innovations, and it's the community of developers like you who fuel this ceaseless evolution. Your ideas 💡, your code 💻, and your passion ❤️ can significantly impact the shape of the projects and contribute to the larger world of technology.

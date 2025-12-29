@@ -16,9 +16,7 @@
           {{ $t('articles.epizode_' + item.id + '.description') }}
         </p>
         <NuxtLink 
-          :to="localePath({path: $t('articles.epizode_' + item.id + '.slug')})"
-          data-splitbee-event="Podcast"
-          v-bind:data-splitbee-event-episode="item.id"
+          :to="localePath('/' + $t('articles.epizode_' + item.id + '.slug'))"
           :title="$t('common.read-more')"
           class="inline-flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-3xl text-white bg-gray-700 hover:bg-blue-900 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">{{ $t('common.read-more') }} 🔖</NuxtLink>  
         </div>
@@ -27,15 +25,10 @@
   </section>
 </template>
 
-<script>
+<script setup>
 import { useArticlesStore } from '~/store/articles'
 
-export default defineComponent({
-  setup() {
-    const articleStore = useArticlesStore()
-    const articlesList = articleStore.articles
-
-    return { articlesList }
-  },
-})
+const localePath = useLocalePath()
+const articleStore = useArticlesStore()
+const articlesList = computed(() => articleStore.articles)
 </script>

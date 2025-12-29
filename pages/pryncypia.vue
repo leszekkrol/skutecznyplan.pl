@@ -20,14 +20,26 @@
 const route = useRoute();
 const { t, tm, rt } = useI18n();
 
+const currentUrl = computed(() => `https://www.skutecznyplan.pl${route.fullPath}`)
+const pageTitle = computed(() => `${t('section.principles.title')} | Skuteczny Plan`)
+const pageDescription = computed(() => t('section.principles.metadata.content'))
+
+useSeoMeta({
+  title: pageTitle,
+  description: pageDescription,
+  ogTitle: pageTitle,
+  ogDescription: pageDescription,
+  ogUrl: currentUrl,
+  ogType: 'website',
+})
+
 useHead({
-  title: t('section.principles.title') + ' | Skuteczny Plan',
-  meta: [
-    { hid: "description", name: "description", content: t('section.principles.metadata.content') },
-    { hid: "og:title", name: "og:title", content: t('section.principles.title') + ' | Skuteczny Plan'  },
-    { hid: "og:description", name: "og:description", content: t('section.principles.metadata.content') },
-    { hid: "og:url", name: "og:url", content: "https://www.skutecznyplan.pl" + route.params.fullPath }
-  ],
+  link: [
+    {
+      rel: 'canonical',
+      href: currentUrl
+    }
+  ]
 })
 
 defineI18nRoute({

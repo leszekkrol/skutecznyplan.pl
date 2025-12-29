@@ -1,5 +1,5 @@
 <template>
-  <Html :lang="head.htmlAttrs.lang" :dir="head.htmlAttrs.dir">
+  <Html :lang="htmlLang" :dir="htmlDir">
     <Head>
       <Title>{{ title }}</Title>
       <template v-for="link in head.link" :key="link.id">
@@ -25,120 +25,47 @@
 </template>
 
 <script setup>
-const { t } = useI18n()
+const { t, locale } = useI18n()
 const head = useLocaleHead({
   addDirAttribute: true,
   identifierAttribute: 'id',
   addSeoAttributes: true
 })
 const title = computed(() => t('meta.title'))
+const htmlLang = computed(() => head.value?.htmlAttrs?.lang || locale.value || 'pl')
+const htmlDir = computed(() => head.value?.htmlAttrs?.dir || 'ltr')
+
+const siteUrl = 'https://www.skutecznyplan.pl'
+const defaultOgImage = `${siteUrl}/img/skuteczny-plan-og.png`
+const defaultTwitterImage = `${siteUrl}/img/skuteczny-plan-twitter.png`
+
+useSeoMeta({
+  title: () => t('meta.title'),
+  description: () => t('meta.description'),
+  ogTitle: () => t('meta.title'),
+  ogDescription: () => t('meta.description'),
+  ogType: 'website',
+  ogUrl: siteUrl,
+  ogImage: defaultOgImage,
+  ogImageSecureUrl: defaultOgImage,
+  ogImageAlt: () => t('meta.image_alt'),
+  ogSiteName: () => t('meta.site_name'),
+  ogLocale: 'pl_PL',
+  twitterCard: 'summary_large_image',
+  twitterTitle: () => t('meta.title'),
+  twitterDescription: () => t('meta.description'),
+  twitterImage: defaultTwitterImage,
+  twitterSite: '@leszekkrol',
+  twitterCreator: '@leszekkrol',
+})
 
 useHead({
+  htmlAttrs: computed(() => ({
+    lang: head.value?.htmlAttrs?.lang || 'pl',
+    dir: head.value?.htmlAttrs?.dir || 'ltr'
+  })),
   meta: [
-    { charset: "utf-8" },
-    { 'http-equiv': 'Content-type', content: 'text/html;charset=UTF-8' },
-    { name: "viewport", content: "width=device-width, initial-scale=1" },
     { name: "author", content: "Leszek W. Król" },
-    {
-      hid: "title",
-      name: "title",
-      content: t('meta.title'),
-    },
-    {
-      hid: "description",
-      name: "description",
-      content: t('meta.description'),
-    },
-    {
-      hid: 'og:site_name',
-      property: 'og:site_name',
-      content: t('meta.site_name'),
-    },
-    {
-      hid: 'og:locale',
-      property: 'og:locale',
-      content: 'pl_PL',
-    },
-    {
-      hid: 'og:type',
-      property: 'og:type',
-      content: 'website',
-    },
-    {
-      hid: 'og:title',
-      property: 'og:title',
-      content: t('meta.title'),
-    },
-    {
-      hid: 'og:description',
-      property: 'og:description',
-      content: t('meta.description'),
-    },
-    {
-      hid: 'og:url',
-      property: 'og:url',
-      content: 'https://www.skutecznyplan.pl',
-    },
-    {
-      hid: 'og:image',
-      property: 'og:image',
-      content: 'http://www.skutecznyplan.pl/img/skuteczny-plan-og.png',
-    },
-    {
-      hid: 'og:image:secure_url',
-      property: 'og:image:secure_url',
-      content: 'http://www.skutecznyplan.pl/img/skuteczny-plan-og.png',
-    },
-    {
-      hid: 'og:image:type',
-      property: 'og:image:type',
-      content: 'image/png',
-    },
-    {
-      hid: 'og:image:alt',
-      property: 'og:image:alt',
-      content: t('meta.image_alt'),
-    },
-    {
-      hid: 'twitter:card',
-      name: 'twitter:card',
-      content: 'summary_large_image',
-    },
-    {
-      hid: 'twitter:url',
-      name: 'twitter:url',
-      content: 'https://www.skutecznyplan.pl',
-    },
-    {
-      hid: 'twitter:image',
-      name: 'twitter:image',
-      content: 'http://www.skutecznyplan.pl/img/skuteczny-plan-twitter.png',
-    },
-    {
-      hid: 'twitter:domain',
-      name: 'twitter:domain',
-      content: 'skutecznyplan.pl',
-    },
-    {
-      hid: 'twitter:title',
-      name: 'twitter:title',
-      content: t('meta.title'),
-    },
-    {
-      hid: 'twitter:description',
-      name: 'twitter:description',
-      content: t('meta.description'),
-    },
-    {
-      hid: 'twitter:site',
-      name: 'twitter:site',
-      content: '@leszekkrol',
-    },
-    {
-      hid: 'twitter:creator',
-      name: 'twitter:creator',
-      content: '@leszekkrol',
-    },
   ],
 })
 </script>

@@ -7,9 +7,6 @@ export default defineNuxtConfig({
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
         { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }
       ],
-      script: [
-        { hid: 'splitbee', src: 'https://cdn.splitbee.io/sb.js', defer: true, 'data-token': 'MT7CHWGFC9OO' }
-      ]
     },
   },
   modules: [
@@ -18,7 +15,7 @@ export default defineNuxtConfig({
     '@nuxtjs/robots',
     '@nuxtjs/i18n',
     '@pinia/nuxt',
-    '@funken-studio/sitemap-nuxt-3'
+    '@nuxtjs/sitemap'
   ],
   css: [
     '~/assets/main.css',
@@ -32,48 +29,36 @@ export default defineNuxtConfig({
   i18n: {
     baseUrl: 'https://www.skutecznyplan.pl/',
     defaultLocale: 'pl',
-    fallbackLocale: 'pl',
     locales: [
       {
         code: 'pl',
-        iso: 'pl-PL',
+        language: 'pl-PL',
         file: 'pl-PL.json'
       },
       {
         code: 'en',
-        iso: 'en-EN',
+        language: 'en-EN',
         file: 'en-EN.json'
       },
       {
         code: 'de',
-        iso: 'de-DE',
+        language: 'de-DE',
         file: 'de-DE.json'
       },
       {
         code: 'fr',
-        iso: 'fr-FR',
+        language: 'fr-FR',
         file: 'fr-FR.json'
       },
       {
         code: 'it',
-        iso: 'it-IT',
+        language: 'it-IT',
         file: 'it-IT.json'
       }
     ],
-    langDir: 'locales/',
+    langDir: 'locales',
   },
-  robots: {
-    UserAgent: '*',
-    Allow: '/',
-    Sitemap: 'https://www.skutecznyplan.pl/sitemap.xml'
-  },
-  sitemap: {
-    hostname: 'https://www.skutecznyplan.pl', 
-    cacheTime: 1,
-    defaults: {
-      changefreq: 'monthly',
-      priority: 1,
-      lastmod: new Date().toISOString(),
-    },
+  site: {
+    url: 'https://www.skutecznyplan.pl',
   },
 })

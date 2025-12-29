@@ -6,8 +6,10 @@
       :description="article.description"
       :url="article.url"
      />
-    <article class="mx-auto max-w-3xl pt-10 px-4 pb-12 sm:py-24 text-gray-300">
-      <ContentDoc id="blog" :head="false" :path="$i18n.locale + '/' + article.slug" />
+    <article id="blog" class="mx-auto max-w-3xl pt-10 px-4 pb-12 sm:py-24 text-gray-300">
+      <ContentRenderer v-if="data" :value="data" />
+      <div v-else-if="pending" class="text-gray-500">Loading content...</div>
+      <div v-else-if="error" class="text-red-500">Error loading content: {{ error }}</div>
       <div class="p-10">
         <div class="flex flex-col space-y-4 md:space-y-0 md:space-x-6 md:flex-row">
           <img src="~/assets/img/avatar.jpg" alt="Leszek W. Król" class="self-center flex-shrink-0 w-24 h-24 border rounded-full md:justify-self-start">
@@ -22,7 +24,6 @@
 </template>
 
 <script setup>
-
 import { useArticlesStore } from '~/store/articles'
 
 definePageMeta({
@@ -30,103 +31,73 @@ definePageMeta({
 })
 
 const route = useRoute();
-const { t, i18n } = useI18n()
+const { t, locale } = useI18n()
 const store = useArticlesStore()
-const article = store.getArticleBySlug(route.params.slug)
+
+// Find article by slug in current locale
+let articleId = null
+for (let id = 1; id <= 8; id++) {
+  const slug = t(`articles.epizode_${id}.slug`)
+  if (slug === route.params.slug) {
+    articleId = id
+    break
+  }
+}
+
+if (!articleId) {
+  throw createError({ statusCode: 404, statusMessage: 'Page Not Found' })
+}
+
+const articleBase = store.getArticleById(articleId)
+
+const article = computed(() => ({
+  ...articleBase,
+  title: t(`articles.epizode_${articleBase.id}.title`),
+  description: t(`articles.epizode_${articleBase.id}.description`),
+  slug: t(`articles.epizode_${articleBase.id}.slug`),
+}))
+
+const contentPath = computed(() => `/${locale.value}/${route.params.slug}`)
+
+// Fetch content using queryCollection from Nuxt Content v3
+// Content is in content/{lang}/{slug}.md
+const { data, pending, error } = await useAsyncData(`content-${route.params.slug}-${locale.value}`, () => {
+  return queryCollection('content').path(contentPath.value).first()
+}, {
+  watch: [locale, () => route.params.slug]
+})
+
+const currentUrl = computed(() => `https://www.skutecznyplan.pl${route.fullPath}`)
+const ogImage = computed(() => `https://www.skutecznyplan.pl/img/skuteczny-plan-og-${article.value.id}.png`)
+const twitterImage = computed(() => `https://www.skutecznyplan.pl/img/skuteczny-plan-twitter-${article.value.id}.png`)
+
+useSeoMeta({
+  title: () => `${article.value.title} | Skuteczny Plan`,
+  description: () => article.value.description,
+  ogTitle: () => `${article.value.title} | Skuteczny Plan`,
+  ogDescription: () => article.value.description,
+  ogType: 'article',
+  ogUrl: currentUrl,
+  ogImage: ogImage,
+  ogImageSecureUrl: ogImage,
+  ogImageAlt: () => `${article.value.title} | ${article.value.description}`,
+  ogSiteName: 'Skuteczny Plan',
+  articleAuthor: 'Leszek W. Król',
+  articlePublishedTime: () => article.value.publish_date,
+  twitterCard: 'summary_large_image',
+  twitterTitle: () => `${article.value.title} | Skuteczny Plan`,
+  twitterDescription: () => article.value.description,
+  twitterImage: twitterImage,
+  twitterSite: '@leszekkrol',
+  twitterCreator: '@leszekkrol',
+})
 
 useHead({
-  title: article.title + " | Skuteczny Plan",
-  meta: [
+  link: [
     {
-      hid: "title",
-      name: "title",
-      content: article.title + " | Skuteczny Plan",
-    },
-    {
-      hid: "description",
-      name: "description",
-      content: article.description,
-    },
-    {
-      hid: 'article:published_time',
-      property: 'article:published_time',
-      content: article.publish_date,
-    },
-    {
-      hid: 'article:author',
-      property: 'article:author',
-      content: 'Leszek W. Król',
-    },
-    {
-      hid: 'og:site_name',
-      property: 'og:site_name',
-      content: 'Skuteczny Plan',
-    },
-    {
-      hid: 'og:title',
-      property: 'og:title',
-      content: article.title + " | Skuteczny Plan",
-    },
-    {
-      hid: 'og:description',
-      property: 'og:description',
-      content: article.description,
-    },
-    {
-      hid: 'og:publish_date',
-      property: 'og:publish_date',
-      content: article.publish_date,
-    },
-    {
-      hid: 'og:url',
-      property: 'og:url',
-      content: 'https://www.skutecznyplan.pl' + route.params.fullPath,
-    },
-    {
-      hid: 'og:image',
-      property: 'og:image',
-      content: 'http://www.skutecznyplan.pl/img/skuteczny-plan-og-' + article.id + '.png',
-    },
-    {
-      hid: 'og:image:secure_url',
-      property: 'og:image:secure_url',
-      content: 'http://www.skutecznyplan.pl/img/skuteczny-plan-og-' + article.id + '.png',
-    },
-    {
-      hid: 'og:image:type',
-      property: 'og:image:type',
-      content: 'image/png',
-    },
-    {
-      hid: 'og:image:alt',
-      property: 'og:image:alt',
-      content: article.title + " | " + article.description,
-    },
-    {
-      hid: 'twitter:card',
-      name: 'twitter:card',
-      content: 'summary_large_image',
-    },
-    {
-      hid: 'twitter:url',
-      name: 'twitter:url',
-      content: 'https://www.skutecznyplan.pl' + route.params.fullPath,
-    },
-    {
-      hid: 'twitter:image',
-      name: 'twitter:image',
-      content: 'http://www.skutecznyplan.pl/img/skuteczny-plan-twitter-' + article.id + '.png',
-    },
-    {
-      hid: 'twitter:title',
-      name: 'twitter:title',
-      content: article.title + " | Skuteczny Plan",
-    },
-    {
-      hid: 'twitter:description',
-      name: 'twitter:description',
-      content: article.description,
-    },
+      rel: 'canonical',
+      href: currentUrl
+    }
   ]
 })
 </script>

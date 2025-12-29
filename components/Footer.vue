@@ -9,29 +9,19 @@
           <NuxtLink 
             :to="localePath('pryncypia')" 
             :title="$t('section.footer.principles')" 
-            data-splitbee-event="Pryncypia"
             class="mr-8 underline">{{ $t('section.footer.principles') }}</NuxtLink>
         </li>
         <li>
           <NuxtLink 
             :to="localePath('zasady-korzystania')"
             :title="$t('section.footer.terms-of-use')"
-            data-splitbee-event="Zasady korzystania" 
             class="mr-8 underline">{{ $t('section.footer.terms-of-use') }}</NuxtLink>
         </li>
         <li>
           <NuxtLink 
             :to="localePath('polityka-prywatnosci')"
             :title="$t('section.footer.privacy-policy')"
-            data-splitbee-event="Polityka prywatności" 
             class="mr-8 underline">{{ $t('section.footer.privacy-policy') }}</NuxtLink>
-        </li>
-        <li>
-          <a 
-            href="https://dhosting.pl/pp-leszekkrol" 
-            :title="$t('section.footer.proudly-powered')" 
-            data-splitbee-event="Polecam dhosting.pl" 
-            class="underline">{{ $t('section.footer.proudly-powered') }}</a>
         </li>
       </ul>
       <ul class="flex flex-wrap items-center gap-x-5 justify-left my-6 text-gray-400">
@@ -39,7 +29,6 @@
           <a 
             href="https://www.carbonneutral.com" 
             :title="$t('section.footer.carbon-neutral')" 
-            data-splitbee-event="Carbon Neutral" 
             class="underline">
               <img 
                 src="~/assets/svg/carbon-neutral.svg" 
@@ -51,7 +40,6 @@
           <a 
             href="https://github.com/leszekkrol/skutecznyplan.pl/" 
             :title="$t('section.footer.open-source')" 
-            data-splitbee-event="Open Source" 
             class="underline">
               <img 
                 src="~/assets/svg/open-source.svg" 
@@ -64,3 +52,7 @@
     </div>
   </footer>
 </template>
+
+<script setup>
+const localePath = useLocalePath()
+</script>

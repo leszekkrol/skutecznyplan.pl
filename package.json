@@ -1,7 +1,7 @@
 {
   "name": "skuteczny-plan",
   "description": "Website of the Skuteczny Plan podcast hosted by Leszek W. Król",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "license": "MIT",
   "keywords": [
     "i18n",
@@ -10,14 +10,13 @@
     "website-design",
     "tailwindcss",
     "pinia-vuejs",
-    "nuxt3-content",
-    "nuxt3",
+    "nuxt4",
     "nuxtjs"
   ],
   "author": "Leszek W. Król <contact@leszekkrol.com>",
   "engines": {
-    "node": ">= 14.0.0",
-    "npm": ">= 6.0.0"
+    "node": ">= 18.0.0",
+    "npm": ">= 9.0.0"
   },
   "browserslist": [
     "> 1%",
@@ -29,20 +28,22 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
+    "start": "node .output/server/index.mjs",
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@nuxt/content": "^2.13.2",
-    "@nuxtjs/i18n": "^8.5.5",
-    "@nuxtjs/robots": "^4.1.7",
-    "@nuxtjs/tailwindcss": "^6.12.1",
-    "@tailwindcss/typography": "^0.5.15",
-    "nuxt": "3.13.2"
+    "@nuxt/content": "^3.10.0",
+    "@nuxtjs/i18n": "^10.2.1",
+    "@nuxtjs/robots": "^5.6.7",
+    "@nuxtjs/sitemap": "^7.5.0",
+    "@nuxtjs/tailwindcss": "^6.14.0",
+    "@tailwindcss/typography": "^0.5.19",
+    "nuxt": "^4.2.2"
   },
   "dependencies": {
-    "@funken-studio/sitemap-nuxt-3": "^4.0.4",
-    "@pinia/nuxt": "^0.5.5",
-    "pinia": "^2.2.3"
+    "@pinia/nuxt": "^0.11.3",
+    "better-sqlite3": "^12.5.0",
+    "pinia": "^3.0.4"
   },
   "repository": {
     "type": "git",
